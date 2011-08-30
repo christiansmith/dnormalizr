@@ -1,0 +1,653 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: Orris, Greta J.
+        Originator: Grauch, Richard I.
+        Title: Rare earth element mines, deposits, and occurrences
+        Publication_Date: 2002
+        Series_Information:
+          Series_Name: Open-File Report
+          Issue_Identification: 02-189
+        Publication_Information:
+          Publisher: Geological Survey (U.S.)
+          Publication_Place: Reston, Virginia
+        Online_Linkage: http://tin.er.usgs.gov/ree/
+        Online_Linkage: http://pubs.usgs.gov/of/2002/of02-189/
+    Description:
+      Abstract:
+        This dataset contains location, geologic and mineral economic data
+        for world rare earth mines, deposits, and occurrences. The data in
+        this compilation were derived from published and non-published
+        sources.  Geographic coordinates are provided for 577 of the 799
+        deposits described here.
+      Purpose:
+        This dataset was compiled for the University of Arizona's Center for
+        Mineral Resources Rare Earth monograph, a summary  document intended
+        to reflect our current knowledge of the geology and mineral
+        economics of the rare earths, including yttrium.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Single_Date/Time:
+          Calendar_Date: 2002
+      Currentness_Reference: publication date
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: As needed
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -166.5
+        East_Bounding_Coordinate: 175.8667
+        North_Bounding_Coordinate: 71
+        South_Bounding_Coordinate: -41.1
+    Access_Constraints: none
+    Use_Constraints: none
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: Alexandria Digital Library Feature Type Thesaurus
+        Theme_Keyword: mineral deposit areas
+        Theme_Keyword: mine sites
+      Place:
+        Place_Keyword_Thesaurus: Augmented FIPS 10-4 and FIPS 6-4
+        Place_Keyword: fLD50 = Africa
+        Place_Keyword: fLD70 = Asia
+        Place_Keyword: fLD80 = Asia Minor and Middle East
+        Place_Keyword: fLD60 = Australia and New Zealand
+        Place_Keyword: fLD20 = Central America
+        Place_Keyword: fLD40 = Europe
+        Place_Keyword: fLD10 = North America
+        Place_Keyword: fLD30 = South America
+        Place_Keyword: fLD90 = Southeast Asia
+      Theme:
+        Theme_Keyword_Thesaurus: General glossary for mineral resources spatial data
+        Theme_Keyword: comma-delimited text
+        Theme_Keyword: DBF
+        Theme_Keyword: HTML table
+        Theme_Keyword: KML
+        Theme_Keyword: shapefile
+        Theme_Keyword: tab-delimited text
+      Theme:
+        Theme_Keyword_Thesaurus: Lithologic classification of geologic map units
+        Theme_Keyword: Intrusive carbonatite
+        Theme_Keyword: Volcanic carbonatite
+      Theme:
+        Theme_Keyword_Thesaurus: Mineral Resources Data System commodity types
+        Theme_Keyword: rare earth elements
+      Theme:
+        Theme_Keyword_Thesaurus: USGS Thesaurus
+        Theme_Keyword: cerium
+        Theme_Keyword: dysprosium
+        Theme_Keyword: economic geology
+        Theme_Keyword: erbium
+        Theme_Keyword: europium
+        Theme_Keyword: gadolinium
+        Theme_Keyword: geospatial datasets
+        Theme_Keyword: holmium
+        Theme_Keyword: lanthanum
+        Theme_Keyword: lutetium
+        Theme_Keyword: mineral resources
+        Theme_Keyword: natural resource assessment
+        Theme_Keyword: neodymium
+        Theme_Keyword: praseodymium
+        Theme_Keyword: prometium
+        Theme_Keyword: rare earth elements
+        Theme_Keyword: samarium
+        Theme_Keyword: terbium
+        Theme_Keyword: thulium
+        Theme_Keyword: ytterbium
+        Theme_Keyword: yttrium
+      Theme:
+        Theme_Keyword_Thesaurus: none
+        Theme_Keyword: alkaline complexes
+        Theme_Keyword: heavy minerals
+        Theme_Keyword: placers
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Greta J Orris
+          Contact_Organization: U.S. Geological Survey
+        Contact_Address:
+          Address_Type: mailing address
+          Address: 520 N. Park Avenue
+          City: Tucson
+          State_or_Province: AZ
+          Postal_Code: 85719-5035
+          Country: USA
+        Contact_Voice_Telephone: 520-670-5583
+        Contact_Electronic_Mail_Address: greta@usgs.gov
+    Browse_Graphic:
+      Browse_Graphic_File_Name: http://tin.er.usgs.gov/ree/of02-189.png
+      Browse_Graphic_File_Description: Simplified map showing global distribution of REE deposits, (540 x 270 pixels)
+      Browse_Graphic_File_Type: PNG
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report:
+        The accuracy of file data attributes is highly variable,
+        especially for some parts of Africa and Asia. Most locations
+        are believed to be within 2-5 minutes of the exact location;
+        some locations are for the nearest town, and other locations
+        are of undetermined accuracy. Location errors are a result of
+        inadequate or incorrect original data, error caused by
+        multiple locations with the same name, and error introduced
+        by data entry or location format conversion.  The data tables
+        were spot-checked against the original data.
+    Logical_Consistency_Report: Point data are given in degrees and minutes.
+    Completeness_Report:
+      This report is the most complete compilation
+      of rare earth mines, deposits, and occurrences known.  However,
+      it is highly likely that there are additional occurrences of
+      rare earths that are not included.  In addition, data for many of
+      the sites are incomplete.  Determination of latitudes and
+      longitudes for some sites were impossible given the available data.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report:
+          The latitudes and longitudes were largely taken from
+          Published data or determined from descriptions of the
+          location using the maps available to us or internet-based
+          gazeteers such as the GEOnet Names server on the National
+          Imagery and Mapping Agency's database. The accuracy of
+          these locations varies with the detail of the original
+          information.
+    Lineage:
+      Process_Step:
+        Process_Description:
+          Data were separated into various fields (categories) within
+          the Excel spreadsheet.
+        Process_Date: 2001
+      Process_Step:
+        Process_Description:
+          Data reorganized in relational form for distribution through the
+          USGS Mineral Resources Online Data Catalog
+        Process_Date: 20101130
+        Process_Contact:
+          Contact_Information:
+            Contact_Person_Primary:
+              Contact_Person: Peter N Schweitzer
+              Contact_Organization: USGS ER GD
+            Contact_Position: Geologist
+            Contact_Address:
+              Address_Type: mailing address
+              Address: 12201 Sunrise Valley Drive
+              City: Reston
+              State_or_Province: VA
+              Postal_Code: 20192-0002
+              Country: USA
+            Contact_Voice_Telephone: 703-648-6533
+            Contact_Facsimile_Telephone: 703-648-6252
+            Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Point
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: Entity point
+        Point_and_Vector_Object_Count: 577
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Geographic:
+        Geographic_Coordinate_Units: decimal degrees
+      Geodetic_Model:
+        Horizontal_Datum_Name: World Geodetic System 1984
+        Ellipsoid_Name: WGS 84
+        Semi-major_Axis: 6378137
+        Denominator_of_Flattening_Ratio: 298.257
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: main
+        Entity_Type_Definition: Site description
+      Attribute:
+        Attribute_Label: rec_id
+        Attribute_Definition:
+          Record ID.
+
+          Numeric record identifier without scientific significance.
+          Integer values.
+          Int of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 799
+            Attribute_Measurement_Resolution: 1
+      Attribute:
+        Attribute_Label: deptype
+        Attribute_Definition:
+          Deposit type.
+
+          General category of mineral deposit.
+          Textual values of no more than 10 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: carb
+            Enumerated_Domain_Value_Definition: Carbonatite
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: carb-re
+            Enumerated_Domain_Value_Definition: Carbonatite with residual enrichment
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: alk-ig
+            Enumerated_Domain_Value_Definition: Alkalic igneous
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: hyd-feox
+            Enumerated_Domain_Value_Definition: Hydrothermal Fe-oxide
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: oth-ig-aff
+            Enumerated_Domain_Value_Definition: Other igneous-affiliated (including pegmatites and veins)
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: ion-ad
+            Enumerated_Domain_Value_Definition: Ion adsorption
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: met
+            Enumerated_Domain_Value_Definition: Metamorphic
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: placer-sh
+            Enumerated_Domain_Value_Definition: Placer, shoreline
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: placer-al
+            Enumerated_Domain_Value_Definition: Placer, alluvial
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: placer-unc
+            Enumerated_Domain_Value_Definition: Placer, uncertain origin
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: placer-pal
+            Enumerated_Domain_Value_Definition: Placer, paleoplacer
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: phos
+            Enumerated_Domain_Value_Definition: Phosphorite
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: oth-baux
+            Enumerated_Domain_Value_Definition: Other, Bauxite- or laterite-hosted
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: oth-f
+            Enumerated_Domain_Value_Definition: Other, F deposits
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: oth-pb
+            Enumerated_Domain_Value_Definition: Other, Pb deposits
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: oth-u
+            Enumerated_Domain_Value_Definition: Other, Uranium deposits
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: oth-unc
+            Enumerated_Domain_Value_Definition: Other, uncertain
+      Attribute:
+        Attribute_Label: depname
+        Attribute_Definition:
+          Site name.
+
+          Name of the location, deposit, or mine.
+          Textual values of no more than 89 characters.
+      Attribute:
+        Attribute_Label: country
+        Attribute_Definition:
+          Country.
+
+          Country.
+          Textual values of no more than 20 characters.
+      Attribute:
+        Attribute_Label: stprov
+        Attribute_Definition:
+          State or Province.
+
+          State or province.
+          Textual values of no more than 39 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              252 records have no value for stprov.
+      Attribute:
+        Attribute_Label: lat_dms
+        Attribute_Definition:
+          Latitude (DMS).
+
+          Latitude in degrees, minutes, and seconds, written like 39-48N.
+          Textual values of no more than 16 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              222 records have no value for lat_dms.
+      Attribute:
+        Attribute_Label: lon_dms
+        Attribute_Definition:
+          Longitude (DMS).
+
+          Longitude in degrees, minutes, and seconds, written like 77-24W.
+          Textual values of no more than 18 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              222 records have no value for lon_dms.
+      Attribute:
+        Attribute_Label: status
+        Attribute_Definition:
+          Site status.
+
+          Development status (mine, deposit, occurrence) possibly indicating
+          activity.
+          Textual values of no more than 60 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              188 records have no value for status.
+      Attribute:
+        Attribute_Label: age_info
+        Attribute_Definition:
+          Geologic age.
+
+          Geologic age estimates derived from radiometric dating.
+          Textual values of no more than 88 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              441 records have no value for age_info.
+      Attribute:
+        Attribute_Label: company
+        Attribute_Definition:
+          Company.
+
+          Name of company owning the property.
+          Textual values of no more than 70 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              632 records have no value for company.
+      Attribute:
+        Attribute_Label: comments
+        Attribute_Definition:
+          Comments.
+
+          Comments explaining descriptive fields.
+          Textual values of no more than 273 characters.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              317 records have no value for comments.
+      Attribute:
+        Attribute_Label: latitude
+        Attribute_Definition:
+          Geographic latitude.
+
+          Geographic latitude in decimal degrees WGS84 calculated from lat_dms,
+          south values negative.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              222 records have no value for latitude.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -42.233333333333
+            Range_Domain_Maximum: 71
+            Attribute_Units_of_Measure: decimal degrees
+      Attribute:
+        Attribute_Label: longitude
+        Attribute_Definition:
+          Geographic longitude.
+
+          Geographic longitude in decimal degrees WGS84 calculated from lon_dms,
+          west values negative.
+          Real numbers stored in double precision.
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: (no value)
+            Enumerated_Domain_Value_Definition:
+              Information not available for this record.
+              222 records have no value for longitude.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: -166.5
+            Range_Domain_Maximum: 175.86666666667
+            Attribute_Units_of_Measure: decimal degrees
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: minerals
+        Entity_Type_Definition: Minerals present at the site
+      Attribute:
+        Attribute_Label: rec_id
+        Attribute_Definition:
+          Record ID.
+
+          Record ID, a value of main:rec_id.
+          Integer values.
+          Int of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 799
+            Attribute_Measurement_Resolution: 1
+      Attribute:
+        Attribute_Label: role
+        Attribute_Definition:
+          Role of mineral.
+
+          Role of mineral: REE-bearing, other ore, or gangue.
+          Textual values of no more than 8 characters.
+      Attribute:
+        Attribute_Label: abbr
+        Attribute_Definition:
+          Abbreviation.
+
+          Abbreviation used by the original authors to shorten the texts.
+          Textual values of no more than 38 characters.
+      Attribute:
+        Attribute_Label: name
+        Attribute_Definition:
+          Mineral name.
+
+          Mineral name derived from tables 2 and 3 of the report and some
+          educated guesswork.
+          Textual values of no more than 38 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: hostrock
+        Entity_Type_Definition: Bibliography
+      Attribute:
+        Attribute_Label: rec_id
+        Attribute_Definition:
+          Record ID.
+
+          Record ID, a value of main:rec_id.
+          Integer values.
+          Int of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 799
+            Attribute_Measurement_Resolution: 1
+      Attribute:
+        Attribute_Label: value
+        Attribute_Definition:
+          Lithology.
+
+          Lithology terms (not controlled).
+          Textual values of no more than 100 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: resource
+        Entity_Type_Definition: Resource estimates
+      Attribute:
+        Attribute_Label: rec_id
+        Attribute_Definition:
+          Record ID.
+
+          Record ID, a value of main:rec_id.
+          Integer values.
+          Int of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 799
+            Attribute_Measurement_Resolution: 1
+      Attribute:
+        Attribute_Label: value
+        Attribute_Definition:
+          Tonnage and grades.
+
+          Tonnage and grades of commodity oxides, sometimes including year for
+          which those estimates were given.
+          Textual values of no more than 100 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: reflink
+        Entity_Type_Definition: Reference links, an associative table linking deposits with references one to many
+      Attribute:
+        Attribute_Label: rec_id
+        Attribute_Definition:
+          Record ID.
+
+          Record ID, a value of main:rec_id.
+          Integer values.
+          Int of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 799
+            Attribute_Measurement_Resolution: 1
+      Attribute:
+        Attribute_Label: role
+        Attribute_Definition:
+          Information provided.
+
+          Subject for which the reference was applicable: location, resources,
+          or general.
+          Textual values of no more than 8 characters.
+      Attribute:
+        Attribute_Label: reflink
+        Attribute_Definition:
+          Short reference.
+
+          Short reference like Woolley, 2001, links to bib:reflink.
+          Textual values of no more than 140 characters.
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: bib
+        Entity_Type_Definition: Bibliography
+      Attribute:
+        Attribute_Label: ref_id
+        Attribute_Definition:
+          Reference ID.
+
+          Reference ID, a unique identifier of this reference.
+          Integer values.
+          Int of width 4.
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 260
+            Attribute_Measurement_Resolution: 1
+      Attribute:
+        Attribute_Label: reflink
+        Attribute_Definition:
+          Short reference.
+
+          Short reference like Woolley, 2001, links to ref:reflink.
+          Textual values of no more than 64 characters.
+      Attribute:
+        Attribute_Label: reference
+        Attribute_Definition:
+          Bibliographic citation.
+
+          Bibliographic citation, generally in standard USGS format.
+          Textual values of no more than 663 characters.
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: USGS Information Services
+        Contact_Address:
+          Address_Type: mailing
+          Address: Box 25286, Denver Federal Center
+          City: Denver
+          State_or_Province: Colorado
+          Postal_Code: 80255-0046
+          Country: USA
+        Contact_Voice_Telephone: 1-888-ASK-USGS
+        Contact_Facsimile_Telephone: 1-303-202-4695
+        Contact_Electronic_Mail_Address: infoservices@usgs.gov
+    Distribution_Liability:
+      This report is preliminary and has not been reviewed for
+      conformity with U.S. Geological Survey editorial standards or
+      with the North American Stratigraphic Code.  Any use of trade,
+      product, or firm names is for descriptive purposes only and
+      does not imply endorsement by the U.S. Government.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: Shapefile
+          Format_Version_Number: 1.0
+          Format_Information_Content: Deposit locations with geologic and economic characteristics
+          File_Decompression_Technique: unzip
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://tin.er.usgs.gov/ree/ree.zip
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: WMS
+          Format_Version_Number: 1.1.1
+          Format_Information_Content: Deposit locations with geological and economic characteristics
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/cgi-bin/mapserv?map=ree.map&request=GetCapabilities&service=WMS&version=1.1.1
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: WFS
+          Format_Version_Number: 1.0.0
+          Format_Information_Content: Deposit locations with geological and economic characteristics
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://mrdata.usgs.gov/cgi-bin/mapserv?map=ree.map&request=GetCapabilities&service=WFS&version=1.0.0
+      Fees: none
+  Metadata_Reference_Information:
+    Metadata_Date: 20101129
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Schweitzer, Peter, N
+          Contact_Organization: Eastern Mineral Resources Team
+        Contact_Address:
+          Address_Type: mailing address
+          Address: 12201 Sunrise Valley Drive Mail Stop 954
+          City: Reston
+          State_or_Province: VA
+          Postal_Code: 20192
+          Country: USA
+        Contact_Voice_Telephone: 703-648-6533
+        Contact_Electronic_Mail_Address: pschweitzer@usgs.gov
+    Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998

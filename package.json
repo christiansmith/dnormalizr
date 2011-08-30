@@ -1,0 +1,16 @@
+{
+  "author": "Christian Smith <smith@anvil.io> (http://anvil.io)",
+  "name": "dnormalizr",
+  "description": "Dnormalizr creates object heirarchies from normalized data.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/christiansmith/dnormalizr.git"
+  },
+  "main": "lib/index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

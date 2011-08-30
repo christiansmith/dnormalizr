@@ -1,0 +1,800 @@
+rec_id,deptype,depname,country,stprov,lat_dms,lon_dms,status,age_info,company,comments,latitude,longitude
+1,carb,Adiounedj,Mali,,20-11N,0-04E,Occurrence,Permian?,,"Hydrothermal syn found in flu, cal, and qtz.",20.183333333333,0.066666666666667
+2,carb,"Agate Mountain",Namibia,,18-27S,12-05E,Occurrence,"Post-early Cretaceous",,"Carbonatite contains irregular patches of bastnasite.",-18.45,12.083333333333
+3,carb,Aley,Canada,"British Columbia",56-27N,123-44W,,"349 ± 12 Ma (K-Ar, mica) -- Mississippian",,"REE is associated with sovite veins.",56.45,-123.73333333333
+4,carb,"Amma (Amba) Dongar (Ambadungar)",India,,,,"Active F producer (2002)",,,"Veins in carbonatite.",,
+5,carb,Anezrouf,Mali,,20-04N,0-03E,Occurrence,"Permian or younger",,,20.066666666667,0.05
+6,carb,"Argor (South Bluff Creek, James Bay, Alpha-B)",Canada,Ontario,50-45N,81-01W,,,,,50.75,-81.016666666667
+7,carb,Bailundo,Angola,,12-09S,15-57E,Occurrence,Cretaceous,,"Small scale mining of magnetite has occurred.",-12.15,15.95
+8,carb,"Barra do Itapirapua",Brazil,"Sao Paulo",24-41S,49-13W,Occurrence,,,"ama 6% REE in hematite mine.  REE probably from hydrothermal solutions.",-24.683333333333,-49.216666666667
+9,carb,"Bayan Obo (Baotou)",China,"Inner Mongolia",41-45N,109-58E,"Current producer","Middle Proterozoic-- 1580 Ma",,"MRDS gives location as 41-38N, 110-00E.",41.75,109.96666666667
+10,carb,"Bear Lodge Mountains (southern)","United States",Wyoming,44-29N,104-27W,"Large, low-grade resource of REE-Th","38.3 to 50.5 Ma  (K-Ar, san,)",,"Veins and disseminated deposits.  Samples ranged from 112 to 30000 ppm with REE more abundant than Th. Area incompletely explored.",44.483333333333,-104.45
+11,carb,"Bearpaw Mountains (Rocky Boy)","United States",Montana,48-10N,109-44W,Occurrence,"Eocene-- 49-55 Ma (K-Ar)",,"Lat-long is for the Rocky Boy stock.",48.166666666667,-109.73333333333
+12,carb,"Big Spruce Lake",Canada,"Northwest Territories",63-33N,115-55W,Occurrence,"1785 Ma (K-Ar, bio, nepheline syenite)",,,63.55,-115.91666666667
+13,carb,Bonga,Angola,Huila?,4-16S,13-58E,Occurrence,,,"Carbonatite plug.",-4.2666666666667,13.966666666667
+14,carb,"Bou Naga",Mauritania,,20-48N,13-42W,"Past small producer?",,,"LREE dominant.  Deposit was worked for 18 months 1968-1970.  AOMR gave location of 18-59N, 13-19W.",20.8,-13.7
+15,carb,Capuia,Angola,Bié,11-54S,16-15E,Occurrence,,,"High grades of REE and Th have been reported.",-11.9,16.25
+16,carb,"Carb Lake",Canada,Ontario,54-48N,92-00W,Occurrence,"1824 Ma",,"Intrusion does not crop out.  Locally REE concentrations ama 72%.",54.8,-92
+17,carb,"Cerro Manomo",Bolivia,"Santa Cruz",15-30S,60-43W,Occurrence,Cretaceous?,,"Ama 25% P2O5 locally, ama 0.12% U.  Part of the Velasco Alkaline Provine of eastern Bolivia.  Area has been silicified.",-15.5,-60.716666666667
+18,carb,Changit,Russia,,70-12N,100-06E,Occurrence,,,"In Maimecha-Kotui extrusive province.",70.2,100.1
+19,carb,"Chernigovskii (Novopoltavskii)",Ukraine,,47-14N,36-15E,Occurrence,"1820 - 2190 Ma",,,47.233333333333,36.25
+20,carb,Chiriguelo,Paraguay,,22-39S,55-57W,Occurrence,"128 ± 5 Ma (K-Ar, bio, sovite)",,"There is small scale development of laterite with this deposit.",-22.65,-55.95
+21,carb,Coola,Angola,Huambo,12-31S,15-16E,Occurrence,Cretaceous,,"Ama 12500 ppm La has been detected in samples.",-12.516666666667,15.266666666667
+22,carb,Dalkainle,Somalia,,10-24N,43-16E,Occurrence,,,,10.4,43.266666666667
+23,carb,"Deep Creek","United States",Oregon,42-03N,119-57W,Occurrence,,,"SE of Crane Mountain.",42.05,-119.95
+24,carb,"Eldor Carbonatite Complex",Canada,Quebec,56-36N,68-25W,Occurrence,Precambrian,,,56.6,-68.416666666667
+25,carb,"Elet'ozerskii (Elet'ozero)",Russia,,66-04N,31-57E,Occurrence,"1740-1860 Ma",,,66.066666666667,31.95
+26,carb,"Elk Creek","United States",Nebraska,40-18N,96-12W,,"Pre- Pennsylvanian",,"Near Usakos.  REE  0.35-1.86% in carbonatite 200 m below Quaternary and Pennsylvanian sediments.",40.3,-96.2
+27,carb,Eureka,Namibia,,21-58S,15-19E,"Potential resource",Cambrian-Ordovician,,"Carbonatite dikes on Eureka 99 farm, 38 km W of Usakos.  Resource estimate is to depth of 20 m.",-21.966666666667,15.316666666667
+28,carb,Fen,Norway,,59-17N,9-17E,"Past Nb-Fe producer; REE occurrence",,,"Past production of Fe and Nb.  REE are highest in rodberg that is red from finely dispersed hematite.",59.283333333333,9.2833333333333
+29,carb,"Francon Quarry - Orleans (Eastview)",Canada,Ontario,45-28N,75-33W,Occurrence,"Lower Cretaceous",,"Carbonatite dikes in limestone have high concentrations of La, Ce, Nb, Mo and Sr.",45.466666666667,-75.55
+30,carb,Gatineau,Canada,Quebec,,,,,,,,
+31,carb,"Gem Park","United States",Colorado,38-16N,105-33W,"Past prod of vrm, Ni, Ag","551 Ma (K-Ar, rie, fenite)",,"Carbonatitic dikes.  Concentrations of Th, REE, Cu, P, and vermiculite have not been fully appraised.",38.266666666667,-105.55
+32,carb,Glenover,"South Africa","Northern Transvaal",24-41S,27-21E,"Past P producer",Proterozoic,,"Apatite locally constitutes 20% of the ore.",-24.683333333333,27.35
+33,carb,"Gornoe Ozero (Gornoozerskii, Ozrnyi)",Russia,,59-56N,136-53E,Occurrence,"290 Ma (K-Ar, bio, nepheline syenite);                  350 Ma (K-Ar, phlo, carbonatite)",,,59.933333333333,136.88333333333
+34,carb,Goudini,"South Africa","Northern Transvaal",25-08S,26-12E,,,,"The Goudini volcano sits atop ultrabasic rocks on the eastern margin of the Bushveld Complex.",-25.133333333333,26.2
+35,carb,"Hicks Dome","United States",Illinois,37-36N,88-24W,"Potential resource","252 ± 13  Ma   and                269 ± 13 Ma (K-Ar, bio, mica peridotite)",,"Ore contains 0.42% REO and 0.15% ThO2.",37.6,-88.4
+36,carb,"Iron Hill (Powderhorn, Cebolla Creek)","United States",Colorado,38-15N,107-03W,"Ti resource/ prospect","Cambrian-- 570 Ma","Teck Resources Corp.",,38.25,-107.05
+37,carb,Itanhaem,Brazil,"Sao Paulo",24-08S,46-48W,Occurrence,"129.5 Ma (K-Ar, bio, tinguaite)",,"REE found in biotite tinguaite dikes.",-24.133333333333,-46.8
+38,carb,"Kalkfeld (Etaneno)",Namibia,,20-48S,16-07E,"Th-REE occurrence",Jurassic,,"11 km NW of Kalkfeld.  Fe ore and carbonatites are enriched in La, Ce, Neodymium, and thorite.",-20.8,16.116666666667
+39,carb,"Kapfrugwa (Gungwa)",Zimbabwe,,16-28S,32-09E,,,,"Probably metamorphosed carbonatite.  Apatite-magnetite rocks contain ama 11% P2O5, 600 ppm Th, and several thousand ppm Ce + La.",-16.466666666667,32.15
+40,carb,Keshya,Zambia,,15-53S,28-27E,Occurrence,,,"This unit has been mapped as a limestone, but chemistry is consistent with late-stage carbonatite.",-15.883333333333,28.45
+41,carb,"Khamna (Khamninskii)",Russia,,59-43N,136-25E,Occurrence,,,"Fluorite-carbonate veins and stockworks 0.1 to 1.5 km long and 1.4 - 30 m thick.",59.716666666667,136.41666666667
+42,carb,Khanneshin,Afghanistan,Helmand,30-28N,63-35E,Occurrence,"Early Quaternary- <5 Ma (?, mica, sovite)",,,30.466666666667,63.583333333333
+43,carb,Kirumba,"Congo (Zaire)",,1-05S,29-18E,Occurrence,"803 ± 22 Ma (Rb-Sr, whole rock)",,,-1.0833333333333,29.3
+44,carb,Kizilçaören,Turkey,Eskisehir,39-38N,31-23E,"Potential resource",Tertiary,"Maden Tetik ve Arama Enstititüsü","Bastnasite-fluorite-barite rock lenses associated with carbonatite dikes. Lat-long is for population center of same name.",39.633333333333,31.383333333333
+45,carb,Kugda,Russia,,70-43N,103-28E,Occurrence,"238 Ma (K-Ar, phlo)",,"In Maimecha-Kotui extrusive province.",70.716666666667,103.46666666667
+46,carb,"Lesnaya Varaka",Russia,,67-23N,33-04E,Occurrence,,,,67.383333333333,33.066666666667
+47,carb,Lofdal-Bergville,Namibia,Damaraland,20-21S,14-45E,Occurrence,"Late Proterozoic",,"Swarm of carbonatite dikes in alkaline rocks.  30 km W of Khorixas on Lofdal 491 and Bergville 490 farms.",-20.35,14.75
+48,carb,Lolekek,Uganda,,1-45N,34-27E,Occurrence,,,,1.75,34.45
+49,carb,"Longonjo (Mt. Chibilundo)",Angola,Huambo,12-51S,015-15E,Occurrence,Cretaceous,,,-12.85,15.25
+50,carb,"Lugin Gol",Mongolia,"East Govi",42-57N,108-34E,"Active exploration (1999)","Middle Triassic-- 230 Ma",,"In Gobi desert. 20 carbonatite dike zones with 400 separate mineralized pods.",42.95,108.56666666667
+51,carb,"Lupongola (Lupulonga, Chitado)",Angola,Huila,17-11S,13-42E,Occurrence,Cretaceous,,,-17.183333333333,13.7
+52,carb,Makonde,Tanzania,,10-03S,34-31E,Occurrence,,,"Magnesiocarbonatite contains 1500 ppm REE.",-10.05,34.516666666667
+53,carb,"Marinkas Quellen (Marinkas Kwela)",Namibia,,28-10S,17-25E,Occurrence,Cambrian,,,-28.166666666667,17.416666666667
+54,carb,Matchinskii,Kyrgyzstan,,39-32N,70-47E,Occurrence,,,"REE occur in carbonatite dikes cutting schists near margins of the intrusion.",39.533333333333,70.783333333333
+55,carb,"Mato Preto",Brazil,Parana,24-45S,49-12W,"Past F producer","65.6 and 67.0 Ma (K-Ar, phonolite)",,"F mine closed in 1999.",-24.75,-49.2
+56,carb,"Megiscane Lake",Canada,Quebec,48-34N,75-36W,Occurrence,"973 ± 36 Ma  and    978 ± 40 Ma  (K-Ar, bio and horn)",,"Spectrochemical analyses gave 0.13% CeO and 0.13% LaO.",48.566666666667,-75.6
+57,carb,Miaoya,China,Hubei,32-15N,110-12E,"Potential resource","231-278 Ma",,"Lat-long for Miaoya population center.  Syenite-carbonatite complex intruding Late Proterozoic metavolcanics and Devonian carbonaceous schist.",32.25,110.2
+58,carb,"Monte Verde",Angola,Huambo,12-11S,15-02E,Occurrence,"109-130 Ma",,,-12.183333333333,15.033333333333
+59,carb,"Mountain Pass","United States",California,35-29N,115-32W,"Current producer","Proterozoic-- 1400 Ma","Molycorp (2000)",,35.483333333333,-115.53333333333
+60,carb,"Mushgai Khudag (Mushgia Khudag, Mushugai Khuduk, Mushugai-Hudag)",Mongolia,"South Govi",44-20N,104-00E,Occurrence,"Late Mesozoic",,"Apatite has high REE.",44.333333333333,104
+61,carb,Namo-Vara,USSR,,,,,,,,,
+62,carb,"Narssarssuaq (Narssarssuk)",Greenland,,61-11N,45-25W,,Gardar,,,61.183333333333,-45.416666666667
+63,carb,Ngualla,Tanzania,,7-42S,32-50E,Occurrence,Proterozoic,,"Magnetite-apatite veins ama 20 m wide and several hundred meters long contain 12-35% P2O5.",-7.7,32.833333333333
+64,carb,Nizhnesayanskii,Russia,,53-31N,100-31E,Occurrence?,"675-720 Ma  (various)",,,53.516666666667,100.51666666667
+65,carb,"Nkombwa Hill (Nkumbwa, Nkumba)",Zambia,,10-09S,32-51E,Occurrence,"Late Proterozoic-- 679 ± 25 Ma  (K-Ar, phlo, carbonatite)",,,-10.15,32.85
+66,carb,"Nolan's Bore",Australia,"Northern Territory",22-35S,133-14E,Occurrence,,"Arafura Resources NL (1999)","130 km N of Alica Springs, 8 km W of Stuart Hwy.  In places REE grades excedes 10%.",-22.583333333333,133.23333333333
+67,carb,"Nooitgedacht (Gelukshoek, Nooitgedagt)","South Africa",,25-03S,27-30E,Occurrence,,,,-25.05,27.5
+68,carb,"North Fork area","United States",Idaho,45-24N,114-00W,,"90-99 Ma (Pb-alpha, mon)",,,45.4,-114
+69,carb,Nsengwa,Malawi,,15-25S,34-43E,Occurrence,,,,-15.416666666667,34.716666666667
+70,carb,"Okorusu Complex",Namibia,,20-02S,16-46E,"F producer; Potential REE resource","Early Cretaceous-- 126.6 ± 7.3 Ma (Rb-Sr)","Solvay Group (1997)","On Brandenburg 87 farm. Mineralization in beforsitic carbonatite dikes and carbonate-fluorite-bearing metasomatites.  Significant HREE content.",-20.033333333333,16.766666666667
+71,carb,"Ondurukurme Complex (Ondumakorume, Kameelberg)",Namibia,,20-46S,16-15E,"REE, P, Sr, Nb resource",,,"Ondumakorume complex forms a prominent hill on the Etaneno 44 farm, about 10 km NE of Kalkfeld.  Separation of ore is problematic.  Carbonatite contains 3% REO, 7% P2O5, 2.5% SrCO3.",-20.766666666667,16.25
+72,carb,"Palabora (Phalaborwa)","South Africa",,23-59S,31-07E,"Potential byproduct REE recovery","Early Proterozoic","Foskor Ltd. And Palabora Mining Co. ltd. (1995)","Possible by-product REE recovery. Apatite concentrates contain 0.4-0.9% REO.",-23.983333333333,31.116666666667
+73,carb,Qaqarssuk,Greenland,,65-23N,51-42W,Occurrence,"169 ± 7 Ma to         176 ± 7 Ma  (K-Ar)",,"Concentrations of Fe, V, Nb, U, & P in carbonatites and ultramafic rocks. Ages from 3 carbonatite bodies.",65.383333333333,-51.7
+74,carb,"Ravalli County","United States",Montana,45-30N,113-20W,Occurrence,,,"REE in carbonate veins and dikes in metamorphic rocks.",45.5,-113.33333333333
+75,carb,"Rock Canyon Creek (Candy)",Canada,"British Columbia",,,Occurrence,"Ordovician to Devonian",,"No link to igneous activity known, but many workers believe deposit related to hidden carbonatitic magmatism.  REE mineralization is carbonate-hosted vein and breccia-matrix mineralization with fluorite and lesser barite.",,
+76,carb,"Salitre I and II",Brazil,"Minas Gerais",19-02S,46-47W,"Ti resource; REE occurrence","82.7 ± 4.2 Ma    and      78.7 ± 4.0 Ma  (K-Ar, bio, bebedourite)",,"High REE.",-19.033333333333,-46.783333333333
+77,carb,"Salmon Bay","United States",Alaska,56-19-12N,133-10-06W,Occurrence,,,Veins.,56.32,-133.16833333333
+78,carb,"Sandkopsdrif (Zandkops Drift)","South Africa",,30-53S,17-57E,Occurrence,,,"Complex  about 1 km in diameter.",-30.883333333333,17.95
+79,carb,"Sangu Carbonatite Group, Karema Depression (includes Ikola, Ikambwa, Middle carbonatites)",Tanzania,,6-48S,30-31E,Occurrence,,,,-6.8,30.516666666667
+80,carb,Sarfartoq,Greenland,,66-30N,51-15W,"Nb resource; P-REE occurrence","598-604 Ma  (various)",,"Environmental restraints hinder commercial interest.",66.5,-51.25
+81,carb,Sarnu,India,Rajasthan,,,Occurrence,,,"Dikes ~10 cm wide.",,
+82,carb,Siilinjarvi,Finland,Kuopio,63-05N,27-40E,"P, LIME, PHLOG producer","Late Archean-- 2580 (U-Pb)","Kemira Group","Apatite contains 0.4% REE.",63.083333333333,27.666666666667
+83,carb,Sokolo,Kenya,,0-28S,34-23E,,"12.7 ± 0.6 Ma (K-Ar, bio, sovite)",,"Part of Wasaki carbonatite complex.",-0.46666666666667,34.383333333333
+84,carb,"Songwe Scarp",Tanzania,,8-81S,33-16E,,"Early to Middle Cretaceous",,,-9.35,33.266666666667
+85,carb,Soroy,Norway,,,,,,,,,
+86,carb,"Springer (Lavergne)",Canada,Ontario,46-27N,79-57W,Occurrence,,,"Near Brule Creek in Springer Township. Classification uncertain.",46.45,-79.95
+87,carb,"St. Honoré",Canada,Quebec,48-33N,71-04W,"Nb producer; Potential REE resource","Late Proterozoic-- 629-656 Ma (various)",Soquem,"REE range from 0.1-1.7%.  Complex is 8 km x 6.5 km.  Carbonatite core is surrounded by syenite and other alkaline rocks.",48.55,-71.066666666667
+88,carb,Stjernoy,Norway,,,,"Producer of nepheline syenite",,,,,
+89,carb,"Tamazert (Oued Tamazert, Tamazeght, Bou Agrao)",Morocco,,32-34N,4-39W,Occurrence,Tertiary,,"Carbonatite may be hydrothermally altered.",32.566666666667,-4.65
+90,carb,Taohulashan,China,"Inner Mongolia",,,"Potential resource","Late Proterozoic",,"Deposit is stratiform.",,
+91,carb,Tikshozerskii,Russia,,66-17N,31-40E,Occurrence,Proterozoic?,,,66.283333333333,31.666666666667
+92,carb,"Toisuk - Bol'shaya Zhidaya",USSR,,,,,,,,,
+93,carb,Tundulu,Malawi,,15-32S,35-48E,Occurrence,"Late Jurassic-Early Cretaceous-- 133 ± 7 Ma  (K-Ar, bio, sovite)",,,-15.533333333333,35.8
+94,carb,Uyaynah,"United Arab Emirates",,,,Occurrence,,,"Deposit metamorphosed.",,
+95,carb,"Venturi Township (Township 107, Spanish River)",Canada,Ontario,46-35N,81-43W,Occurrence,"Proterozoic-- 1560 Ma  (K-Ar, mic)",,,46.583333333333,-81.716666666667
+96,carb,Verkhnesayanskii,Russia,,53-27N,100-25E,Occurrence,"Late Proterozoic-- 725 ± 25 Ma  (K-Ar, arf, carbonatite)",,,53.45,100.41666666667
+97,carb,Virulundo,Angola,Namibe,16-18S,12-56E,Occurrence,,,,-16.3,12.933333333333
+98,carb,"Vishnevye Mountains (Ilmenogorskii-Vishnevogorskii)",Russia,,55-59N,60-34E,Occurrence,,,"In the Ural Mountains. Past producer of ceramic raw materials.",55.983333333333,60.566666666667
+99,carb,Vuoriyarvi,Russia,,6-48N,30-07E,Occurrence,"380-402 Ma (K-Ar, phlo & bio, clinpyroxenite)",,,6.8,30.116666666667
+100,carb,"Wajiertage (Wajiltag)",China,Xinjiang,39-30N,79-00E,"Potential resource",Hercynian?,,"Carbonatite veins and lenses associated with pyroxenite-gabbro complex intrude metamorphic rocks.",39.5,79
+101,carb,"Weishan (Chisan, Xishan, 1010)",China,Shandong,34-45N,117-12E,"Active REE Producer","110 Ma (K-Ar, musc, vein)",,"Tens of bastnasite-barite-carbonate veins on eastern shore of Weishan Lake.  Veins trend NW and are 1 cm to several m thick.  Host rocks are about 140 Ma (K-Ar,syenite)",34.75,117.2
+102,carb,Welgevonden,"South Africa",,25-26S,27-26E,Occurrence,,,"Soil-covered depression may conceal carbonatite or other intrusion. Carbonatite dikes contain ama 2370 ppm La, 149 ppm Nb, and 4.59% P2O5.",-25.433333333333,27.433333333333
+103,carb,Westcriffe,"United States",,,,,"Late Precambrian",,,,
+104,carb,"Wet Mountains","United States",Colorado,38-12N,105-24W,Occurrence,Cambrian,,"REE, Nb, and Th occur in veins and carbonatite dikes.   Province includes Gem Park, McClure Mtn-Iron Mtn, Democrat Creek, and other occurrences.",38.2,-105.4
+105,carb,Yangdun,China,Fujian,27-50N,118-30E,,,,"Deposit is stratiform.",27.833333333333,118.5
+106,carb,"Yinachange (Yenachang)",China,Yunnan,25-30N,102-00E,,Proterozoic,,"Deposit is stratiform.",25.5,102
+107,carb,Zijingshan,China,Shanxi,38-20N,110-50E,,"134.8 Ma (K-Ar)",,"Carbonatite veins contain 1-2% REO.",38.333333333333,110.83333333333
+108,carb-re,"Angico dos Dias",Brazil,Bahia,,,Occurrence,,,,,
+109,carb-re,Anitápolis,Brazil,"Santa Catarina",27-48S,49-05W,"P producer; REE occurrence","Early Cretaceous",,"Woolley gives location as 27-54S, 49-09W.",-27.8,-49.083333333333
+110,carb-re,"Araxa (Barreiro)",Brazil,"Minas Gerais",19-38S,46-56W,"Nb-P producer; REE-Ba occurrence","87.2 ± 4.4 Ma (K-Ar, bio, glimmerite)",CBMM,"Weathered carbonatite with 3 separate deposits. Barreiro Complex is circular and about 4.5 km in diameter. World's largest Nb reserve.",-19.633333333333,-46.933333333333
+111,carb-re,"Bingo (Bingu)","Congo (Zaire)",,0-36N,29-17E,Occurrence,,,"Deposit largely a phosphate resource.",0.6,29.283333333333
+112,carb-re,"Bukusu Complex (Busumbu, Busumu, Busuku)",Uganda,,0-53N,34-16E,"Past P producer",Tertiary,,"Residual soils ? 60 m thick.  Francolite occurs in a secondary phoscrete (conretionary hard pan).",0.88333333333333,34.266666666667
+113,carb-re,Buru,Kenya,,0-11S,35-10E,Occurrence,"Probably 5-19 Ma",,"Tuff is laterized.  Just SW of the Tinderet volcano.",-0.18333333333333,35.166666666667
+114,carb-re,Caiapo,Brazil,Goias,16-00S,51-45W,Occurrence,Post-Devonian,,"Anomalous Sr, Ba, REE in the lateritic cover.",-16,-51.75
+115,carb-re,Cargill,Canada,Ontario,49-18N,82-49W,"P potential; REE occurrence","1740 Ma (K-Ar, bio)",,"Lake sediments overlying residium are Cretaceous in age.",49.3,-82.816666666667
+116,carb-re,"Catalão I",Brazil,Goias,18-15S,47-47W,"Nb-P producer;  minor byproducer of REE (Ce); Ti resource","82.9 ± 4.2 Ma  (K-Ar, alkali syenite)",,"Plug- 6 km in diameter.  Woolley gives location as 18-08S, 47-50W.",-18.25,-47.783333333333
+117,carb-re,"Catalão II",Brazil,Goias,18-02S,47-52W,"Nb resource","87.1 Ma (fission track, apatite)",,"15 km N of Catalao I.",-18.033333333333,-47.866666666667
+118,carb-re,"Cerro Impacto",Venezuela,Bolivar,6-00N,65-10W,"Potential resource",,,"Very deeply weathered.",6,-65.166666666667
+119,carb-re,"Chilwa Island",Malawi,,15-20S,35-36E,Occurrence,"Early Cretaceous",,,-15.333333333333,35.6
+120,carb-re,"Cone Negosa (Negoza)",Mozambique,,15-32S,31-16E,,,,"Premoli classified this deposit as metasomatic.",-15.533333333333,31.266666666667
+121,carb-re,Goias,Brazil,"Sao Paulo",,,Occurrence,,,,,
+122,carb-re,Kaluwe,Zambia,,15-11S,30-01E,"P-REE occurrence",Cretaceous,,"In Rufunsa Rift.",-15.183333333333,30.016666666667
+123,carb-re,Kangankunde,Malawi,,15-08S,34-55E,"REE-Sr resource","Late Cretaceous- 123 ± 6 Ma (K-Ar, phlo)",,"Mon almost thorium-free.  Carbonatite contains average of 7% euhedral green mon crystals. High iron content.  Locally, REE of hydrothermal origin.",-15.133333333333,34.916666666667
+124,carb-re,Kapiri,Malawi,,15-17S,34-55E,,,,,-15.283333333333,34.916666666667
+125,carb-re,"Karonge (Gakara)",Burundi,,3-30S,29-27E,"Past small producer REE",Precambrian,"Societe Miniere de Muhinga et de Kigali (1988)","REE deposit in quartz-barite-bas-mon stockworks of uncertain affiliation, but assummed in references to have carbonatite source. Weathering has produced rhab and cer.  Production ceased, due to irregular distribution of grade, in 1978.",-3.5,29.45
+126,carb-re,"Luicuisse (Lucuisse)",Mozambique,,12-23S,36-11E,,,,"Premoli reports that deposit is metasomatic.  Residual deposits are commonly 7-8 m thick, but can be 30 m thick.",-12.383333333333,36.183333333333
+127,carb-re,Mabounie,Gabon,Moyen-Ogooue,00-42S,11-42E,"Nb resource; potential REE resource","Late Proterozoic",,,-0.7,11.7
+128,carb-re,"Magnet Cove","United States",Arkansas,34-27N,92-52W,"Past small producer rut, mag","90-105 Ma; Mid-Cretaceous  (various)",,,34.45,-92.866666666667
+129,carb-re,Maicuru,Brazil,Pará,00-28S,54-13W,,Proterozoic,,"Intrusions covered by laterite.",-0.46666666666667,-54.216666666667
+130,carb-re,Maraconai,Brazil,Pará,00-32S,53-24W,,,,"2 intrusions; lat-long is for the northern intrusion.  Deep lateritic cover.",-0.53333333333333,-53.4
+131,carb-re,"Martison Lake",Canada,Ontario,50-19N,83-24W,"Active P prospect",,"MCK Mining Corp. (1999)","Development hampered by lack of all-weather access.  100 km N of Hearst.  Residium is a coarse gray apatite sand ama 170 m thick.",50.316666666667,-83.4
+132,carb-re,"Matum (Marum, Mutum)",Brazil,Pará,01-53S,57-25W,Occurrence,"1026 ± 28 Ma  (K-Ar, fld)",,"Most of intrusion lies in Guyana.",-1.8833333333333,-57.416666666667
+133,carb-re,"Mbeya (Panda Hill)",Tanzania,,9-00S,33-14E,"Nb-P resource",,,"Nb reserve.",-9,33.233333333333
+134,carb-re,"Morro Dos Seis Lagos (Sao Gabriel da Cachoeira)",Brazil,Amazonas,00-38N,66-24W,"Potential Nb-REE resource",Cretaceous,,"3 carbonatitic alkaline pipes that form laterite-covered hills. Laterites average 230 m in depth.  Woolley gives location as 0-17N, 66-41W.",0.63333333333333,-66.4
+135,carb-re,"Mount Weld",Australia,"Western Australia",28-52S,122-33E,"REE-P resource","2064 Ma","Ashton Mining Ltd. (2000)","Mon has < 0.3% ThO2.  Pilot plant at site in 1993.",-28.866666666667,122.55
+136,carb-re,"Mrima Hill",Kenya,,04-25S,39-15W,"REE-Nb resource, past producer",,"Rhone-Poulenc (1981)",Supergene.,-4.4166666666667,-39.25
+137,carb-re,Oka,Canada,Quebec,45-30N,74-00W,"Past Nb producer; Potential REE resource","117 Ma, average (K-Ar)",,"Apatite from the Bond zone averages 8.6% REO. 1956 resource estimate was for Advance Red Lake GML holdings. Average age based on 28 determinations from 22 samples.",45.5,-74
+138,carb-re,"Ruri Complex",Kenya,,00-32S,34-20E,"Potential resource","4.1-11 Ma",,"Complex of twin, deeply eroded, carbonatitic volcanoes.",-0.53333333333333,34.333333333333
+139,carb-re,"Sallanlatvi (Sallanlatvinskii)",Russia,,66-57N,29-10E,Occurrence,,,"Apatite, barite, and REE are concentrated in the weathered crust.",66.95,29.166666666667
+140,carb-re,"Sebl'yavr Carbonatite Complex (Seblyavr)",Russia,,68-43N,32-08E,Occurrence,"383-388 Ma  (K-Ar, phlo, carbonatite)",,"Carbonatite veins.",68.716666666667,32.133333333333
+141,carb-re,"Serra Negra",Brazil,"Minas Gerais",18-55S,46-50W,"Ti resource w/ potential byproduct REE",Cretaceous,,"Hi LREE/HREE ratio.",-18.916666666667,-46.833333333333
+142,carb-re,Sokli,Finland,Lappi,67-45N,29-15E,"P resource","334-392 Ma; Holocene",,"REE content of the apatite is similar to that of the Khibina complex (Isokangas, 1978).",67.75,29.25
+143,carb-re,Sukulu,Uganda,Bukedi,0-39N,34-09E,"Past P producer","Cretaceous-Early Miocene?",,"Residual deposits 15-67 m thick.",0.65,34.15
+144,carb-re,Tapira,Brazil,"Minas Gerais",19-54S,46-52W,"Ti-P producer; Potential for Nb, REE, vrm","69.5 ± 3.5 Ma (K-Ar, bio, bebedourite)",,"At phosphate mine.",-19.9,-46.866666666667
+145,carb-re,"Tchivira (Chivara, Quicuco)",Angola,,14-19S,13-53E,Occurrence,Cretaceous,,,-14.316666666667,13.883333333333
+146,carb-re,Tomtor,Russia,,71-00N,116-35E,"REE-Nb resource","Early to Middle Paleozoic",,"300 sq km massif.  Weathered carbonatite contains ama 37% RE oxides.",71,116.58333333333
+147,carb-re,Twareietau,Guyana,,02-00N,57-00W,Occurrence,"1025 ± 28 Ma (K-Ar, fld)",,"In Muri alkaline complex.",2,-57
+148,carb-re,"Wigu Hill",Tanzania,,7-26S,37-34E,"REE resource",,,"Carbonatite dikes. Deposit show extensive replacement by hydrothermal solutions rich in REE, Sr, F, BA, and silica.",-7.4333333333333,37.566666666667
+149,carb-re,Yangibana,Australia,"Western Australia",23-53S,116-10E,"Potential resource","1.25 Ga  (U-Pb, zir)",,"Gossan; ore referred to as """"ironstones"""".",-23.883333333333,116.16666666667
+150,alk-ig,Akitskii,Russia,Baikal,56-01N,110-22E,Occurrence,"199 Ma  (K-Ar, bio, peralkaline syenite)",,,56.016666666667,110.36666666667
+151,alk-ig,Ablah,"Saudi Arabia",,20-05N,41-55E,,,,,20.083333333333,41.916666666667
+152,alk-ig,"Ambatofinandrahana igneous complex",Madagascar,,20-27S,46-57E,"Past producer, minor",,,"Small amounts of bastnasite recovered from pegmatites.",-20.45,46.95
+153,alk-ig,"Ampasindava area-  Bezavona complex",Madagascar,,13-48S,48-05E,Occurrence,,,,-13.8,48.083333333333
+154,alk-ig,"Amis Complex",Namibia,,21-10S,14-30E,Occurrence,"Early Cretaceous",,"On SW periphery of the Brandberg complex.",-21.166666666667,14.5
+155,alk-ig,"Arenopolis (Areianopolis)",Brazil,Goias,16-22S,51-32W,Occurrence,Cretaceous?,,"Rare earths concentrated in dikes within the syenite.",-16.366666666667,-51.533333333333
+156,alk-ig,"Azov Sea Coast Dikes",Ukraine,,47-11N,36-34E,Occurrence,,,"15 alkaline ultrabasic dikes form a belt 100 km wide and > 35 km long.",47.183333333333,36.566666666667
+157,alk-ig,Baerzhe,China,"Jilin (Inner Mongolia)",,,"REE, Zr, Nb Be resource","127 Ma",,"Veinlets and disseminations.",,
+158,alk-ig,"Bakhuis Mountains - K/3 Deposit",Surinam,,4-26N,57-04W,Occurrence,"Late Archean to Early Proterozoic-- 2000-2600 Ma",,,4.4333333333333,-57.066666666667
+159,alk-ig,"Bancroft-Haliburton  area",Canada,Ontario,,,,,,"See listing under uranium deposits.",,
+160,alk-ig,"Bokan Mountain (Ross-Adams)","United States",Alaska,54-55N,132-08W,"Potential resource REE, Past Prod. U","151 ± 5 Ma  (Rb-Sr)",,"REE-bearing pegmatites, dikes, and shear zones/fractures in central part of the complex and in veins in the outer parts & nearby country rocks.  Produced 98,000 mt of approx. 1% U3O8.  Because dikes generally < 1 m thick and mineralogically complex, economic potential low.",54.916666666667,-132.13333333333
+161,alk-ig,Bomin-Khara,Mongolia,,,,Occurrence,"Middle Paleozoic",,"In northwest Mongolia.",,
+162,alk-ig,"Brandberg Complex",Namibia,,21-08S,14-33E,,"Early Cretaceous",,,-21.133333333333,14.55
+163,alk-ig,Brockman,Australia,"Western Australia",18-19S,127-46E,"Potential resource","Lower Proterozoic","West Coast Holdings and Greater Pacific Investments (1988)","18 km SE of Hall's Creek in the East Kimberley.",-18.316666666667,127.76666666667
+164,alk-ig,Bunduk,Armenia,,40-45N,44-45E,Occurrence,"36 Ma  (K-Ar, whole rock)",,"REE mineralization in the oligoclasites.",40.75,44.75
+165,alk-ig,"Burpalinskii (Burpala)",Russia,Baikal,56-33N,110-45E,Occurrence,"325-327 Ma  (various)",,,56.55,110.75
+166,alk-ig,"Caballo Mountains","United States","New Mexico",32-32N,100-17W,Occurrence,,,"Potassic dikes with postulated alkaline body at depth.",32.533333333333,-100.28333333333
+167,alk-ig,"Cerro Bamba",Bolivia,"Santa Cruz",,,Occurrence,"Late Jurassic - Early Cretaceous",,"Melasyenite dike with bri and (or) les cuts nordmarkite.",,
+168,alk-ig,"Chilembwe (Petauke)",Zambia,Eastern,13-59S,31-41E,Occurrence,"Late Cambrian",,"?5 orebodies are intruded into syenite.",-13.983333333333,31.683333333333
+169,alk-ig,Churuata,Venezuela,Amazonas,03-27N,65-28W,Occurrence,"Proterozoic-- 1300  Ma",,"High values for U, Th, REE, Zr, and Sn have been detected in associated laterites.  Intrusion centered on very large NW-SE-trending fault.",3.45,-65.466666666667
+170,alk-ig,Cida,China,Sichuan/Miyi,27-00N,102-05E,"Potential producer","230 Ma",,,27,102.08333333333
+171,alk-ig,"Coldwell complex",Canada,Ontario,48-47N,86-30W,Occurrence,,,"Includes Marathon Niobium, Marathon, REE, Mink Creek, Port Munroe, Yres Point, Garden Cove and Peninsula Hill occurrences. Alkaline complex has area of 580 km2.",48.783333333333,-86.5
+172,alk-ig,"Cornudas Mtns - Diablo Plateau (Wind Mtn.)","United States","New Mexico, Texas","31-29N to 32-06N","105-08W to 105-38W",Occurrence,,,,31.791666666667,-105.38333333333
+173,alk-ig,Dara-Pioz,Tajikistan,,39-25N,70-44E,"Potential resource",Carboniferous,,"Alkali rare earth-rich minerals are reported.",39.416666666667,70.733333333333
+174,alk-ig,"Dong Pao",Vietnam,"Lai Chau",22-17N,103-34E,Prospect,Paleogene,"Vietnamese Gov't; LG Metal Group","Metasomatic + weathered ore in Phong Tho district, 40 km from Nam Xe deposits.  60 ore bodies of various sizes have been identified in the Dong Pao area.   They form irregular pods, lenses, and veins in shear zones.",22.283333333333,103.56666666667
+175,alk-ig,"Dora Bay","United States",Alaska,55-14N,132-13W,Prospect,,,,55.233333333333,-132.21666666667
+176,alk-ig,"Eden Lake",Canada,Manitoba,56-38N,100-15W,Occurrence,,"Strider Resources","A 32 kg sample contained 8% bri. Property largely unexplored.",56.633333333333,-100.25
+177,alk-ig,"Elisenvaara (Elisenvaarskii; includes Kaivimyaki/Kaivomaki and Raivimyaki/ Raivimaki)",Russia,Karelia,61-25N,29-55E,"Active P mine","1600-1900 Ma  (K-Ar, bio)",,"Averages 3.63% P2O5. Lat-long for the town of Elisenvaara.",61.416666666667,29.916666666667
+178,alk-ig,"Eljozero (Elet'ozero, Elet'ozerskii)",Russia,"Kola Peninsula",66-04N,31-57E,Occurrence,"1620-2080 Ma  (various)",,,66.066666666667,31.95
+179,alk-ig,"Fanshan (Fangshan)",China,Hebei,40-22N,115-13E,"Active P mine","Triassic-- 205-222 Ma",,"Produces relatively low grade P ore at relatively high cost for Hubei Province fertilizer producers.",40.366666666667,115.21666666667
+180,alk-ig,"Flowers Bay",Canada,Labrador,55-40N,59-50W,Occurrence,"1262± 7 Ma  (Rb-Sr)",,,55.666666666667,-59.833333333333
+181,alk-ig,"Gardiner complex",Greenland,,68-37N,33-09W,Occurrence,"50.3 ± 1.4 Ma  (Fission track, sph & apa)",,"Age is weighted mean.",68.616666666667,-33.15
+182,alk-ig,Ghurayyah,"Saudi Arabia",,27-55N,35-48E,,,,"Enriched in HREE relatively to LREE.",27.916666666667,35.8
+183,alk-ig,Gremyakha-Vyrmes,Russia,,68-38N,32-28E,Occurrence,"Range from 1750 ± 40 Ma (K-Ar, bio, urtite) to 1870 ± 40 Ma (K-Ar, neph, urtite)",,"The REE-Zr-pyrochlore mineralization in the ijolite-urtite rocks may be metasomatic.",68.633333333333,32.466666666667
+184,alk-ig,"Guelb Zeilaga",Mauritania,,19-00N,13-18W,Occurrence,,,Pipe?,19,-13.3
+185,alk-ig,Gzarta-Hudag,Mongolia,,,,Occurrence,"Late Paleozoic",,"In central Mongolia.",,
+186,alk-ig,"Igaliko complex - Motzfeldt center, N & S Qoroq, Igdlerfigssalik",Greenland,,61-08N,45-10W,"Nb-Ta resource","Proterozoic-- 1310 ± 31 Ma  (Rb-Sr, whole rock)",,"Pegmatites related to peralkaline rocks.",61.133333333333,-45.166666666667
+187,alk-ig,Ilimaussaq,Greenland,Gardar,63-00N,51-12W,"Zr, REE resource","Proterozoic-- 1168 ± 21 Ma","Highwood Resources Ltd.","One of the 10 alkaline intrusions of the Gardar Complex.  Apatite containing >16.0 wt % REO has been identified.  U-Be-Zr-Nb mineralization.  Jackson and Christiansen classify as carbonatite.  Woolley gives location as 60-56N, 45-45W.",63,-51.2
+188,alk-ig,Ilomba,Malawi,,9-31S,33-11E,Occurrence,"Late Proterozoic - Early Paleozoic",,,-9.5166666666667,33.183333333333
+189,alk-ig,Itremo,Madagascar,,20-35S,46-38E,,,,"Pegmatites related to peralkaline rocks; pegmatite-like dikes.",-20.583333333333,46.633333333333
+190,alk-ig,"Jabal Archenu",Libya,,22-16N,24-43E,,Tertiary,,,22.266666666667,24.716666666667
+191,alk-ig,"Jabal Hamra'","Saudi Arabia",,26-04N,38-36E,Occurrence,,,,26.066666666667,38.6
+192,alk-ig,"Jabal Sa'id (Jabal Sayid)","Saudi Arabia",,23-49N,40-56E,Occurrence,,,,23.816666666667,40.933333333333
+193,alk-ig,"Jabal Tawlah","Saudi Arabia",,28-14N,35-23E,Occurrence,,,"High HREE/LREE.",28.233333333333,35.383333333333
+194,alk-ig,Jacupiranga,Brazil,"Sao Paulo",24-42S,48-08W,"P-Lime producer;  REE, Ni  Occurrence","125-161 Ma",,,-24.7,-48.133333333333
+195,alk-ig,"Jarud Qi, no. 801",China,"Inner Mongolia/Jarud Qi",44-37N,120-58E,Occurrence,,,"Lat-long for the town of Jarud Qi.",44.616666666667,120.96666666667
+196,alk-ig,Junguni,Malawi,,15-02S,35-17E,Occurrence,"Late Jurassic - Early Cretaceous",,,-15.033333333333,35.283333333333
+197,alk-ig,Kamloops,Canada,"British Columbia",50-40N,120-04W,Occurrence,,,"Low grade Cu mineralization.",50.666666666667,-120.06666666667
+198,alk-ig,Karaganskii,Kyrgyzstan,,39-45N,70-00E,Occurrence,"Late Paleozoic",,,39.75,70
+199,alk-ig,Karsakpai,Kazakhstan,,47-53N,66-25E,Occurrence,"Early Devonian",,"REE associated with albitization of syenites.",47.883333333333,66.416666666667
+200,alk-ig,Khaldzan-Buregtey,Mongolia,,48-25N,91-58E,Occurrence,"Devonian-- 380-390 Ma",,"In western Mongolia.  Discovered in 1984.  Host rocks have been metasomatized.",48.416666666667,91.966666666667
+201,alk-ig,"Khan Bogdo",Mongolia,,43-12N,107-12E,Occurrence,"Late Paleozoic",,"In southern Mongolia.  Lat-long for town of Khan Bogdo.",43.2,107.2
+202,alk-ig,"Khibina (Khibiny)",Russia,"Kola Peninsula",67-43N,33-47E,"P, NEPH producer","364.5 Ma",,"Largest igneous apatite deposit in the world, in urtite-ijolite.  REE minerals largely in alkaline rocks not carbonatite (Kogarko and others, 1995).  Small bodies of carbonatites contain ama 9% REE, 6.5% Sr, 3% Ba.",67.716666666667,33.783333333333
+203,alk-ig,"Kipawa Lake",Canada,Ontario,46-48N,78-30W,"Potential resource","1240 Ma (complex)    995 Ma (min/alt)",,"Mineralization probably resulted from high-grade metamorphism without obvious igneous relics. Geochemistry of some eudialyte-rich rocks strongly suggests metasomatic origin.",46.8,-78.5
+204,alk-ig,Kodal,Norway,,59-15N,10-10E,"Potential resource",Permian,"Norsk Hydro (1978)",,59.25,10.166666666667
+205,alk-ig,Konder,Russia,,57-30N,134-25E,Occurrence,,,,57.5,134.41666666667
+206,alk-ig,Korgeredaba,Russia,Tuva,50-05N,97-15E,Occurrence,"304 ± 12 Ma  (K-Ar, bio)",,,50.083333333333,97.25
+207,alk-ig,"Korsun-Novomirgorodskii pluton margin",Ukraine,,48-14N,31-17E,Occurrence,,,"REE and Zr concentrated in syenite. Syenite enclosed by rapakivi granite.",48.233333333333,31.283333333333
+208,alk-ig,"Kovdor Complex (Kovdorskoe)",Russia,,67-34N,30-24E,Occurrence,"Middle Devonian",,,67.566666666667,30.4
+209,alk-ig,"Kpong area",Ghana,,6-06N,0-03E,Occurrence,,,"This deposit variously described as a carbonatite, a metasomatic introduction of calcite into a mylonite, and as altered alkaline volcanic rocks.",6.1,0.05
+210,alk-ig,"Kribi  (Mont des Eléphants, Mont de Rocher du Loup)",Cameroon,,02-57N,09-55E,Occurrence,,,,2.95,9.9166666666667
+211,alk-ig,Kutessai-II,Kyrgyzstan,,42-40N,76-10E,"Active mine (1998)",Permian,,,42.666666666667,76.166666666667
+212,alk-ig,Kyzyl-Ompul,Kyrgyzstan,Baikal,42-21N,75-55E,Occurrence,Permian,,,42.35,75.916666666667
+213,alk-ig,"Lackner Lake (Nemegos)",Canada,Ontario,47-45N,83-10W,"Nb-P potential","1170 ± 24 Ma (K-Ar, horn, pegmatite);    1190 ± 25 Ma  (K-Ar, rie, quartz syenite)","Multi-Minerals Ltd. (1982)","* Grade of REO is for non-metallic fraction (which is over 90 volume % apatite. ** Other ore zones with no REE not included.",47.75,-83.166666666667
+214,alk-ig,"Langesundsfjord District (Larvik)",Norway,"Oslo area",59-00N,09-45E,Occurrence,Permian?,,"Pegmatites related to peralkaline rocks.",59,9.75
+215,alk-ig,"Laramie Anorthosite Complex","United States","Wyoming/Albany County",,,Occurrence,"Middle Proterozoic",,"T20-22N R70-71W",,
+216,alk-ig,Lavrent'evskii,Russia,"Kola Peninsula",67-16N,37-01E,Occurrence,"Early Proterozoic- Karelian",,"Lat-long for the town of Lavrentevskiy.",67.266666666667,37.016666666667
+217,alk-ig,"Letitia Lake - Mann 1",Canada,Labrador,54-14N,62-23W,Occurrence,"Middle Proterozoic",,"Y-rich.  Prospected as U and Be deposit.  Average grades of 0.35-0.4% BeO proved in one zone.",54.233333333333,-62.383333333333
+218,alk-ig,"Los Archipelago (Los Islands, Iles de Los)",Guinea,"Tamra, Roume, & Kassa islands",9-28N,13-48W,Occurrence,"104.3 ± 1.7 Ma  (Rb-Sr, whole rock)",,"Islands extensively covered by bauxite.",9.4666666666667,-13.8
+219,alk-ig,Lovozero,Russia,,67-47N,34-45E,"Nb producer w/ byproduct REE from loparite","386 ±12 Ma to         406 ± 12 Ma  (K-Ar, neph, urtite-ijolite)",,"Loparite min. is in urtite- foyaite-lujavrite rocks.  Eudialyte lujavrite complex is being assessed for Zr and Y.  Towner gives longitude as 35-05E.",67.783333333333,34.75
+220,alk-ig,"Lutala (Serra da Neve)",Angola,Namibe,13-43S,13-10E,,,,"Lat-long is a central location for Serra da Neve.",-13.716666666667,13.166666666667
+221,alk-ig,Malotersyanskii,Ukraine,,48-20N,35-39E,Occurrence,"1740 Ma  (K-Ar, amph, nepheline syenite)",,"Probably associated with the Orekhovo-Pavlograd fault.  REE occurs in metasomatic rocks.",48.333333333333,35.65
+222,alk-ig,Maoniuping,China,Sichuan,,,"Active REE Producer","27.8-40.3 Ma (K-Ar, arf & bio)",,"Bastnasite-barite-carbonate veins associated with nordmarkite.",,
+223,alk-ig,Meponda,Mozambique,,13-27S,34-54E,Occurrence,Proterozoic,,,-13.45,34.9
+224,alk-ig,Mianning,China,Sichuan,28-33N,102-11E,Producer,,"Advanced Material Resources","Lat-long for Mianning population center.  At Wutoushan Mountain.",28.55,102.18333333333
+225,alk-ig,Miask,Russia,,,,,,,,,
+226,alk-ig,"Mount Prindle (Roy Creek)","United States",Alaska,65-29N,147-06W,,"86.7 ± 3.6 Ma       85.4 ± 6.4 Ma  (K-Ar, bio)",,"Selected material contained ama 25% REE and 15% Th.  LREE more abundant in the quartz-bearing syenites.",65.483333333333,-147.1
+227,alk-ig,"Mount St. Hilaire",Canada,Quebec,45-33N,73-10W,Occurrence,"120-134 Ma  (various)",,,45.55,-73.166666666667
+228,alk-ig,Mutum,Brazil,Para,01-53N,57-25W,Occurrence,"1026 ± 28 Ma  (K-Ar, fld)",,,1.8833333333333,-57.416666666667
+229,alk-ig,Nejoio,Angola,,13-40S,13-14E,Occurrence,"104.03 ± 0.8 Ma",,,-13.666666666667,13.233333333333
+230,alk-ig,"Nemegosenda Lake",Canada,Ontario,48-00N,83-05W,"Nb Resource w/ potential for byproduct REE","min. 1010 Ma  (K-Ar, neph)",,"20 Mt @ 0.47% Nb2O5.",48,-83.083333333333
+231,alk-ig,"Norra Kärr",Sweden,,,,Occurrence?,"1540 Ma",,"Eudialyte contains 1.3% Y.",,
+232,alk-ig,"Nosy Komba",Madagascar,,13-28S,48-20E,Occurrence,"10.4 Ma",,,-13.466666666667,48.333333333333
+233,alk-ig,"Pajarito Mountain","United States","New Mexico",33-14N,105-26W,"Potential resource",Proterozoic,,"Quartz-bearing syenite contains ama 20% eud and 5% flu.  Apatite containing ama 19.2% REO has been found in the peralkaline granites.  Check Mining Engineering, 1989, July, p. 515 for tonnage.",33.233333333333,-105.43333333333
+234,alk-ig,"Pilansberg Complex (Pilanesberg, Pilaan's berg)","South Africa",Transvaal,25-14S,27-04E,,Proterozoic,,"Britholite-bearing veins and small areas of eudialyte syenite.",-25.233333333333,27.066666666667
+235,alk-ig,"Pocos de Caldas (Morro do Ferro)",Brazil,"Minas Gerais, Sao Paolo",21-55S,46-34W,"Past producer U, Zr, Bauxite","60.8 Ma  (K-Ar, lujarite)                86.3 Ma  (Rb-Sr, lujavrite-khibinite)",,"Eudialyte contents range from 0 to 11% in the relatively small host bodies.  Was once one of world's biggest baddeleyite deposits, but now nearly depleted.  Weathered magnetite stockwork in alkaline rocks.",-21.916666666667,-46.566666666667
+236,alk-ig,Ponoiskii,Russia,,67-01N,39-12E,Occurrence?,"2405 Ma  (Pb, zir)",,"Classification uncertain.",67.016666666667,39.2
+237,alk-ig,Qiganlaing,China,"Inner Mongolia",,,"P-REE resource",Proterozoic,,"Alkalic pegmatite may be associated with carbonatite.",,
+238,alk-ig,"Red Wine",Canada,Labrador,54-05N,62-35W,Occurrence,"1345 ± 75 Ma, average (Rb-Sr, whole rock)",,"Has been U, Zr, Be, and REE prospect. Same as Shallow Lake?  Age is average of 11 whole rock samples with relic igneous textures.",54.083333333333,-62.583333333333
+239,alk-ig,"Rexspar (Birch Island)",Canada,"British Columbia",51-34N,119-54W,Occurrence,Mississippian?,,,51.566666666667,-119.9
+240,alk-ig,Saima,China,Liaoning,40-59N,124-12E,"REE, U, Th, Nb resource","217-245 Ma",,"Significant U, Th, Nb potential. Lat-long for town of Saima.",40.983333333333,124.2
+241,alk-ig,"Sakhariokskii (Sacharijok)",Russia,Kola/Karelia,67-40N,36-12E,Occurrence,"1740-2260 Ma  (K-Ar, neph)",,"Syenite is metasomatically altered.",67.666666666667,36.2
+242,alk-ig,Seligdar,Russia,Siberia,58-24N,125-18E,"P resource","Late Proterozoic",,"Potassic alkaline igneous complex.  Unclear if deposit high-temperature apatite-bearing carbonatite or phosphate mobilized from surrounding country rocks.",58.4,125.3
+243,alk-ig,"Shallow Lake",Canada,Labrador,,,Occurrence?,,,"Same as Red Wine?",,
+244,alk-ig,Shartolgoi,Mongolia,Uvs,49-03N,92-45E,Occurrence,,,,49.05,92.75
+245,alk-ig,Shvanidzorskii,Armenia,,39-00N,46-23E,Occurrence,"37-40 Ma  (various)",,,39,46.383333333333
+246,alk-ig,"Sierra de Tamaulipas",Mexico,Tamaulipas,23-12N,98-24W,Occurrence,"28.0 ± 0.8 Ma  (K-Ar, nephelinite)",,"Veins in outcrop of alkaline rocks with area of ? 9 km2.  Area has undergone fenitization (alkaline metasomatism).  Most veins <2 m wide.",23.2,-98.4
+247,alk-ig,"Songwe Syenite (includes Ilomba and Ulindi intrusions)",Malawi,,9-33S,33-16E,,,,"Central location for large outcrop area.",-9.55,33.266666666667
+248,alk-ig,"Srednetatarskii (Zaangarskii)",Russia,,58-24N,93-35E,Occurrence,"660-675 Ma  (various)",,"REE minerals in pegmatites.",58.4,93.583333333333
+249,alk-ig,Srednevorogovskii,Russia,Enisei,61-15N,90-02E,Occurrence,"526-567 Ma  (K-Ar, normarkite & syenite)",,,61.25,90.033333333333
+250,alk-ig,"Strange Lake (Lac Brisson)",Canada,"Quebec, Labrador",56-18N,64-07W,"Potential resource","1271±30 Ma  (K-Ar, amph, granite)","Iron Ore Co. of Canada and Ming Financial Corp. (1996)","Discovered in 1979.  250 km NE of Schefferville. Be deposit.  Complex only partially exposed. Peralkaline granite complex about 6 km in diameter.  Mineralization in roof zone of magma chamber.",56.3,-64.116666666667
+251,alk-ig,Sucunduri,Brazil,Amazonas,8-32S,59-28W,Occurrence,,,,-8.5333333333333,-59.466666666667
+252,alk-ig,"Sugar Loaf (Mumbwa North, NW Mumbwa)",Zambia,Central,14-45S,26-50E,Occurrence,,,"North of Mumbwa.  Phosphate mineralization in 3 forms:  apatite with Cu-Fe mineralization, apatite pegmatites, supergene Cu phosphates.  Too small and comparatively low grade for development.  Apatite in pegmatite has high concentrations of yttrium.  Discovered 1958.",-14.75,26.833333333333
+253,alk-ig,Synnyr,Russia,Khrebet,56-55N,111-20E,Occurrence,"300-400 Ma",,,56.916666666667,111.33333333333
+254,alk-ig,Tezhsar,Armenia,,40-41N,44-39E,Occurrence,"37-39 Ma  (K-Ar)",,"Veins in nepheline syenite.",40.683333333333,44.65
+255,alk-ig,"Thor Lake (Blachford Lake)",Canada,"Northwest Territories",62-06N,112-40W,"Potential. Byproduct of Be mining","Early Proterozoic- approx. 2100 Ma","Highwood Resources Ltd. And Hecla Mining Co. of Canada (1988)","Small, remote deposit.   The T Zone deposit has significant REE, Y, and Be mineralization.  Deposits are part of the Blachford Lake alkaline complex.",62.1,-112.66666666667
+256,alk-ig,"Tiguesmat el Akhdar (Tigsmat)",Mauritania,,24-51N,8-11W,Occurrence,"1912 ± 47 Ma (Rb-Sr, whole-rock)",,,24.85,-8.1833333333333
+257,alk-ig,Tleumbetskii,Kazakhstan,,50-46N,77-02E,Occurrence,"Early Permian",,"Rare earth phosphates and REE-greisen-type mineralization.",50.766666666667,77.033333333333
+258,alk-ig,Tommot,Russia,,58-23N,125-13E,Occurrence,,,"20 ore bodies and pegmatites in deposit.  Nokleberg gives location as 68-24N, 141-14E.",58.383333333333,125.21666666667
+259,alk-ig,"Toongi  (Dubbo)",Australia,"New South Wales",32-26S,148-36E,Prospect,,"Alkane Exploration NL (1999)","50 pegmatites.",-32.433333333333,148.6
+260,alk-ig,Topsails,Canada,Newfoundland,48-45N,57-00W,Occurrence,"421 ± 7 Ma, average (Rb-Sr)",,"Age is average of 5 samples.",48.75,-57
+261,alk-ig,Tsakhirt,Mongolia,Hovd,48-33N,91-56E,Occurrence,,,,48.55,91.933333333333
+262,alk-ig,"Ulaan Tolgoi",Mongolia,Uvs,49-32N,93-01E,Occurrence,,,,49.533333333333,93.016666666667
+263,alk-ig,Ulkanshoe,Russia,,56-19N,134-49E,,,,,56.316666666667,134.81666666667
+264,alk-ig,"Umm al Birak","Saudi Arabia",,23-22N,39-13E,,,,,23.366666666667,39.216666666667
+265,alk-ig,Vedi-Azatskii,Armenia,,39-59N,45-00E,Occurrence,"12 Ma  (K-Ar, whole rock)",,,39.983333333333,45
+266,alk-ig,"Wangu Hill","South Africa",,28-48S,31-20E,Occurrence,,,,-28.8,31.333333333333
+267,alk-ig,"Western Keiv (Rovozero, Platongora, Yumperuaiv)",Russia,"Kola Peninsula",67-47N,36-30E,"Produces amazonite; potential Zr-REE deposit?","2100 ± 50 Ma  (Sm-Nd)         2400 ± 50 Ma  (Pb, zir & tit)",,,67.783333333333,36.5
+268,alk-ig,"White Tundra",Russia,,67-28N,35-50E,Occurrence,"2430 Ma  (Pb, zir)",,,67.466666666667,35.833333333333
+269,alk-ig,"Wind Mountain (see Cornudas Mtns)","United States","New Mexico",32-02N,105-32W,Occurrence,,,"Eudialyte in dikes, sills, and laccoliths.",32.033333333333,-105.53333333333
+270,alk-ig,Yastrebets,Ukraine,,51-14N,28-51E,Occurrence,"1720 to1740 Ma  (Pb, zir, syenite)",,"REE and Zr mineralization in syenites. Massif nearly oval with an area of 4 sq km.",51.233333333333,28.85
+271,alk-ig,Yousuobao,China,Hebei,,,"P-REE resource","1827 Ma",,"Alkali pegmatite may be associated with carbonatite.",,
+272,hyd-feox,"Mineville dumps","United States","New York",44-04N,73-29W,"Past Fe producer; REE resource",Precambrian,Rhône-Poulenc,"Apatite in mill tailings averages from 4 to more than 11% REO. Magnetite-hematite orebody in metamorphic rocks.",44.066666666667,-73.483333333333
+273,hyd-feox,"Olympic Dam",Australia,"South Australia",30-27S,136-53E,"REO not recovered; potential byproduct","Middle Proterozoic - 1500 Ma","Western Mining Corp. - BP Group (1988)",,-30.45,136.88333333333
+274,hyd-feox,"Pea Ridge","United States",Missouri,,,"Potential resource","1.48 Ga",,"95 km SW of St. Louis.",,
+275,hyd-feox,"Scrub Oaks","United States","New Jersey",,,Byproduct,,,"Magnetite-hematite orebody in metamorphic rocks.",,
+276,oth-ig-aff,"Alice Springs",Australia,"Northern Territory",23-04S,134-33E,"Potential resource",,,"Allanite contains 20% rare earths and 1.5% Th.",-23.066666666667,134.55
+277,oth-ig-aff,Atlin-Ruffner,Canada,Ontario,45-01N,78-11W,Occurrence,,"Uranex Resources Ltd. (1984)","Pegmatite zone is 61 m long, 1.8 m wide, 49 m deep and contains allanite crystals of to 15 cm in size.",45.016666666667,-78.183333333333
+278,oth-ig-aff,Azovske,Ukraine,,45-35N,34-34E,"Potential producer",,,"Hosted in igneous rock.",45.583333333333,34.566666666667
+279,oth-ig-aff,"Big Creek","United States","Wyoming/Carbon County",,,Occurrence,,,"T30N, R80-81W",,
+280,oth-ig-aff,Cooglegong,Australia,"Western Australia",21-30S,119-24E,"Past producer, minor",,,"Produced a few hundred kilograms of yttrotantalite and gadolinite. Lat-long is for town of Cooglegong.",-21.5,119.4
+281,oth-ig-aff,"Crescent Peak","United States",Nevada,,,Occurrence,Precambrian?,,,,
+282,oth-ig-aff,Denegama,"Sri Lanka",Balangoda,6-43N,80-43E,Occurrence,,,"Pegmatites are weathered.",6.7166666666667,80.716666666667
+283,oth-ig-aff,"Diamond Creek","United States",Idaho/Caribou,45-15N,113-54W,Prospect,Precambrian,,,45.25,-113.9
+284,oth-ig-aff,"Guilherme Group",Mozambique,Zambezia,14-24S,40-21E,Occurrence,,,,-14.4,40.35
+285,oth-ig-aff,Guposhan,China,,,,Occurrence,,,"There are placers associated with this deposit.",,
+286,oth-ig-aff,"Hall Mountain Group","United States",Idaho,48-59N,116-26W,Occurrence,,,"Mining ceased in the 1940's.",48.983333333333,-116.43333333333
+287,oth-ig-aff,Huashan,China,Hebei,,,Occurrence,,,,,
+288,oth-ig-aff,"Ile (Namatacatue)",Mozambique,Zambezia,16-02S,37-05E,Occurrence,,,,-16.033333333333,37.083333333333
+289,oth-ig-aff,Kasagwe,Burundi,,3-25S,29-25E,Occurrence,,,,-3.4166666666667,29.416666666667
+290,oth-ig-aff,"Little Friar Mountain (Massie)","United States",Virginia,37-46N,79-06W,"Small Past Producer",,,"Pegmatite dike in hypersthene granodiorite.",37.766666666667,-79.1
+291,oth-ig-aff,"Llano County (Williams Mine, others)","United States",Texas,30-40-09N,098-28-22W,"Small Past Producer","Middle Proterozoic",,"Several tons of pegmatite were mined prior to 1909.",30.669166666667,-98.472777777778
+292,oth-ig-aff,M'Tomoti,Mozambique,Zambezia,15-30S,38-19E,Occurrence,,,,-15.5,38.316666666667
+293,oth-ig-aff,Macotaia,Mozambique,Zambezia,15-25S,38-25E,Occurrence,,,,-15.416666666667,38.416666666667
+294,oth-ig-aff,"MacDonald Pegmatite",Canada,Ontario,,,Occurrence,"877 Ma  (Pb)",,,,
+295,oth-ig-aff,Mazurivske,Ukraine,,,,"Potential producer",,,,,
+296,oth-ig-aff,"McKeel Lake",Canada,"New Brunswick",45-29-03N,66-10-55W,Occurrence,,,"Veins in hematized and chloritized fractures.",45.484166666667,-66.181944444444
+297,oth-ig-aff,"Mineral X","United States",Arizona,35-07N,114-04W,Occurrence,,,,35.116666666667,-114.06666666667
+298,oth-ig-aff,Nipissis,Canada,Quebec,51-00N,65-15W,Occurrence,,,"Hydrothermal apatite and magnetite mineralization.",51,-65.25
+299,oth-ig-aff,"Nisikkatch-Hoidas Lakes",Canada,Saskatchewan,69-50N,109-10W,Occurrence,,,"Apatite and carbonate-rich veins in zone ama 10 km long. Grab samples contain ama 12% REE.  40 km NE of Uranium City.",69.833333333333,-109.16666666667
+300,oth-ig-aff,"Nuwara Eliya","Sri Lanka",,7-18N,80-46E,Occurrence,,,"Pegmatites are weathered. Lat-long is for the town of Teldeniya.",7.3,80.766666666667
+301,oth-ig-aff,Odegarden,Norway,,58-57N,9-38E,,,,"Apatite contains ama 3000 ppm REE. Dikes formed from magmatic hydrothermal replacement.",58.95,9.6333333333333
+302,oth-ig-aff,"Petaca District","United States","New Mexico",36-30N,106-03W,Occurrence,Precambrian,,,36.5,-106.05
+303,oth-ig-aff,Pitinga,Brazil,Amazonas,00-45S,60-07W,"Potential. byproduct",,"Mineraçao Taboca SA","Greisenization of biotite granite produced primary mineralization.  Also weathered zone with assoc. placers",-0.75,-60.116666666667
+304,oth-ig-aff,"Ploskaya Mountain",Russia,"Kola Peninsula",,,,,,,,
+305,oth-ig-aff,"Pomona Tile Company","United States",California,34-20N,115-33W,Occurrence,,,,34.333333333333,-115.55
+306,oth-ig-aff,"Signal district","United States",Arizona,34-32N,113-33W,Occurrence,,,,34.533333333333,-113.55
+307,oth-ig-aff,"South Platte District","United States",Colorado,,,,"1010 Ma",,,,
+308,oth-ig-aff,Teldeniya,"Sri Lanka",Nugatenne,7-18N,80-46E,Occurrence,,,"Pegmatites are weathered. Lat-long is for the town of Teldeniya.",7.3,80.766666666667
+309,oth-ig-aff,Telixtlahuaca,Mexico,Oaxaca,17-18N,96-54W,,,,"Pegmatites?  Lat-long is for town of Telixtlahuaca.",17.3,-96.9
+310,oth-ig-aff,"Tie Siding","United States","Wyoming/Albany County",,,Occurrence,"Middle Proterozoic",,,,
+311,oth-ig-aff,"Valle Fertil",Argentina,"San Juan",31-00S,67-30W,Occurrence,,,"Mineralization is in pegmatites and veins.",-31,-67.5
+312,oth-ig-aff,"Wolf Mountain","United States",Alaska?,62-20N,161-29W,,,,,62.333333333333,-161.48333333333
+313,oth-ig-aff,Xihuashan,China,Jiangxi,25-26N,114-20E,Producer,,State-owned,"Lat-long is for town of Xihuashan.",25.433333333333,114.33333333333
+314,ion-ad,"Chenxian County",China,Hunan,25-48N,113-02E,"Active producer",,,"Complex REE and polymetallic deposit. Ore bodies are closely spaced, layer-like, and 4-10 m thick. 90-99% recovery of REE.",25.8,113.03333333333
+315,ion-ad,Dingnan,China,Jiangxi,24-47N,15-02E,Producer,,,"Possibly a separate orebody in the Ganan Mine.",24.783333333333,15.033333333333
+316,ion-ad,"Gannan Mine",China,Jiangxi,,,,,,"The Gannan Mine may have 3 separate orebodies-- Dingnan, Longnan, Xunwu.",,
+317,ion-ad,Guangdong,China,Guangdong,,,,,,,,
+318,ion-ad,Guidong,China,Hunan,,,,,,"Closely spaced ore bodies. ore bodies layer-like and 5-12 m thick.  90-99% recovery of REE.",,
+319,ion-ad,"Jianghua area",China,Hunan,,,,,,,,
+320,ion-ad,"Lanshan area",China,Hunan,,,,,,"Small, scattered, lenticular, discontinuous ore bodies. 50-80% recovery of REO.",,
+321,ion-ad,Linwu,China,Hunan,,,,,,"Very small, scattered, irregular orebodies. 40-70% recovery of REE.",,
+322,ion-ad,"Longchuan Heping",China,Guangdong,,,Producer,,State-owned,,,
+323,ion-ad,"Longnan (Zudong?)",China,Jiangxi/Longnan,24-54N,114-48E,Producer,,,"High content of MREE and HREE.  Possibly a separate orebody in the Ganan Mine.",24.9,114.8
+324,ion-ad,Pingyuan,China,Guangdong,,,Producer,,State-owned,,,
+325,ion-ad,Qingyuan,China,Guangdong,23-42N,113-02E,Producer,,State-owned,"Lat-long is for town of Qingyuan.",23.7,113.03333333333
+326,ion-ad,"Rucheng area",China,Hunan,,,,,,"Very small, scattered, irregular orebodies. 40-70% recovery of REE.",,
+327,ion-ad,Ruyuan,China,Guangdong,24-46N,113-16E,Producer,,State-owned,"Lat-long is for town of Ruyuan.",24.766666666667,113.26666666667
+328,ion-ad,Tongsalin,China,Hunan,,,Producer,,State-owned,,,
+329,ion-ad,Unnamed,China,Fujian,,,,,,,,
+330,ion-ad,"Xunwun (Xunwu, Xun wa, Heling, Nanqiao)",China,Jiangxi/Xunwu,24-58N,115-38E,,,,"High content of MREE and HREE. Possibly a separate orebody in the Ganan Mine.",24.966666666667,115.63333333333
+331,ion-ad,"Zhangding (Longyan)",China,Fujian,25-08N,117-02E,,,,"Cited as Longyan by Wu and others, 1996.",25.133333333333,117.03333333333
+332,ion-ad,Zixing,China,Hunan,,,,,,"Irregular, lenicular ore bodies 5-8 m thick. 60-80% recovery of REE.",,
+333,met,Anomalnoe,Russia,,54-04N,157-24E,,"170 Ma (K-Ar, fld) -- Proterozoic",,"Vein forms orebody over 1 km long and ? 12.5 m thick.",54.066666666667,157.4
+334,met,Bastnäs,Sweden,,,,,,,"Hematite skarn.",,
+335,met,Bordvedaga,Norway,,,,,,,,,
+336,met,Guangshui,China,Hubei,,,Occurrence,"Late Proterozoic",,"Deposit is stratiform.",,
+337,met,"Indian Creek District","United States",Idaho,45-25N,114-10W,Occurrence,Precambrian,,"Includes Wilkey Evans and Reese Esker claims, Radiant group.",45.416666666667,-114.16666666667
+338,met,Ingichke,Uzbekistan,,,,Occurrence,,,"REE associated with scheelite skarns.",,
+339,met,"Lemhi Pass","United States",Idaho,44-57N,113-37W,Occurrence,"90-99 Ma (Pb-alpha, mon) -- Precambrian",,"Veins. Thorium is dominant mineralization.",44.95,-113.61666666667
+340,met,"Mineral Hill District","United States",Idaho,45-28N,114-17W,Occurrence,Precambrian,,,45.466666666667,-114.28333333333
+341,met,"Monumental Summit","United States",Idaho,44-54N,115-16W,Occurrence,Precambrian,,,44.9,-115.26666666667
+342,met,"Music Valley","United States",California,34-01N,115-57W,Occurrence,Precambrian,,,34.016666666667,-115.95
+343,met,"Nam Xe North (Mau Xe North)",Vietnam,"Lai Chau",22-29N,103-30E,Prospect,"Middle Carboniferous - Permian","Vietnamese Gov't","Metasomatic + weathered ore.   On N side of Nam Xe River in Phong Tho district.  Lenses, veins, disseminated ore in crushed zones of lst affected by metasomatism.  Weathered ore contains 4-5% REO to depth of 20 m.  Primary ore contains an average of 1.4% REO.",22.483333333333,103.5
+344,met,"Nam Xe South (Mau Xe North)",Vietnam,"Lai Chau",22-29N,103-30E,Prospect,"Late Permian","Vietnamese Gov't","Metasomatic + weathered ore. On S side of Nam Xe River in Phong Tho district.  REE reserves include 3225 t of Y2O3",22.483333333333,103.5
+345,met,"Sheep Creek","United States",Montana,45-30N,114-20W,"Past small producer",,,,45.5,-114.33333333333
+346,met,Shengtieling,China,Liaoning,,,Occurrence,Archean,,,,
+347,met,"Steenkampskraal (Steentampskraal)","South Africa","Cape Province",,,"Active producer?",,"Rare Earth Extraction Co. (1997)","Mon-apa veins in gneiss.  Approximately 20,000 t of mon remained in 1986. In 1996, restartup planned for 1998, mine life was estimated at 10 years.",,
+348,met,Wuhe,China,Guangdong,23-28N,112-20E,Occurrence,,,"Lat-long is for the town of Wuhe.",23.466666666667,112.33333333333
+349,placer-sh,"Agnes Waters (Rocky Point)",Australia,Queensland,24-13S,151-54E,Occurrence,Tertiary,"Mineral Deposits Ltd.","Marine placer. 3 generations of dune formation.",-24.216666666667,151.9
+350,placer-sh,"Aguas Dulces",Uruguay,Rocha,34-15S,53-43W,Occurrence,Cenozoic,,,-34.25,-53.716666666667
+351,placer-sh,Alcobaça,Brazil,Bahia,17-15S,39-14W,"Past byproduct producer","Late Tertiary or Pleistocene-Holocene","Nuclebras de Monazita e Associados Ltda (1989)","Marine placer.",-17.25,-39.233333333333
+352,placer-sh,"Allied Eneabba",Australia,"Western Australia",29-54S,115-16E,"Past byproduct producer",Pleistocene-Recent,"Renison Goldfields (1988)",,-29.9,115.26666666667
+353,placer-sh,"Alwaya (Alwaye)",India,Kerala,10-07N,76-20E,,,,,10.116666666667,76.333333333333
+354,placer-sh,Amity,Australia,Queensland,27-24S,153-26E,"Past byproduct producer",Pliocene-Pleistocene,"Consolidated Rutile Ltd. (1989)",,-27.4,153.43333333333
+355,placer-sh,"Anchieta (Parati, Imbiri, Pipa de Viho, Mãebá)",Brazil,"Espírito Santo",20-46S,40-35W,"Past producer?","Late Tertiary","Nuclebras de Monazita e Associados Ltda. (1988)","Small modern beach placers, elevated bars. Mon contains about 5.2% ThO2.  Probably depleted.",-20.766666666667,-40.583333333333
+356,placer-sh,Angoche,Mozambique,,,,"Prospect (1988)",,"Kenmare Resources (1988)",,,
+357,placer-sh,"Antete area",Madagascar,,,,"Past producer",,,,,
+358,placer-sh,Aracruz,Brazil,"Espírito Santo",19-58S,40-09W,"Past byproduct producer (1989)","Late Tertiary","Nuclebras de Monazita e Associados Ltda. (1989)",,-19.966666666667,-40.15
+359,placer-sh,Arimoor,Nigeria,"Benue Plateau",,,"Past byproduct producer (1988)",,,,,
+360,placer-sh,Australind,Australia,"Western Australia",33-14S,115-45E,,Quaternary,,,-33.233333333333,115.75
+361,placer-sh,"Ayer Kuning",Malaysia,Perak,,,"Byproduct producer (1988)",,"Tronah Mines Malaysia Bhd. (1988)",,,
+362,placer-sh,Badarmokam,Bangladesh,,,,,,,,,
+363,placer-sh,"Banda Aceh",Indonesia,Sumatra,5-35N,95-20E,Occurrence,,,"In northern Sumatra.",5.5833333333333,95.333333333333
+364,placer-sh,"Banka Island (Bangka)",Indonesia,"Pulau Banka (Banka Island)",2-15S,106-00E,"? Poss byproduct of Sn mining",,,"One placer on this island was said to contain too much mon to permit profitable recovery of cassiterite.",-2.25,106
+365,placer-sh,Baraghoriapara,Bangladesh,"Moheshkhali Island",,,,,,,,
+366,placer-sh,Barrytown,"New Zealand","South Island/Westland",42-14S,171-19E,"Under development (1988)",Quaternary,"Grampian Mining (199?)","Marine placer beach and dune sands extending over a distance of 16 km along the coast.  Deposit averages 10 m thick.",-42.233333333333,171.31666666667
+367,placer-sh,"Batu Gajah",Malaysia,Perak,,,"Byproduct producer (1988)",,Several,,,
+368,placer-sh,"Bayside (Yoganup North)",Australia,Queensland,,,"Exhausted (1998)",Pliocene-Pleistocene,"Consolidated Rutile Ltd.",Exhausted.,,
+369,placer-sh,"Beenup (Scott River)",Australia,"Western Australia",,,"Production ceased 4/99",Pleistocene-Recent,"BHP Titanium Minerals Pty. Ltd.","Deposit contains 20% clay.  First prod 1997.  Operation closed due to processing problems.",,
+370,placer-sh,"Beihei (Beihai, Peibhai?) District",China,Guangxi,21-29N,109-06E,"Producer byproduct monazite",Cenozoic,State-owned,"Mixed river and marine placers along coastline. Ama 60% of mined material may be from river sands.  Mined by farmers collectives.",21.483333333333,109.1
+371,placer-sh,"Belitung (Billiton)",Indonesia,"Banka-Belitung Island",2-50S,107-55E,"Past small byproduct producer",,,,-2.8333333333333,107.91666666667
+372,placer-sh,"Berhala Island",Indonesia,,,,Occurrence,,,"In the Strait of Malacca.",,
+373,placer-sh,Beruwala,"Sri Lanka",,6-29N,79-59E,,,,,6.4833333333333,79.983333333333
+374,placer-sh,"Bilugyun and Kyaikkami Beach",Burma,,16-20N,97-27E,Occurrence,,,,16.333333333333,97.45
+375,placer-sh,Birchfield,"New Zealand","South Island",,,,,,,,
+376,placer-sh,"Birthday Gift (Murray Basin)",Australia,"New South Wales",,,"HM Prospect",Tertiary,"RZM Pty. Ltd.","In Murray Basin.  Coarse-grained beach placer.  Resource estimate is indicated + inferred .",,
+377,placer-sh,Boulougne,"United States",Florida,,,"Past producer",,"Humphrey's Mining Co. (1979)","Deposit is exhausted.",,
+378,placer-sh,"Bowen (Abbot Point)",Australia,Queensland,19-53S,148-05E,Prospect,,,,-19.883333333333,148.08333333333
+379,placer-sh,"Brejo Grande - Pacatuba",Brazil,Sergipe,10-30S,36-26W,,"Quaternary- Holocene",,,-10.5,-36.433333333333
+380,placer-sh,"Bridge Hill Ridge",Australia,"New South Wales",32-25S,152-28E,"REE Occurrence",Quaternary,,"Marine placer and wind-blown dunes.",-32.416666666667,152.46666666667
+381,placer-sh,"Bruce Bay","New Zealand","South Island",,,,,,,,
+382,placer-sh,Brunswick-Altamaha,"United States",Georgia,31-19N,81-28W,Occurrence,Pleistocene,,"Marine placer.",31.316666666667,-81.466666666667
+383,placer-sh,"Buena (Buena Norte, Buena Sul)",Brazil,"Rio de Janeiro",21-31S,41-05W,"Producer byproduct monazite","Late Tertiary","Indústrias Nucleares do Brasil SA (INB)",,-21.516666666667,-41.083333333333
+384,placer-sh,"Bukit Duabelas",Indonesia,"Sumatra (East)",1-57S,102-40E,Occurrence,,,,-1.95,102.66666666667
+385,placer-sh,Bunbury,Australia,"Western Australia",33-19S,115-38E,"Past byproduct producer",Pleistocene-Recent,"Cable Sands Ltd.","Dry mining operation.  Produced xen as well as mon.",-33.316666666667,115.63333333333
+386,placer-sh,"Busselton East",Australia,"Western Australia",33-40S,115-23E,Prospect,Holocene,,,-33.666666666667,115.38333333333
+387,placer-sh,"Byfield (Bayfield)",Australia,Queensland,22-48S,150-46E,Prospect,"Late Tertiary","RZM  (1988)","Steep wind-blown sand dunes.  Near Yeppoon.",-22.8,150.76666666667
+388,placer-sh,"Cabin Bluff","United States","Fl or GA",,,,,,,,
+389,placer-sh,"Cable Sands",Australia,"Western Australia",,,"Past byproduct producer",Pleistocene-Recent,"Cable Sands Pty. Ltd. (1986)","In Murray Basin.",,
+390,placer-sh,"Cam Hoa",Vietnam,"Ha Tinh",18-13N,105-52E,,,,"Coastal placer. average thickness of 1.2 m.  Part of the Ky Anh-Cam Xuyen group.  Locations of Cam Hoa and Cam Nhuong may be reversed.",18.216666666667,105.86666666667
+391,placer-sh,"Cam Nhuong",Vietnam,"Ha Tinh",18-18N,105-48E,,,,"Coastal placer with 2 ore bodies. Part of the Ky Anh-Cam Xuyen group.  Locations of Cam Hoa and Cam Nhuong may be reversed.",18.3,105.8
+392,placer-sh,Camaratuba,Brazil,"Rio Grande do Norte",06-54S,35-00W,,"Late Tertiary",,,-6.9,-35
+393,placer-sh,Capel,Australia,"Western Australia",33-33S,115-33E,"Past byproduct producer",Pleistocene-Recent,"Westralian Sands  (1999)","Dry mining operation.  Produced xen as well as mon?",-33.55,115.55
+394,placer-sh,"Capel (North Capel)",Australia,"Western Australia",33-31S,115-35E,"Past byproduct producer; N. part of deposit exhausted (1987)",Pleistocene-Recent,"Westralian Sands  (1999)","Dune deposits.",-33.516666666667,115.58333333333
+395,placer-sh,"Capel South",Australia,"Western Australia",33-37S,115-27E,"Past byproduct producer",Pleistocene-Recent,,"Discovered 1954.",-33.616666666667,115.45
+396,placer-sh,"Cat Khanh",Vietnam,"Binh Dinh or Nghia Binh?",13-30N,105-12E,"Current producer",,"Bimal Minerals Co. Ltd.","Coastal placer. 3 ore horizons in placer.",13.5,105.2
+397,placer-sh,Cataby,Australia,,30-43S,115-31E,"Past byproduct producer",Pleistocene,"Minproc Chemicals Pty. Ltd and KMCX Western Australia Pty. Ltd. (1990)",,-30.716666666667,115.51666666667
+398,placer-sh,Changan,China,"Guangond/Hainan Island",,,"Possible resource",,,"Not developed because most of area is under cultivation.",,
+399,placer-sh,"Chatrapur (Chartrapur, Orissa Sands Complex/OSCOM)",India,Orissa,19-18N,84-57E,"Producer byproduct monazite",Quaternary,"Indian Rare Earths Ltd.","Byproduct of Ti mining.  Belt of sand dunes in 1500 m wide and 19 km long. Relatively low U+Th (50-60 ppm) in ilmenite concentrate.",19.3,84.95
+400,placer-sh,"Chavara (Quilon)- IREL",India,Kerala,08-57N,76-30E,"Producer byproduct monazite",Quaternary,"Indian Rare Earths Ltd.","Byproduct of Ti mining. Mon distribution is patchy.  Ore is 18% HM.",8.95,76.5
+401,placer-sh,"Chavara (Quilon)- KMML",India,"Kerala/ Kollam",09-00N,76-30E,"Byproduct producer",Quaternary,"Kerala Minerals and Metals Ltd.","Byproduct of Ti mining. Mon occurrence is patchy.",9,76.5
+402,placer-sh,"Cheyne Bay",Australia,"Western Australia",34-34S,118-45E,"Past small produer",,,"Produced 1949-1950.",-34.566666666667,118.75
+403,placer-sh,Chingshankangchow,Taiwan,,,,Occurrence,,,"Offshore sand bar.",,
+404,placer-sh,Chumphon,Thailand,,10-30N,99-10E,"Byproduct producer (1988)",,,,10.5,99.166666666667
+405,placer-sh,"Coleroon - Sirkazhi",India,"Tamilnadu/ Thanjavur",11-15N,79-45E,Occurrence,,,"Deposits stretch 14 km from Coleroon River mouth to Sirkazhi.",11.25,79.75
+406,placer-sh,"Congolone (Moma-Congolone, Ancoche)",Mozambique,Nampula,16-01S,40-05E,"Byproduct producer",,Kenmare,"Beach sands, dunes.  4 mineralized areas-- Moma (Namalope-Tupuito), Congolone, Quinga, and Marrua.",-16.016666666667,40.083333333333
+407,placer-sh,Coojarloo,Australia,"Western Australia",30-40S,115-20E,"Past byproduct producer","Early Pleistocene","Tiwest Joint Venture","Munbinea Shoreline- a group of former beaches.  Deposit is ama 30 m below water table and is mined by dredging. HM fraction contains 0.2% mon.",-30.666666666667,115.33333333333
+408,placer-sh,Cooloola,Australia,,26-05S,153-07E,"Past byproduct producer",Pleistocene,"State of Queensland (1986)","Mining ceased in 1975 and area is now a national park.",-26.083333333333,153.11666666667
+409,placer-sh,"Coromandel Peninsula","New Zealand","North Island",37-00S,175-52E,Occurrence,Cenozoic,,"Main deposits include Whitianga (Wharekaho Bay), Wharekawa (Opoutere Beach), Waihi Beach, and Matakana Island.",-37,175.86666666667
+410,placer-sh,"Cox's Bazaar",Bangladesh,,,,"Active prospect (1988)",,,"100 km SE of Chittagong.",,
+411,placer-sh,"Cumberland Island","United States",Georgia,30-54N,81-27W,Occurrence,Pleistocene,,"Barrier island.  In National Park so development unlikely.",30.9,-81.45
+412,placer-sh,"Cumuruxatiba (Curumuxatiba, Comoxatiba)",Brazil,Bahia,18-22S,40-42W,"Producer byproduct monazite (1989)",Quaternary,"Nuclemon Minero - Quimica Ltda. (1989)","In Vitoria District in Sao Joao da Barra region.  Coastal sand.",-18.366666666667,-40.7
+413,placer-sh,Currumbin,Australia,Queensland,28-08S,153-29E,"Past byproduct producer",,"Currumbin Minerals Pty. Ltd. (1989)","Loc for Currumbin Point.",-28.133333333333,153.48333333333
+414,placer-sh,"Curtis Island",Australia,Queensland,23-38S,151-10E,Occurrence,,,"Dunes.  All leases surrendered for incorporation into National Park. Loc is general for Curtis Island.",-23.633333333333,151.16666666667
+415,placer-sh,"Da Nang",Vietnam,,,,,,,,,
+416,placer-sh,Dardanup,Australia,"Western Australia",33-24S,115-45E,"Under development",,"ISK Minerals Pty Ltd.","15 km E of  Bunbury.",-33.4,115.75
+417,placer-sh,Dianbai,China,Guangdong,21-30N,111-01E,"Producer byproduct monazite",,State-owned,"Deposit and processing plant.",21.5,111.01666666667
+418,placer-sh,Dongara,Australia,"Western Australia",29-15S,114-56E,Prospect,,"Magnetic Minerals Ltd. (2001)","Lat-long is for town of Dongara.",-29.25,114.93333333333
+419,placer-sh,"Dong Xuan",Vietnam,,,,,,,"Coastal placer.",,
+420,placer-sh,"Durness (Tea Garden)",Australia,"New South Wales",32-40S,152-09E,"Small producer (1988)",,"BHP, Mineral Deposits Ltd, (1988)","Loc is for town of Tea Garden.",-32.666666666667,152.15
+421,placer-sh,Eneabba,Australia,"Western Australia",29-47S,115-13E,"Past byproduct producer","Late Tertiary-Pleistocene","Westralian Sands  (1999)","Mon contains average 58% REE and 7% ThO2.",-29.783333333333,115.21666666667
+422,placer-sh,"Eneabba North",Australia,"Western Australia",29-37S,115-20E,"Current producer","Late Tertiary-Pleistocene","Westralian Sands  (1999)","Dry mining operation.",-29.616666666667,115.33333333333
+423,placer-sh,"Eneabba South",Australia,"Western Australia",,,"Current producer","Late Tertiary-Pleistocene","RGC Mineral Sands Ltd.","Dredge operation.",,
+424,placer-sh,"Eneabba West",Australia,"Western Australia",29-55S,115-15E,"Current producer","Late Tertiary-Pleistocene","Westralian Sands  (1999)","Dredge operation.",-29.916666666667,115.25
+425,placer-sh,"Evans Head- Yuraygir National Park area",Australia,"New South Wales",29-05S,153-26E,,,,"Beach strandlines. Environmental legislation has curtailed mining activity in this region.",-29.083333333333,153.43333333333
+426,placer-sh,Fakiraghona,Bangladesh,"Moheshkhali Island",21-33N,91-57E,,,,"Lat-long is for town of Fakiraghona.",21.55,91.95
+427,placer-sh,Fakirahata,Bangladesh,"Moheshkhali Island",,,,,,,,
+428,placer-sh,Folkston,"United States",Georgia,,,"Past producer",,"Humphrey's Mining Co. (1979)","Deposit exhausted.",,
+429,placer-sh,"Foreshore Beach - Moheshkhali Island",Bangladesh,"Moheshkhali Island",,,,,,,,
+430,placer-sh,"Fort Dauphine",Madagascar,,25-00S,47-00E,"Past producer",Cenozoic?,,"Marine placer.",-25,47
+431,placer-sh,Foulun,Taiwan,,24-41N,121-45E,Occurrence,,,"Lat-long is for the town of Foulun.",24.683333333333,121.75
+432,placer-sh,"Fraser Island (Frazer Island)",Australia,Queensland,25-22S,153-07E,"Past byproduct producer",Pliocene-PLeistocene,,"Marine placer and high transgressive dunes.",-25.366666666667,153.11666666667
+433,placer-sh,Fullerton,Australia,"New South Wales",32-50S,151-47E,"Current producer",,"Mineral Deposits Ltd.","In Murray Basin.",-32.833333333333,151.78333333333
+434,placer-sh,Gingin,Australia,"Western Australia",31-24S,115-56E,Occurrence,Quaternary,"Westralian Sands and Tioxide Australia (1988)","Marine placer beach and dune sands.  Gingin shoreline.",-31.4,115.93333333333
+435,placer-sh,"Gladstone Mainland",Australia,Queensland,23-50S,151-15E,,,,,-23.833333333333,151.25
+436,placer-sh,"Glogova-Sisesti District",Romania,,44-55N,22-58E,Occurrence,Pliocene-Pleistocene,,"3 ancient beach formations on River Motru.",44.916666666667,22.966666666667
+437,placer-sh,"Gold Coast",Australia,Queensland,28-00S,153-25E,"Past byproduct producer",Pliocene-Pleistocene,"Currumbin Minerals Pty. Ltd. (1989)",,-28,153.41666666667
+438,placer-sh,Gordon,Australia,Queensland,,,"Closed 1999",Pliocene-Pleistocene,"Consolidated Rutile Ltd.","On North Stradbroke island between Tower Ride and South Hill.",,
+439,placer-sh,"Green Cove Springs","United States",Florida,29-52N,81-43W,"Active mine (1999); Past byproduct monazite producer",Pleistocene,"Westralian Sands  (1999)","Stopped producing mon in 1994.",29.866666666667,-81.716666666667
+440,placer-sh,"Guarapari (Praia do Vaz, Vila Velha, Rastinga, Canto do Riacho, Praia de Diogo)",Brazil,"Espírito Santo",20-48S,40-30W,"Current(?) Producer byproduct monazite",Quaternary,"Nuclebras de Monazita e Associados Ltda. (1989)",,-20.8,-40.5
+441,placer-sh,Gympie,Australia,Queensland,26-11S,152-40E,"Past byproduct producer",Pliocene-Pleistocene,"Currumbin Minerals Pty. Ltd. (1989)",,-26.183333333333,152.66666666667
+442,placer-sh,Haifengtao,Taiwan,,23-43N,120-09E,Occurrence,,,"Offshore sand bar, not now exposed.",23.716666666667,120.15
+443,placer-sh,Haikang,China,Guangdong,20-56N,110-04E,"Producer byproduct monazite",,State-owned,"Deposit and processing plant.  Deposits may be a mix of marine and river sands.",20.933333333333,110.06666666667
+444,placer-sh,Haishanchow,Taiwan,,23-19N,120-06E,Occurrence,,,"Offshore sand bar.",23.316666666667,120.1
+445,placer-sh,"Ham Tan",Vietnam,"Binh Thuan",10-42N,107-35E,,,,"Coastal placer.  3 placers.",10.7,107.58333333333
+446,placer-sh,Hambantota,"Sri Lanka",,,,Occurrence,,,,,
+447,placer-sh,Hanstholm,Denmark,"N. Jutland",,,Occurrence,,"Morstal Minerals",,,
+448,placer-sh,Harrington,Australia,"New South Wales",31-52S,152-42E,"Past producer",,,"Operations ceased in 1981 due to exhaustion of resources outside of National Park.",-31.866666666667,152.7
+449,placer-sh,"Hawks Nest",Australia,"New South Wales",32-40S,152-10E,"Past byproduct producer",,"Mineral Deposits Ltd.","Dry mill at Hawks Nest.  Lat-long is for the town of Hawk's Nest.",-32.666666666667,152.16666666667
+450,placer-sh,Higgins,Australia,"Western Australia",33-35S,115-36E,Occurrence,Holocene,,"Planned as replacement for Waroona (Hamel).",-33.583333333333,115.6
+451,placer-sh,"Hilton Head Island","United States","South Carolina",32-12N,80-44W,"Potential resource",,,"Mining unlikely, resort area.",32.2,-80.733333333333
+452,placer-sh,"Hoanak (Nalbila)",Bangladesh,"Moheshkhali Island",,,,,,,,
+453,placer-sh,"Hokitika North","New Zealand","South Island",,,,,,,,
+454,placer-sh,"Hokitika South","New Zealand","South Island",,,,,,,,
+455,placer-sh,"Huong Dien",Vietnam,,16-39N,107-28E,Occurrence,,,"20 km N of Hue.",16.65,107.46666666667
+456,placer-sh,"Hunts Beach","New Zealand","South Island",,,,,,,,
+457,placer-sh,Hwajinpo,"Korea, Republic of",,38-25N,128-30E,,,,"Zir-mon ratio is 4:1.  Deposit is along the coast and believed to be a marine placer or a mix of marine and alluvial sands.",38.416666666667,128.5
+458,placer-sh,Ibis-Alpha,Australia,Queensland,,,"In development (1998)",,"Consolidated Rutile Ltd.","On North Stradbroke Island.",,
+459,placer-sh,"Imuruan Bay",Philippines,"Palawan Island",10-45N,119-20E,Occurrence,,,"NW Palawan Island.  Deposit is not economic.",10.75,119.33333333333
+460,placer-sh,"Induruwa (Kaikawela and Polkotuwa Beaches)","Sri Lanka",,,,,,,"Colombo area.  Mon believed derived from nearby pegmatite veins.",,
+461,placer-sh,Inani,Bangladesh,,21-09N,92-04E,,,,"Lat-long is for the town of Inani.",21.15,92.066666666667
+462,placer-sh,"Itapemirim (Boa Vista, Siri)",Brazil,"Espírito Santo",21-10S,40-55W,"Producer byproduct monazite (1989)",Tertiary?,"Nuclebras de Monazita e Associados Ltda. (1989)","ThO2 content of mon 5-12%. In Sao Joao da Barra region.",-21.166666666667,-40.916666666667
+463,placer-sh,Jangardup,Australia,"Western Australia",34-22S,115-37E,"Current HM producer; REE byproduct potential",Pleistocene-Recent,"Cable Sands Ltd. (1988)","Cable Sands Ltd.'s largest operation.",-34.366666666667,115.61666666667
+464,placer-sh,"Jurien Bay",Australia,"Western Australia",30-19S,115-10E,"Current producer",Pleistocene,,"Munbinea shoreline.   Heavy minerals are 0.7% mon.",-30.316666666667,115.16666666667
+465,placer-sh,Kabengelwa,"Congo (Zaire)",,,,Occurrence,,"Societe Miniere et Inustrielle de Kivu","Mon rich in Eu.",,
+466,placer-sh,Kaikawela,"Sri Lanka",,6-22N,80-00E,"Small producer",,"Sri Lanka Geological Survey Department","South of Colombo. Beach sands locally contain ama 40% mon, average about 15%.  Exploited since 1952.",6.3666666666667,80
+467,placer-sh,Kalutara,"Sri Lanka",,6-35N,79-59E,"Past pilot production",,,,6.5833333333333,79.983333333333
+468,placer-sh,"Karamea North","New Zealand","South Island",,,Occurrence,,,,,
+469,placer-sh,"Karamea South","New Zealand","South Island",,,Occurrence,,,,,
+470,placer-sh,"Ke Sung",Vietnam,"Thua Thien-Hu",16-30N,107-35E,Occurrence,,,"Coastal placer.  Part of Thuan An group of deposits.",16.5,107.58333333333
+471,placer-sh,"Kelani River","Sri Lanka",,7-00N,79-50E,Occurrence,,,,7,79.833333333333
+472,placer-sh,Kembajan,Indonesia,"Kalimantan (West)",0-33N,110-25E,Occurrence,,,,0.55,110.41666666667
+473,placer-sh,"Kerr-McGee deposit","United States",,36-07N,88-11W,Occurrence,"Late Cretaceous",,"Marine placer.",36.116666666667,-88.183333333333
+474,placer-sh,"King Sound",Australia,"Western Australia",16-50S,123-25E,"Prospect (1988)",,"Perseverence Corp. Ltd. (1988)","In Fitzroy and May River estuaries.",-16.833333333333,123.41666666667
+475,placer-sh,"Kingscliff (Cudgen)",Australia,Queensland,28-16S,153-34,"Small producer (1988)",Pliocene-Pleistocene,"Currumbin Minerals (1988)",,-28.266666666667,153.56666666667
+476,placer-sh,Kirra,Australia,Queensland,29-00S,153-32E,"Small producer (1988)",Pliocene-Pleistocene,"Currumbin Minerals (1988)",,-29,153.53333333333
+477,placer-sh,Kokkilai,"Sri Lanka",,8-59N,80-57E,,,,"Deposit confined to the beach.",8.9833333333333,80.95
+478,placer-sh,"Koombana Bay",Australia,"Western Australia",33-19S,115-39E,"Past producer byproduct monazite",,,"Discovered 1949. Closed 1966.  Part of Minniup shoreline beach and dune deposits.  Near Bunbury.",-33.316666666667,115.65
+479,placer-sh,"Kudiraimozhi (Kudraimouzi)",India,"Tamil Nadu",,,"Potential resource",,,,,
+480,placer-sh,"Kudremala Point (Kudremalai)","Sri Lanka",,8-58N,79-54E,Occurrence,,,"South of Mannar.",8.9666666666667,79.9
+481,placer-sh,"Kulwin (Koolwin)",Australia,Victoria,35-05S,142-45E,"HM Prospect",Tertiary,"Renison Goldfields","In Murray Basin.",-35.083333333333,142.75
+482,placer-sh,Kusipo,"Korea, Republic of",,30-20N,126-30E,,,,"50  km North of Mokpo.  Deposit is along coast and believed to be a marine placer or a mix of marine and alluvial sands.",30.333333333333,126.5
+483,placer-sh,"Kutubdai Island",Bangladesh,"Kutubdai Island",,,,,,,,
+484,placer-sh,Kutubjum,Bangladesh,"Moheshkhali Island",,,,,,,,
+485,placer-sh,"Ky Khang",Vietnam,"Ha Tinh",18-12N,106-05E,"Small producer",,,"Coastal placer. 4 orebodies.",18.2,106.08333333333
+486,placer-sh,"Ky Ninh",Vietnam,"Ha Tinh",18-00N,106-10E,Occurrence?,,,"Coastal placer.  Part of Ky Anh-Cam Xuyen group of deposits.",18,106.16666666667
+487,placer-sh,"Long Hai",Vietnam,,10-25N,107-10E,,,,,10.416666666667,107.16666666667
+488,placer-sh,Ludlow,Australia,,,,Occurrence,,"Westralian Sands Co. (1988)",,,
+489,placer-sh,Manavalakuruchi,India,"Tamilnadu/ Kanyakumari",08-12N,77-20E,"Producer byproduct monazite",Quaternary,"Indian Rare Earths Ltd.","Byproduct of Ti mining. Mon discovered in 1909 and first worked in 1911.",8.2,77.333333333333
+490,placer-sh,"Massidon (Murray Basin)",Australia,"New South Wales",33-05S,141-15E,"Potential resource",Tertiary,,"Fine-grained off-shore deposit.",-33.083333333333,141.25
+491,placer-sh,Mashabuto,"Congo (Zaire)",Obaye,,,,,,,,
+492,placer-sh,Matara,"Sri Lanka",,5-57N,80-32E,Occurrence,,,,5.95,80.533333333333
+493,placer-sh,Mataraca,Brazil,Paraiba,06-30S,35-00W,Prospect,Pleistocene-Holocene,,"Marine placer.",-6.5,-35
+494,placer-sh,"Matarbari Island",Bangladesh,"Matarbari Island",21-42N,91-53E,,,,,21.7,91.883333333333
+495,placer-sh,Maxville,"United States",Florida,29-55N,81-45W,Occurrence,,,"Extension of Green Cove Springs deposit.",29.916666666667,-81.75
+496,placer-sh,"Mi Tho",Vietnam,"Binh Dinh",13-45N,109-15E,"Active Producer?",,,"Coastal placer.  In Cat Khanh area.",13.75,109.25
+497,placer-sh,Minninup,Australia,"Western Australia",33-28S,115-34E,"Producer (1988)",Quaternary,"Cable Sands Ltd. (1988)","Marine placer beach and dune deposits. Part of Minniup shoreline.  South of Bundury.",-33.466666666667,115.56666666667
+498,placer-sh,"Moebase (Moebane)",Mozambique,Zambezia,17-01S,38-29E,,,"Genbique (1996)","Marine + eolian placers. 2 Mt of black sands reported to grade 78% ilm, 2% rute, 13% zir, 5% mon (de Kun, 1987).",-17.016666666667,38.483333333333
+499,placer-sh,Moguiquel,Mozambique,Nampula,15-23S,40-16E,,,,"Marine + eolian placers.",-15.383333333333,40.266666666667
+500,placer-sh,Mogwembo,"Sierra Leone",,,,Occurrence,,"Sierra Rutile (1988)",,,
+501,placer-sh,Mokonui,"New Zealand","South Island",,,,,,,,
+502,placer-sh,"Momi River",Indonesia,"Irian Jaya",,,,,,"High radioactivity.",,
+503,placer-sh,"Moreton Island",Australia,Queensland,27-11S,153-24E,"Past small producer",Quaternary,"AMC (1988)","Marine placer, dunes.  Shut down by the government.",-27.183333333333,153.4
+504,placer-sh,Mullaittivu,"Sri Lanka",,9-15N,80-48E,,,,,9.25,80.8
+505,placer-sh,Munmorah,Australia,"New South Wales",33-12S,151-35E,"Past byproduct producer","Late Tertiary",,"Marine placer.",-33.2,151.58333333333
+506,placer-sh,Nabiac,Australia,"New South Wales",32-00S,152-30E,"Past byproduct producer",Pleistocene,"RZ Mines Pty. Ltd. (1989)",,-32,152.5
+507,placer-sh,"Nanyang (Nangang)",China,"Guangdong/Hainan Island",,,"Producer byproduct monazite",Cenozoic,State-owned,,,
+508,placer-sh,Nanshanhai,China,Guangdong,21-32N,111-37E,"Producer byproduct monazite",Cenozoic,,"Lat-long is for the town of Nanshanhai.",21.533333333333,111.61666666667
+509,placer-sh,"Narngula (Geraldton)",Australia,"Western Australia",,,"Producer byproduct monazite",,"Westralian Sands  (1999)","Dry mill at this site.",,
+510,placer-sh,Naracoopa,Australia,Tasmania,39-55S,144-06E,,,,"On King Island between Victoria and Tasmania in the Bass Strait.",-39.916666666667,144.1
+511,placer-sh,"Natchez Trace deposit","United States",Tennessee,35-50N,88-12W,Occurrence,LCretaceous,,"Marine placer.",35.833333333333,-88.2
+512,placer-sh,Nayaru,"Sri Lanka",,9-08N,80-53E,Occurrence,,,,9.1333333333333,80.883333333333
+513,placer-sh,Newcastle,Australia,"New South Wales",32-55S,151-45E,"Current Producer",,"RZM Pty. Ltd.",,-32.916666666667,151.75
+514,placer-sh,Newrybar,Australia,"New South Wales",28-46S,153-34E,,Quaternary,,"Marine placer.",-28.766666666667,153.56666666667
+515,placer-sh,"Nha Trang",Vietnam,,,,,,,,,
+516,placer-sh,"Nijhum Dwip",Bangladesh,,,,,,,,,
+517,placer-sh,"Nile Delta / Rosetta",Egypt,,31-00N,31-00E,"Small past producer?",Pliocene,,"Marine placer.",31,31
+518,placer-sh,"North Camden (Kerr-McGee deposit)","United States",Tennessee,36-07N,88-11W,Occurrence,"Late Cretaceous","Kerr-McGee (1971)",,36.116666666667,-88.183333333333
+519,placer-sh,"North Stradbroke Island - Dunwich",Australia,Queensland,,,"Past byproduct producer",Pliocene-Pleistocene,"Consolidate Rutile Ltd. (1989)",,,
+520,placer-sh,"North Stradbroke",Australia,Queensland,27-35S,153-27E,"Past producer byproduct monazite",Pliocene-Pleistocene,"Consolidate Rutile Ltd. (1993)","Beach and dune deposits.  Past producer of byproduct mon.",-27.583333333333,153.45
+521,placer-sh,"North Stradbroke  - Yarraman",Australia,Queensland,27-35S,153-27E,"Past producer (1966-1972); planned future prod","Late Tertiary-Quaternary","Westralian Sands  (1999)","Beach and dune deposits, 4 km South of Point Lookout on NE part of island.  First prod  planned for 1999.  Deposit is low grade with areas that contain up to 10% fines.",-27.583333333333,153.45
+522,placer-sh,"North Waroona (North Watoona)",Australia,"Western Australia",,,,,"Cable Sands Pty. Ltd. (1988)",,,
+523,placer-sh,"Northeast Dunes",Brazil,,,,Prospects,,,,,
+524,placer-sh,"Okarito - Five Mile Beach","New Zealand","South Island",,,,,,,,
+525,placer-sh,"Old Hickory (Stony Creek)","United States",Virginia,34-12-21N,105-43-47W,"Active Mine (1999), no REE prod",,"Westralian Sands  (1999)","Mine had startup problems with mining and in the separation plant.",34.205833333333,-105.72972222222
+526,placer-sh,Palghat,India,"Kerala/ Palghat",,,Occurrence,,,,,
+527,placer-sh,Panirchara,Bangladesh,"Moheshkhali Island",,,,,,,,
+528,placer-sh,Paranagua,Brazil,Parana,,,,,,,,
+529,placer-sh,"Pebane district",Madagascar,,17-09S,37-50E,"Producer byproduct monazite",Quaternary,,"Marine placer containing 70-85% heavy minerals.",-17.15,37.833333333333
+530,placer-sh,Peitungshanchow,Taiwan,,,,Occurrence,,,"Offshore sand bar.",,
+531,placer-sh,"Phan Thiet",Vietnam,,10-38N,108-05E,,,,,10.633333333333,108.08333333333
+532,placer-sh,Phuket,Thailand,,,,"Byproduct producer (1988)",,,,,
+533,placer-sh,Pi-In,"Korea, Republic of",,,,"Past producer (1988)",,,,,
+534,placer-sh,Pinkenba,Australia,Queensland,27-26S,153-07E,"Past byproduct producer",Pliocene-Pleistocene,"Consolidate Rutile Ltd.",,-27.433333333333,153.11666666667
+535,placer-sh,Pitinga,Brazil,Amazonas,,,,,"Paranapanema Mineracao (1988)",,,
+536,placer-sh,Polkotuwa,"Sri Lanka",,6-29N,79-59E,"Small producer",,"Sri Lanka Geological Survey Department","South of Colombo. Beach sands locally contain ama 40% mon, average about 15%.  Exploited since 1952.",6.4833333333333,79.983333333333
+537,placer-sh,"Port Clinton",Australia,,,,,,,"Within Shoalwater Military Training Area.",,
+538,placer-sh,"Porto Seguro District",Brazil,Bahia,16-26S,39-05W,"Past byproduct producer, Current?",,"Nuclebras de Monazita e Associados Ltda. (1989)","Mon contains 1 to >9% ThO2.",-16.433333333333,-39.083333333333
+539,placer-sh,"Prachuap Khiri Khan (Prajuab Kirikhan, Prachuab Kiri Khan)",Thailand,,11-49N,99-49E,"Intermittent byproduct producer",,"Sakorn Minerals Co. Ltd.",,11.816666666667,99.816666666667
+540,placer-sh,"Prado area",Brazil,Bahia,17-24S,39-12W,"Past byproduct producer, Current?",Recent,"Nuclebras de Monazita e Associados Ltda. (1989)","USGS Mineral Resources Data System record by Page gives location as 18-46-55S, 40-22-53W.",-17.4,-39.2
+541,placer-sh,Prowse,Australia,"Western Australia",,,"Past producer",,,,,
+542,placer-sh,Pudavakattu,"Sri Lanka",,8-53N,81-05E,Occurrence,,,"Deposit relatively low grade.",8.8833333333333,81.083333333333
+543,placer-sh,Pulmoddai,"Sri Lanka",,08-57N,80-57E,"Byproduct producer",Quaternary,"Ceylon Mineral Sands Corp.","Byproduct of Ti mining. Old beach deposit (1.2 m above sea level) and Modern beach.  Deposit replenished by annual monsoon.",8.95,80.95
+544,placer-sh,Puri,India,"Orissa/ Puri",19-45N,85-25E,,,,,19.75,85.416666666667
+545,placer-sh,Putaichow,Taiwan,,,,Occurrence,,,"Offshore sand bar.",,
+546,placer-sh,"Quang Ngan",Vietnam,"Thua Thien-Hu",16-38N,107-25E,Occurrence,,,"Part of Thuan An group of deposits.  Coastal placer.",16.633333333333,107.41666666667
+547,placer-sh,Quelemane,Mozambique,Zambezia,17-53S,36-51E,Occurrence?,,"Genbique (1996)",,-17.883333333333,36.85
+548,placer-sh,"Qui Nhon (includes Hoi Loch, Bai Bang, Vinh Cuu, Bo Ngua)",Vietnam,,,,,,,,,
+549,placer-sh,"Rainbow Beach",Australia,Queensland,25-54S,153-05E,"Past byproduct producer",Pliocene-Pleistocene,"Currumbin Minerals Pty. Ltd. (1989)",,-25.9,153.08333333333
+550,placer-sh,Ranong,Thailand,,,,"Byproduct producer (1988)",,,,,
+551,placer-sh,"Richards Bay","South Africa",Natal,28-42S,32-10E,"Byproduct producer",Pleistocene,"Rio Tinto PLC/Billiton PLC (1999)",,-28.7,32.166666666667
+552,placer-sh,Ross,"New Zealand","South Island",,,,,,,,
+553,placer-sh,"Sai-Lao (Quoinghi)",China,"Guangdong/Hainan Island",19-15N,110-36E,"Producer byproduct mon",Cenozoic,"Guangdong Metallurgical Industries Bureau","Marine placer.  Deposit and processing plant.  Deposit mined by commune farmers.",19.25,110.6
+554,placer-sh,"Saltwater Lagoon","New Zealand","South Island",,,,,,,,
+555,placer-sh,Sandalwood,Australia,"Western Australia",34-57S,140-08E,"Current HM producer; REE byproduct potential",Pleistocene-Recent,"Cable Sands Ltd.","First production- 1998.",-34.95,140.13333333333
+556,placer-sh,"Sao Joao de Barra (Barra Sao Joao)",Brazil,"Rio de Janeiro",21-23S,41-03W,"Producer byproduct mon?","Tertiary?, Quaternary","Nuclebras de Monazita e Associados Ltda. (1989)","USGS Mineral Resources Data System record by Page gives location as 21-17-48S, 42-03-50W.",-21.383333333333,-41.05
+557,placer-sh,"Sao Mateus",Brazil,"Espírito Santo",19-38S,40-53W,Occurrence,Quaternary,,,-19.633333333333,-40.883333333333
+558,placer-sh,"Se Petiba",Brazil,"Rio de Janeiro",22-32S,44-46W,Occurrence,Quaternary,,,-22.533333333333,-44.766666666667
+559,placer-sh,"Serra (Jacareipe)",Brazil,"Espírito Santo",20-10S,39-20W,Occurrence,"Late Tertiary - Holocene",,"Placers associated with veins, stockwork in gneiss.",-20.166666666667,-39.333333333333
+560,placer-sh,Shilkhali,Bangladesh,,,,,,,,,
+561,placer-sh,Singkep,Indonesia,"Sumatra- Singkep Island (Pulau Singkep)",0-30S,104-25E,"Past producer of by-product mon",,,"Tin producer.",-0.5,104.41666666667
+562,placer-sh,Slupsk,Poland,,,,Occurrence,,,"On Baltic Sea.",,
+563,placer-sh,Soledad,"United States",California,,,,,,"In Los Angeles County.",,
+564,placer-sh,"South Ham Tam",Vietnam,"Binh Thuan",,,Occurrence,,,,,
+565,placer-sh,"Stockton (Stockton Bight)",Australia,"New South Wales",32-50S,151-51E,"Current Producer but no mon production recently",Holocene,"Mineral Deposits Ltd.","Marine placer.  Dredge operation.  Feeds Hawks Nest plant.",-32.833333333333,151.85
+566,placer-sh,"Stratham South",Australia,"Western Australia",33-28S,115-35E,"Past producer",,,"Loc for town of Stratham.",-33.466666666667,115.58333333333
+567,placer-sh,Subrang,Bangladesh,,,,,,,,,
+568,placer-sh,"Takua Pa",Thailand,,8-53N,98-21E,,,,,8.8833333333333,98.35
+569,placer-sh,Teknaf,Bangladesh,,20-52N,92-18E,,,,"Lat-long is for the town of Teknaf.",20.866666666667,92.3
+570,placer-sh,Tingtouechow,Taiwan,,,,,,,,,
+571,placer-sh,"Tirrukkovil (Tirukkovil)","Sri Lanka",,7-07N,81-51E,Occurrence,,,,7.1166666666667,81.85
+572,placer-sh,Tolagnaro,Madagascar,,25-02S,47-00E,"Under development (1989)",,"Omnis (51%) and QIT-Fer et Titane (49%) in 1989","A coastal lagoon, 8 km E of Tolagnaro.  Lat-long is for town of Tolagnaro.",-25.033333333333,47
+573,placer-sh,"Tomago (Newcastle, Clybucca)",Australia,"New South Wales",32-48S,151-43E,"Past byproduct producer",Pleistocene,"RZM Pty Ltd.","Wind blown sand dunes and plains separated from the coast by a younger dune system. Dry mill at Tomago.",-32.8,151.71666666667
+574,placer-sh,Toscanini,Namibia,,20-50S,13-25E,Occurrence,,,"A 22 mile long mon-bearing placer occurs on the west coast adjacent to Skeleton Coast Park.",-20.833333333333,13.416666666667
+575,placer-sh,"Trail Ridge (Highland Trail Ridge, Starke Trail Ridge)","United States",Florida,30-02N,82-02W,Occurrence,Pleistocene,DuPont,"Marine placer.",30.033333333333,-82.033333333333
+576,placer-sh,Trivandrum,India,Kerala,8-29N,76-55E,Occurrence,,,,8.4833333333333,76.916666666667
+577,placer-sh,Tungshanchow,Taiwan,,23-34N,120-04E,,,,"Offshore sand bar.",23.566666666667,120.06666666667
+578,placer-sh,Tutunup,Australia,,,,Occurrence,,"Westralian Sands Co. (1988)",,,
+579,placer-sh,Ussangoda,"Sri Lanka",,6-46N,80-23E,,,,,6.7666666666667,80.383333333333
+580,placer-sh,"Vero Beach","United States",Florida,,,"Past small producer byproduct mon",,"Riz Mineral Co. (1945)",,,
+581,placer-sh,"Viney Creek",Australia,"New South Wales",32-37S,152-07E,"Current Producer but no mon prod recently",Quaternary,"Mineral Deposits Ltd.","Marine placer. Dredge operation. In Murray Basin.  Feeds Hawks Nest plant.",-32.616666666667,152.11666666667
+582,placer-sh,"Vinh Cam Ranh",Vietnam,,11-53N,109-10E,,,,,11.883333333333,109.16666666667
+583,placer-sh,"Vinh Giat",Vietnam,,,,,,,,,
+584,placer-sh,"Vinh Mi (Vinh My)",Vietnam,"Thua Thien-Hu",16-20N,107-45E,Occurrence,,,"Coastal placer.  Part of Thuan An group of deposits.  Average deposit thickness 1.6 m.",16.333333333333,107.75
+585,placer-sh,"Vitoria District",Brazil,"Bahia, Espirito Santo",18-22S,40-42W,"Active producer (1985)",Quaternary,"Nuclebras de Monazita e Associados Ltds (Nuclemon)",,-18.366666666667,-40.7
+586,placer-sh,"Vohibarika area",Madagascar,,16-17S,48-59E,"Past producer",,,,-16.283333333333,48.983333333333
+587,placer-sh,"Vung Tau",Vietnam,,,,,,,,,
+588,placer-sh,Waisantingchow,Taiwan,,,,Occurrence,,,"Offshore sand bar.",,
+589,placer-sh,Wangtzeliaochow,Taiwan,,,,Occurrence,,,"Offshore sand bar.",,
+590,placer-sh,Wangyehchow,Taiwan,,,,Occurrence,,,"Offshore sand bar.",,
+591,placer-sh,"Waroona (Hamel)",Australia,"Western Australia",32-50S,115-55E,"Closed 1997",Pleistocene-Recent,"Westralian Sands Ltd.","Dry mining operation.  Waroona shoreline.  Deposit contains ama 20% clay.  North of Bunbury.",-32.833333333333,115.91666666667
+592,placer-sh,"Waroona (Hamel)",Australia,"Western Australia",32-51S,115-55E,"Closed 1992?","Late Tertiary-Pleistocene","ISK Minerals Pty Ltd.","112 km S of Perth.",-32.85,115.91666666667
+593,placer-sh,"Waroona (Hamel)",Australia,"Western Australia",,,"Closed 1997",,"Cable Sands Ltd. (1988)","Dry mining operation.  Waroona shoreline.  Deposit contains ama 20% clay.  North of Bunbury.",,
+594,placer-sh,"Waroona (Hamel)",Australia,"Western Australia",,,"Past byproduct producer",,"Ravensthorpe Mining and Investment (1988)","Heavy minerals are 0.35% mon.  South operations replaced north operations in 1988.",,
+595,placer-sh,Wemen,Australia,"New South Wales",34-55S,142-45E,"Active (2001)",Tertiary,"RZM Pty. Ltd.","In Murray Basin.  Coarse-grained beach placer.",-34.916666666667,142.75
+596,placer-sh,"Westport (inclueds Nine Mile Beach, Carters Beach)","New Zealand","South Island",41-06S,171-24E,Prospect,Quaternary,"Austpac Titanium Ltd.","Marine placer.",-41.1,171.4
+597,placer-sh,Williamstown,Australia,"New South Wales",,,Prospect,,"Mineral Deposits Ltd. (1977)","Parabolic dunes.",,
+598,placer-sh,"WIM 150 (Drung South, CRA, Horsham)",Australia,Victoria,36-43S,142-12E,"Potential resource","Early Pleistocene","CRA (1988)","In Murray Basin. Fine-grained off-shore deposit.  Fine-grained nature of the sands (?50 microns) has prevented development.  Deposit contains 100,000 t Y2O3.",-36.716666666667,142.2
+599,placer-sh,Wonnerup,Australia,"Western Australia",33-37S,115-25E,,Holocene,,"Beach resources depleted, mining dunes in 1993.  Disc 1959.",-33.616666666667,115.41666666667
+600,placer-sh,"Wonnerup Beach",Australia,"Western Australia",33-37S,115-25E,"Past producer",,,"Closed 1967.  Beach and dune deposits of Minniup shoreline.  Near Busselton.",-33.616666666667,115.41666666667
+601,placer-sh,Woornack,Australia,Victoria,,,"Potential resource",,"RGC Ltd. (1999)",,,
+602,placer-sh,"Wuzhaung (Baoding)",China,"Guangdong/Hainan Island",18-43N,110-22E,"Producer byproduct monazite",Cenozoic,"Guangdong Metallurgical Industries Bureau (199?)","Marine placer.  Deposit and processing plant.  Deposit mined by commune farmers.  Tailings discarded in ocean.  Mon contains 5-6% ThO2 and 51% REO.",18.716666666667,110.36666666667
+603,placer-sh,Xinglong,China,"Guangdong/Hainan Island",,,"Producer byproduct monazite",,"Guangdong Metallurgical Industries Bureau (199?)","Deposit and processing plant.",,
+604,placer-sh,Xitou,China,Guangdong,,,"Producer byproduct monazite",,State-owned,"Deposit and processing plant.",,
+605,placer-sh,"Yangjiang (Nanshanhai)",China,Guangdong,21-51N,11-56E,"Producer byproduct monazite",,State-owned,"Deposit and processing plant.  Probably mixed beach and river placers on coastal plain.",21.85,11.933333333333
+606,placer-sh,Yarloop,Australia,"Western Australia",32-58S,115-54E,"Current Producer",Pleistocene-Recent,"Cable Sands Ltd. (1997)","55 km N of Bunbury.  Same as Bunbury deposit?",-32.966666666667,115.9
+607,placer-sh,Yarraman,Australia,Queensland,,,"Current Producer?",,"Consolidated Rutile Ltd.","On North Stradbroke Island.",,
+608,placer-sh,"Yoganup (Yoganup Central)",Australia,"Western Australia",33-39S,115-33E,"Current Producer?",Pleistocene-Recent,"Westralian Sands  (1999)","Discovered 1954.  Mon richest at base of deposit and increases westward.  Yoganup shoreline.",-33.65,115.55
+609,placer-sh,"Yoganup Extended",Australia,"Western Australia",33-36S,115-40E,"Past byproduct producer","Early Pleistocene","Westralian Sands  (1999)","Yoganup shoreline.  Feeds North Capel plant.",-33.6,115.66666666667
+610,placer-sh,"Yoganup North (Boyanup)",Australia,"Western Australia",33-29S,115-44E,"Past byproduct producer; Closed 1998","Early Pleistocene","Westralian Sands  (1999)","Yoganup shoreline.",-33.483333333333,115.73333333333
+611,placer-sh,Yulee,"United States","Ga or Fl",,,,,,,,
+612,placer-sh,"Zhanjiang district",China,Guangdong,21-12N,110-28E,"Producer byproduct monazite",Cenozoic,State-owned,"Deposit and processing plant.  Mixed beach and river placers on coastal plain.",21.2,110.46666666667
+613,placer-al,Atlantida,Uruguay,,35-12S,55-48W,,,,,-35.2,-55.8
+614,placer-al,"Ban Yun",Thailand,Phuket,,,,,,,,
+615,placer-al,"Bang Lin",Thailand,Rayong,,,,,,"Mon has a high Th content.",,
+616,placer-al,"Batang Berjuntai area",Malaysia,Selangor,03-20N,101-30E,"Producer byproduct mon/xen",Quaternary,,,3.3333333333333,101.5
+617,placer-al,"Batang Padang",Malaysia,Selangor,,,"Producer byproduct mon/xen",Quaternary,,,,
+618,placer-al,"Bates Hole area","United States","Wyoming/Carbon County",,,Occurrence,Quaternary,,"High radioactivity.",,
+619,placer-al,"Bear Valley","United States","Idaho/Valley County",44-21N,115-24W,"Small past producer",Pleistocene,,"Includes Porter placer.",44.35,-115.4
+620,placer-al,"Beihei District",China,Guangxi,21-29N,109-05E,,,,"Mixed river and marine placers along coastline. Lat-long is for town of Beihei along coast, but may not be in correct province.",21.483333333333,109.08333333333
+621,placer-al,"Bidor Malaya Mine",Malaysia,,,,Producer,,,,,
+622,placer-al,"Big Creek","United States","Idaho/Valley County",44-28N,115-59W,"Past producer",Pleistocene,,,44.466666666667,-115.98333333333
+623,placer-al,"Carolina monazite belt","United States",,,,,,,,,
+624,placer-al,"Chamberlin District","United States",Idaho,45-19N,115-07W,Occurrence,Quaternary,,,45.316666666667,-115.11666666667
+625,placer-al,"Chao Fa Mine",Thailand,Phuket,,,,,,"Mon in amang dumps contains ama 15.7% ThO2.",,
+626,placer-al,Chumphon,Thailand,Chumphon,,,"Producer byproduct mon/xen",,,,,
+627,placer-al,Circle,"United States",Alaska,65-30N,144-45W,,,,,65.5,-144.75
+628,placer-al,Dianbai,China,Guangdong,21-33N,111-16E,,,,"Deposit type classification in uncertain.",21.55,111.26666666667
+629,placer-al,"El Dorado Creek area","United States",AK,65-56N,166-12W,,,,"Panned concentrate contained 0.029% Eu and 0.02% U.",65.933333333333,-166.2
+630,placer-al,Fortymile,"United States",Alaska,64-20N,142-00W,,,,,64.333333333333,-142
+631,placer-al,"Gambang area",Malaysia,Pahang,,,"Producer byproduct mon/xen",,,,,
+632,placer-al,"Gold Fork-Little Valley","United States","Idaho/Valley County",44-41N,115-58W,Occurrence,Pleistocene,,"Past gold placer producer.",44.683333333333,-115.96666666667
+633,placer-al,"Heinze Basin",Burma,Thanintharyi,14-36N,98-03E,Occurrence,,,,14.6,98.05
+634,placer-al,"Horse Creek (Aiken County)","United States","South Carolina",33-30N,81-54W,"Past producer of monazite","Cenozoic, Cretaceous",,"Flood plain.  Reconcentration of heavy minerals from Tuscaloosa Fmt.  Includes Hollow (Holley) Creek and other drainages.",33.5,-81.9
+635,placer-al,"Hot Springs","United States",Alaska,65-10N,151-00W,,,,"Buried bench gravels.",65.166666666667,-151
+636,placer-al,Iditarod,"United States",Alaska,62-30N,158-30W,,,,,62.5,-158.5
+637,placer-al,Janghowon,"Korea, Republic of",,37-10N,127-30E,,,,"60 km North of Chongju.  Deposit is inland and believed to be composed of river sands.  Deposit type classification is uncertain.",37.166666666667,127.5
+638,placer-al,"Jos Plateau",Nigeria,,09-30N,08-00E,,,,"Placers derived from alkaline granites.",9.5,8
+639,placer-al,Kanbauk,Burma,Thanintharyi,14-36N,98-03E,Occurrence,,,"Heavy mineral sands.",14.6,98.05
+640,placer-al,"Kinta Kellas Batu Gajah Mine",Malaysia,Perak,,,Producer,,,,,
+641,placer-al,"Kinta Valley (Lahat)",Malaysia,Perak,04-30N,101-10E,"Producer byproduct mon/xen",Quaternary,,,4.5,101.16666666667
+642,placer-al,"Kluan Tong Mine",Thailand,Phuket,,,"Producer byproduct mon/xen",,,"Mon has high Th values and ama 4.08% U3O8.",,
+643,placer-al,"Kuala Lumpur area",Malaysia,Selangor,03-00N,101-45E,"Producer byproduct mon/xen",Quaternary,,,3,101.75
+644,placer-al,Kuwn-Thong,Thailand,Phuket,,,,,,,,
+645,placer-al,Kwangsangun,"Korea, Republic of",,35-10N,126-50E,,,,"10 km N of Kwangju.  Deposit is inland and believed to be composed of river sands.  Deposit type classification uncertain.",35.166666666667,126.83333333333
+646,placer-al,"Kyan Chaung",Burma,Thanintharyi,13-30N,98-20E,Occurrence,,,,13.5,98.333333333333
+647,placer-al,"Lahat Mine",Malaysia,Perak,,,Occurrence,,"Beh Minerals",,,
+648,placer-al,"Lamawpyin-Shwedu Chaung",Burma,"Mergui district",,,Occurrence,,,,,
+649,placer-al,Layan,Thailand,Phuket,,,"Producer byproduct mon/xen",,,,,
+650,placer-al,"Long Valley","United States",Idaho,,,"Past producer",,,,,
+651,placer-al,Madianhe,China,Guangdong/Dianbai,21-33N,111-16E,,,,,21.55,111.26666666667
+652,placer-al,"Main Khao",Thailand,Phuket,,,"Producer byproduct mon/xen",,,,,
+653,placer-al,"Mageng (Magang)",China,"Hubei/ Tongcheng",,,Occurrence?,,,,,
+654,placer-al,Marion,"United States","North Carolina",,,"Past byproduct producer",,"Imperial Mining Co. (1990)",,,
+655,placer-al,McGrath,"United States",Alaska,62-45N,155-00W,,,,,62.75,-155
+656,placer-al,Mit-Thawi,Thailand,Phang-nga,,,"Producer byproduct mon/xen",,,,,
+657,placer-al,"Momi River",Indonesia,"Irian Jaya",,,Occurrence,,,,,
+658,placer-al,Mogok,Burma,Shan/Sagaing,22-54-30N,96-30E,Occurrence,,,"Heavy mineral sands.",22.908333333333,96.5
+659,placer-al,"Mong Kung",Burma,"Northern Shan",21-37N,97-31-30E,Occurrence,,,,21.616666666667,97.525
+660,placer-al,"Muong Hum",Vietnam,,,,,,,,,
+661,placer-al,"Namdaecheon River (Muju area)","Korea, Republic of",,35-00N,126-40E,,,,"Deposits are associated with the Namdaechon river.",35,126.66666666667
+662,placer-al,"Oak Grove","United States",Tennessee,36-23N,88-10W,Occurrence,"Late Cretaceous",,"Alluvial terrace.",36.383333333333,-88.166666666667
+663,placer-al,"Pearsol Creek","United States",Idaho,44-31N,116-05W,,,,,44.516666666667,-116.08333333333
+664,placer-al,Pitinga,Brazil,Amazonas,00-45S,60-07W,"Potential. byproduct",,"Mineraçao Taboca SA","Greisenization of biotite granite produced primary mineralization.  Weathered zone has associated placers.",-0.75,-60.116666666667
+665,placer-al,"Port Clarence","United States",Alaska,65-40N,166-30W,,,,,65.666666666667,-166.5
+666,placer-al,"Qinzhou (Qinxian)",China,Guangxi,21-59N,108-36E,"Producer byproduct monazite",,State-owned,"Deposit with processing plant.  Deposit type classification is uncertain.",21.983333333333,108.6
+667,placer-al,"Ramey Meadows","United States",Idaho,45-16N,115-11W,Occurrence,Quaternary,,,45.266666666667,-115.18333333333
+668,placer-al,Ranchi-Purulia,India,Bihar,23-25N,86-00E,"Byproduct REE from Ti mining",,,"Byproduct of Ti mining.",23.416666666667,86
+669,placer-al,"Rio Tercero",Argentina,Cordoba,32-02S,64-12W,Occurrence,Quaternary,,"Valley fill.  Mon contains 60% REO and 3.8% ThO2.",-32.033333333333,-64.2
+670,placer-al,"Ruby Meadows","United States",Alaska,64-25N,154-20W,,,,"Buried placer deposit.",64.416666666667,-154.33333333333
+671,placer-al,"Ruby Meadows","United States","Idaho/Valley County",,,,,"Merlin Mining NL (1987)","7 claims near Burgdorf.  Preliminary estimates indicate about 100 Mm3 with ama 0.16% Y and 0.85 g/t Ta.",,
+672,placer-al,Sai-Chon,Thailand,Phuket,,,,,,,,
+673,placer-al,Sakagyi,Burma,Sagaing,22-55-58N,96-13E,Occurrence,,"SA Mineracao da Trindade","Heavy mineral sands in vicinity of pegmatite.",22.932777777778,96.216666666667
+674,placer-al,"Sao Gonçalo do Sapucai area",Brazil,"Minas Gerais",21-56S,45-40W,"Under development (1989)",Cenozoic,"SA Mineraçcao da Trinidade (Samitri, 1989)","Sands contain 0.66% mon.",-21.933333333333,-45.666666666667
+675,placer-al,"Silica Mine","United States",Tennessee,36-02N,88-11W,"Producer, but does not recover REO",Cretaceous,,"HM stockpiled from past production of silica sand.",36.033333333333,-88.183333333333
+676,placer-al,Sin-Krasom,Thailand,Phang-nga,,,,,,,,
+677,placer-al,Soun-Miyang,"Korea, Republic of",,36-55N,127-20E,,,,"40 km NW of Chongju.  Deposit is inland and believed to be a river placer.",36.916666666667,127.33333333333
+678,placer-al,"Southern Malayan Batu Gajah Mine",Malaysia,Perak,,,Producer,,,,,
+679,placer-al,Thawi-Thap,Thailand,Phang-nga,,,"Producer byproduct monazite",,,,,
+680,placer-al,Tolovana,"United States",Alaska,65-30N,148-10W,,,,,65.5,-148.16666666667
+681,placer-al,"Tronoh Mines",Malaysia,Perak,,,Producer,,"Ayer, Kuning & Kampar",,,
+682,placer-al,"Wan Hapalam",Burma,Shan,21-32N,97-18E,Occurrence,,,,21.533333333333,97.3
+683,placer-al,"Warm Spring Creek placers","United States","Wyoming/Fremont County",,,Occurrence,Quaternary,,,,
+684,placer-al,Witchit,Thailand,Phuket,,,,,,,,
+685,placer-al,Xintou,China,Guangdong,,,,,,"Deposit type classification in uncertain.",,
+686,placer-al,"Xun Jiang",China,Guangxi,23-30N,110-50E,"Prospect (1993)",Cenozoic,,"River plain.  Deposit averages 5 m thick.",23.5,110.83333333333
+687,placer-al,"Yadanabon Mine",Burma,Thanintharyi,11-17-05N,99-17E,,,,"Mon occurs in stream and probably in granite.",11.284722222222,99.283333333333
+688,placer-al,Yongsanpo,"Korea, Republic of",,34-55N,126-40E,,,,"Deposit is inland and believed to be a river placer.",34.916666666667,126.66666666667
+689,placer-al,Yueyang,China,Hunan,29-23N,113-06E,"Byproduct producer?",,State-owned,,29.383333333333,113.1
+690,placer-al,Zhanjiang,China,Guangdong,21-12N,110-28E,,Cenozoic,,"Mixed beach and river placers on coastal plain.",21.2,110.46666666667
+691,placer-unc,Bangalore,India,"Mysore/ Bangalore",,,Occurrence,,,,,
+692,placer-unc,Careacu,Brazil,"Minas Gerais",22-02S,45-42W,Occurrence,,,"Lat-long is for town of Careacu.",-22.033333333333,-45.7
+693,placer-unc,"Chilka Lake",India,Orissa,19-46N,85-20E,,,,"Deposits on landward shore.",19.766666666667,85.333333333333
+694,placer-unc,Cordislandia,Brazil,"Minas Gerais",,,Occurrence,,,,,
+695,placer-unc,Cuxhaven,Germany,,,,,,,"Mineral sands.",,
+696,placer-unc,Gaya,India,"Bihar/ Gaya",24-47N,85-00E,Occurrence,,,"Lat-long is for town of Gaya.",24.783333333333,85
+697,placer-unc,Hazaribagh,India,"Bihar/ Hazaribagh",,,Occurrence,,,,,
+698,placer-unc,"Kembajan Mountains",Indonesia,Kalimantan,,,Occurrence,,,"In West Kalimantan.",,
+699,placer-unc,Koraput,India,"Orissa/ Koraput",,,Occurrence,,,,,
+700,placer-unc,Sabarkantha,India,"Gujarat/ Sabarkantha",,,Occurrence,,,,,
+701,placer-unc,Sanbagoma,Mauritania,,15-35N,11-57W,,,,,15.583333333333,-11.95
+702,placer-unc,"Sinoe County",Liberia,,5-20N,8-40W,,,,"General location for county.",5.3333333333333,-8.6666666666667
+703,placer-unc,Visakhapatnam,India,"Andra Pradesh",17-42N,83-18E,Occurrence,,,"Lat-long is for town of Visakhapatnam.",17.7,83.3
+704,placer-unc,"Tin fields",Rwanda,,,,,,,"Mon is reportedly widespread in the tin fields of Rwanda.",,
+705,placer-pal,"Archie Lake",Canada,Saskatchewan,,,Occurrence,Archean,,"A 5 to 6 m thick stratabound zone can be traced over a strike length of 600 m.  30 km ESE of Uranium City.",,
+706,placer-pal,"Baja Guainia area",Colombia,,,,Occurrence,Precambrian,,"Between Donaco and Santa Elena.",,
+707,placer-pal,"Bald Mountain","United States","Wyoming/Albany County",44-48N,10-48W,"Potential resource","Middle Cambrian",,"Fossil fluvial placer. Little Big Horn River area.  Two sites contain at least 1.0 kg mon/t of rock.  Resource is poorly defined.",44.8,-10.8
+708,placer-pal,"Elliott Lake (Blind River)- Denison",Canada,Ontario,46-29N,82-32W,"Past U producer with byproduct REE","Early Proterozoic","Denison Mines and SM Yttrium Canada Ltd. (1988)","Grauch classifies as U deposit; Mariano as a Proterozoic quartz-pebble conglomerate.",46.483333333333,-82.533333333333
+709,placer-pal,"Elliott Lake (Blind River)- Quirke-Panel",Canada,Ontario,46-30N,82-38W,"Past U producer with byproduct REE","Early Proterozoic","Rio Algom (1993)","Grauch classifies as U deposit; Mariano as a Proterozoic quartz-pebble conglomerate.",46.5,-82.633333333333
+710,placer-pal,"Elliott Lake (Blind River)- Stanleigh",Canada,Ontario,46-24N,82-38W,"U producer; Potential REE resource","Early Proterozoic","Rio Algom (1993)","Uranium producer.",46.4,-82.633333333333
+711,placer-pal,"Grass Creek area","United States","Wyoming/Hot Springs County",,,Occurrence,Cretaceous,,"Paleo-beach placers. North segment- T46N R98W secs. 8, 9, 16.",,
+712,placer-pal,"McLean Lake",Canada,Saskatchewan,,,Occurrence,,,"Above McLean Lake U deposits.  Xenotime masses contain ama 10 % Y.",,
+713,placer-pal,"Oak Grove","United States",Tennessee,36-23N,88-10W,Occurrence,"Late Cretaceous","Ethyl Corp. (1989)",,36.383333333333,-88.166666666667
+714,placer-pal,"Onemile Creek area","United States","Wyoming/Carbon County",,,Occurrence,"Early Proterozoic",,"T18N R78W sec 6 and N/2 sec 7.",,
+715,placer-pal,"Wheeler River",Canada,Alberta,,,,,,"HREE-U concentrations.",,
+716,placer-pal,Witwatersrand,"South Africa",,,,,,,"Au-U mining.",,
+717,placer-pal,"Williams Lake- Maw zone",Canada,Saskatchewan,,,Occurrence,,,,,
+718,phos,"Abu Tartar",Egypt,"Western Desert",25-26N,30-02E,"Active P mine","Late Cretaceous",,"REE  is potential byproduct.",25.433333333333,30.033333333333
+719,phos,"Blackfoot Bridge","United States",Idaho,42-07N,111-31W,Occurrence,Permian,,"? 0.1% REE in P ore.",42.116666666667,-111.51666666667
+720,phos,"Bofal-Loubboira (Wadi Guellouar)",Mauritania,,16-25N,13-45W,Occurrence,"Middle Eocene",,,16.416666666667,-13.75
+721,phos,"Caldwell Canyon","United States",Idaho,42-44N,111-22W,Occurrence,Permian,,"? 0.1% REE in P ore.",42.733333333333,-111.36666666667
+722,phos,Champ,"United States",Idaho,42-40N,111-16W,Occurrence,Permian,,"? 0.1% REE in P ore.    Phosphate mining ceased in 1986.",42.666666666667,-111.26666666667
+723,phos,Conda,"United States",Idaho,42-44N,111-32W,,Permian,,"? 0.1% REE in P ore.  Phosphate mining ceased in 1984.",42.733333333333,-111.53333333333
+724,phos,Dnieprodzerzhinsk,Ukraine,"Dnepropetrovsk Oblast",,,Producer,,,"Uraniferous phosphorites.",,
+725,phos,"Gay and South Forty","United States",Idaho,43-03N,112-07W,Occurrence,Permian,,"? 0.1% REE in P ore.",43.05,-112.11666666667
+726,phos,Henry,"United States",Idaho,42-53N,111-28W,"Past byproduct producer?",Permian,,"? 0.12% REE in P ore.",42.883333333333,-111.46666666667
+727,phos,Husky,"United States",Idaho,42-42N,111-15W,Occurrence,Permian,,"? 0.1% REE in P ore.",42.7,-111.25
+728,phos,Kunyang,China,Yunnan,24-40N,102-35E,Occurrence,Cambrian,,,24.666666666667,102.58333333333
+729,phos,"Maybe Canyon (Maybie)","United States",Idaho,42-45N,111-18W,"Past byproduct producer?",Permian,,"? 0.1% REE in P ore.",42.75,-111.3
+730,phos,"Mountain Fuel","United States",Idaho,42-39N,111-17W,Occurrence,Permian,,"? 0.1% REE in P ore.",42.65,-111.28333333333
+731,phos,"North Henry","United States",Idaho,42-54N,111-30W,Occurrence,Permian,,"? 0.1% REE in P ore.",42.9,-111.5
+732,phos,Schevchenko,Kazakhstan,,,,"Byproduct producer of Eu (1995)",,,"Uraniferous phosphorite deposit.  Eu produced as a coproduct of uranium production.",,
+733,phos,"Smoky Canyon","United States",Idaho,42-43N,111-08W,"Byproduct producer?",Permian,,"P mine.",42.716666666667,-111.13333333333
+734,phos,"Swan Lake Gulch","United States",Idaho,42-38N,111-25W,"Potential producer",Permian,,"Production planned for 2004.",42.633333333333,-111.41666666667
+735,phos,"Trail Creek","United States",Idaho,42-44N,111-25W,Occurrence,Permian,,"? 0.1% REE in P ore.",42.733333333333,-111.41666666667
+736,phos,"Wooley Valley","United States",Idaho,42-50N,111-24W,"Past byproduct producer?",Permian,,"? 0.11% REE in P ore.",42.833333333333,-111.4
+737,phos,Xinhua,China,Guizhou/Zhijin,26-42N,105-45E,,"Early Cambrian",,"REE present as isomorphous replacements in collophane.",26.7,105.75
+738,phos,Zhijin,China,Guizhou,26-41N,105-37E,Occurrence,Cambrian,,,26.683333333333,105.61666666667
+739,oth-baux,"Lake Innes",Australia,"New South Wales",31-30S,152-53E,Occurrence,,,"Ni-Co-Sc laterite deposit formed from weathering of a serpentine.",-31.5,152.88333333333
+740,oth-baux,Xiuwen,China,Guizhou,26-51N,106-35E,Occurrence,,,"Bauxites occur at bottom of lower Carboniferous strata overlying Cambrian dolomites.",26.85,106.58333333333
+741,oth-f,"Rexspar (Birch Island)",Canada,"British Columbia",,,,,,"See description under Alkaline deposits.",,
+742,oth-f,"Buffalo Fluorspar","South Africa",Transvaal,24-30S,28-30E,Occurrence,"Middle Proterozoic",,"Veins in leptite pendants of the Bushveld Granite.",-24.5,28.5
+743,oth-f,"Encantada-Buena Vista area",Mexico,Coahuila,28-30N,102-30W,"Producer of F",,,,28.5,-102.5
+744,oth-f,"Fatima area",Mexico,Coahuila,28-33N,102-31W,"Small past producer of Sr and RE?","Late Oligocene?",,,28.55,-102.51666666667
+745,oth-f,"Gallinas Mountains","United States","New Mexico",34-12N,105-44W,"Very small past producer",Permian,,"About 65 t of bas concentrate produced in the 1950's from Cu-F veins and breccia fillings probably associated with alkalic trachyte.",34.2,-105.73333333333
+746,oth-f,Naboomspruit,"South Africa",,,,"Small byproduct producer",,,,,
+747,oth-f,Snowbird,"United States",Montana,46-47N,144-47W,Occurrence,,,"Hydrothermal fluorite and quartz-bearing carbonate veins.",46.783333333333,-144.78333333333
+748,oth-pb,"Korsnas Mine",Finland,,,,"Past byproduct producer (1988)",Precambrian,"Outokumpu Oy (1988)","Vein cuts mica gneiss.",,
+749,oth-pb,M'Fouati,"Congo (Zaire)",,,,Occurrence,,,,,
+750,oth-u,"Agnew Lake",Canada,Ontario,16-22N,81-45W,,,,"Uranium deposit with associated rare earths.  65 km east of Elliot Lake.",16.366666666667,-81.75
+751,oth-u,"Bancroft-Haliburton  area",Canada,Ontario,45-30N,77-30W,,,,"Location is generalized.  Uranium deposit with associated rare earths.",45.5,-77.5
+752,oth-u,Denison,Canada,,,,"U producer; Potential  REE resource",,"Denison Mines Ltd. (1986)",,,
+753,oth-u,"Eagle Creek","United States",,64-42N,162-46W,,,,"U, Th, and REE minerals along margins of alkaline dikes.",64.7,-162.76666666667
+754,oth-u,"Mary Kathleen",Australia,Queensland,20-44S,140-01E,"Past Producer w/ reserves",Precambrian,,"Ore ran 35% all, 40% garnet, 10% apatite.  Production of uranium ceased in 1982.",-20.733333333333,140.01666666667
+755,oth-u,"McArthur River",Canada,Saskatchewan,57-45N,106-00W,Occurrence,,,"Y and HREE substitute in uraninite. Xenotime is found in Athabasca Sandstone.",57.75,-106
+756,oth-u,"Port Pirie (Radium Hill)",Australia,"South Australia",33-12S,138-00E,"Potential producer",,,"Tails from Radium Hill U mining operations which exploited veins in Precambrian gneiss and schist cut by intrusives.",-33.2,138
+757,oth-u,"Wheeler River",Canada,Alberta,,,Occurrence,,,"REE associated with sandstone U deposits.",,
+758,oth-unc,"Alto Ligonha",Mozambique,,15-45S,39-00E,,,,"Location is very approximate.",-15.75,39
+759,oth-unc,Baima,China,Guangxi/Luchuan,,,,,,,,
+760,oth-unc,Boorama,Somalia,,10-03N,43-05E,Occurrence,,,,10.05,43.083333333333
+761,oth-unc,Changling,China,Jiangxi,,,,,,,,
+762,oth-unc,Dalucao,China,Sichuan,,,,,,"In Dechang.",,
+763,oth-unc,Dongqing,China,Jilin/Antu,,,,,,,,
+764,oth-unc,Duémé,Benin,,,,,,,,,
+765,oth-unc,"Fremont Butte","United States","Wyoming/Sublette County",,,Occurrence,"Late Archean",,"Mineralization along cracks and veins; fault and shear-zone related. T32N R107W sec. 21, NW/4.",,
+766,oth-unc,Gangkou,China,Hunan/Yueyang,,,,,,,,
+767,oth-unc,Grenville,Canada,,,,,,"Soquem (1988)",,,
+768,oth-unc,"Hueyang Mine",China,Hunan,,,,,,,,
+769,oth-unc,"Jabal Ar Rabuts","Saudi Arabia",,25-35N,41-03E,Occurrence,,,,25.583333333333,41.05
+770,oth-unc,"Jabal Awja","Saudi Arabia",,25-50N,41-01E,Occurrence,,,,25.833333333333,41.016666666667
+771,oth-unc,"Jabal Ebed","Saudi Arabia",,25-57N,40-53E,Occurrence,,,,25.95,40.883333333333
+772,oth-unc,"Jabal Kuara","Saudi Arabia",,25-47N,40-55E,Occurrence,,,,25.783333333333,40.916666666667
+773,oth-unc,Kavaronge,"Congo (Zaire)",,,,,,,,,
+774,oth-unc,Kutessiask,Kyrgyzstan,,,,Producer,,,,,
+775,oth-unc,"Little Friar Mountain","United States",Virginia,37-46N,79-06W,Occurrence,Precambrian,,,37.766666666667,-79.1
+776,oth-unc,Marhuanta,Venezuela,Bolivar,7-05N,63-31W,Occurrence,Proterozoic,,"Deposit is described as disseminated, stratabound.",7.0833333333333,-63.516666666667
+777,oth-unc,Mengwang,China,Yunan/Menghai,,,,,,,,
+778,oth-unc,Moshikeng,China,Guangdong/Puning,29-55N,121-15E,,,,"Lat-long is for the town of Moshikeng.",29.916666666667,121.25
+779,oth-unc,Nanshanxia,China,Guangdong/Yangxi,,,,,,,,
+780,oth-unc,"No. 101",China,Shandong/Lingyi,,,,,,,,
+781,oth-unc,"Owella Estate (Matale)","Sri Lanka",,,,,,,"Allanite contains 15-20% REE.",,
+782,oth-unc,"Rodeo de Los Molles",Argentina,,,,Occurrence,,,"Described as a hydrothermal replacement deposit.",,
+783,oth-unc,Ryunan,China,Jiangxi,,,,,,,,
+784,oth-unc,"San Antonio",Venezuela,Bolivar,7-44-35N,63-34-30W,Occurrence,,,,7.7430555555556,-63.575
+785,oth-unc,Sanlangyan,China,Hunan/Huarong,29-39N,112-47E,,,,"Lat-long is for the town of Sanlangyan.",29.65,112.78333333333
+786,oth-unc,"Sao Sebastio da Bela Vista",Brazil,"Minas Gerais",,,Occurrence,,,,,
+787,oth-unc,Saulia,"Congo (Zaire)",,02-55S,25-45E,"Small producer  (1987)",,,"Has produced mon.",-2.9166666666667,25.75
+788,oth-unc,Shuitai,China,Guangxi/Shanglin,,,,,,,,
+789,oth-unc,Sudbury,Canada,Ontario,,,,,,"REE associated with nickel deposits.",,
+790,oth-unc,Tanmen,China,Hainan/Lingshui,,,,,,,,
+791,oth-unc,Taohualashan,China,,39-00N,101-20E,,Precambrian?,,"Marble has sedimentary characteristics.  Deposit has been classified as metasedimentary, """"marine facies volcano-sedimentary carbonatite"""", and hydrothermal origin.",39,101.33333333333
+792,oth-unc,Umgabab,"South Africa",,,,"Past small producer",,,"40 km S of Durban.",,
+793,oth-unc,Unsan,"North Korea",,,,,,,"Deposit is a gold mine.",,
+794,oth-unc,Urumqi,China,Gansu,,,,,,,,
+795,oth-unc,"Wadi el Sahrm",Egypt,,24-44N,35-01E,Occurrence,,,,24.733333333333,35.016666666667
+796,oth-unc,Wuzhou,China,Guangxi/Hexian,23-29N,111-19E,,,,,23.483333333333,111.31666666667
+797,oth-unc,Xing'an,China,,45-10N,120-30E,,Jurassic-Cretaceous,,,45.166666666667,120.5
+798,oth-unc,Xueshan,China,Guangdong/Xinfeng,,,,,,,,
+799,oth-unc,"Ytterby Mine",Sweden,"Resaro Island",59-26N,18-20E,,,,"This was the site of the discovery of many rare earths, including erbium, holmium, Sc, terbium, thulium, Y, and ytterbium.",59.433333333333,18.333333333333
