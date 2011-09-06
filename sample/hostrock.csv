@@ -1,117 +1,117 @@
-rec_id,value
-1,fenite
-1,rodbergite
-1,syenite
-1,carbonatite
+"rec_id","value"
+1,"fenite"
+1,"rodbergite"
+1,"syenite"
+1,"carbonatite"
 2,"beforsitic carbonatite"
-2,breccia
-2,fenite
+2,"breccia"
+2,"fenite"
 3,"aley carbonatite complex- carbonatite"
-4,carbonatite
+4,"carbonatite"
 5,"nepheline syenite"
-5,ijolite
-5,carbonatite
-5,phonolite
-5,pyroxenite
-5,fenite
-6,carbonatite
-6,pyroxenite
-6,gneiss
+5,"ijolite"
+5,"carbonatite"
+5,"phonolite"
+5,"pyroxenite"
+5,"fenite"
+6,"carbonatite"
+6,"pyroxenite"
+6,"gneiss"
 7,"calcite carbonatite"
-7,phoscorite
-7,fenite
+7,"phoscorite"
+7,"fenite"
 8,"carbonatite (sovitic)"
 8,"nepheline syenite"
-8,pulaskite
-9,dolomite
-9,trachyte
-9,fenite
-10,trachyte
-10,phonolite
+8,"pulaskite"
+9,"dolomite"
+9,"trachyte"
+9,"fenite"
+10,"trachyte"
+10,"phonolite"
 10,"minor syenite and nepheline syenite"
-10,carbonatite
-11,shonkonite
-11,monzonite
+10,"carbonatite"
+11,"shonkonite"
+11,"monzonite"
 11,"porphyritic potassic syenite"
-11,pyroxenite
-12,ijoite
+11,"pyroxenite"
+12,"ijoite"
 12,"ultramafic rocks"
-12,syenite
-12,carbonatite
-13,carbonatite
-13,fenite
+12,"syenite"
+12,"carbonatite"
+13,"carbonatite"
+13,"fenite"
 14,"hydrothermal carbonatite"
-15,carbonatite
-15,fenite
+15,"carbonatite"
+15,"fenite"
 16,"calcite carbonatite"
 17,"manomo carbonatite complex- silicified carbonatite"
-17,tuff
-17,agglomerate
-18,jacupirangite
-18,melteigite
-18,carbonatite
-18,stockworks
-18,limestone
-19,beforsite
-19,alvikite
+17,"tuff"
+17,"agglomerate"
+18,"jacupirangite"
+18,"melteigite"
+18,"carbonatite"
+18,"stockworks"
+18,"limestone"
+19,"beforsite"
+19,"alvikite"
 19,"carbonatite breccia"
-19,syenite
-19,pyroxenite
-20,sovite
-20,rodbergite
-20,carbonatite
-20,syenite
-20,fenite
+19,"syenite"
+19,"pyroxenite"
+20,"sovite"
+20,"rodbergite"
+20,"carbonatite"
+20,"syenite"
+20,"fenite"
 21,"carbonatite breccia"
-21,syenite
-21,ijolite
-21,fenite
-22,carbonatite
-22,syenite
+21,"syenite"
+21,"ijolite"
+21,"fenite"
+22,"carbonatite"
+22,"syenite"
 22,"nepheline syenite"
-22,gneiss
-23,pantellerite
-24,syenite
+22,"gneiss"
+23,"pantellerite"
+24,"syenite"
 24,"calcite carbonatite"
 24,"dolomite carbonatite"
 24,"ankerite carbonatite"
-24,glimmerite
+24,"glimmerite"
 24,"feldspathic breccia"
-25,carbonatite
+25,"carbonatite"
 25,"alkaline pegmatites"
 25,"nepheline syenite"
-25,gabbro
-25,pyroxenite
-26,carbonatite
+25,"gabbro"
+25,"pyroxenite"
+26,"carbonatite"
 27,"carbonate rocks"
 28,"ankerite carbonatite"
 28,"hematite-rich carbonatite"
-29,limestone
+29,"limestone"
 30,"calcite carbonatite"
-31,gabbro
-31,pyroxenite
-31,tuff
-32,carbonatite
-32,pyroxenite
-32,breccia
-33,carbonatite
-33,pyroxenite
-33,ijolite
+31,"gabbro"
+31,"pyroxenite"
+31,"tuff"
+32,"carbonatite"
+32,"pyroxenite"
+32,"breccia"
+33,"carbonatite"
+33,"pyroxenite"
+33,"ijolite"
 34,"sovite and beforsite (some metamorphosed)"
 34,"volcanic breccia"
-34,tuff
-35,peridotite
+34,"tuff"
+35,"peridotite"
 35,"intrusive breccia"
-36,carbonatite
-36,ijolite
+36,"carbonatite"
+36,"ijolite"
 36,"nepheline syenite"
-36,pyroxenite
-36,melasyenite
-36,fenite
+36,"pyroxenite"
+36,"melasyenite"
+36,"fenite"
 37,"tinguaite dikes"
-38,carbonatite
-38,syenite
-38,foyaite
+38,"carbonatite"
+38,"syenite"
+38,"foyaite"
 38,"iron ore"
 39,"magnetite-carbonate rock"
 39,"apatite-magnetite rock"
@@ -119,296 +119,296 @@ rec_id,value
 41,"metasomatic carbonate"
 41,"nepheline syenite"
 41,"peralkaline syenite"
-42,carbonatite
-42,tuff
-42,agglomerate
-42,phonolite
-43,syenite
+42,"carbonatite"
+42,"tuff"
+42,"agglomerate"
+42,"phonolite"
+43,"syenite"
 43,"minor carbonatite"
-44,phonolite
-44,trachyte
+44,"phonolite"
+44,"trachyte"
 44,"and alkaline pyroclastic rocks"
-45,phoscorite
-45,nephelinite
-45,melteigite
-45,olivinite
-45,jacupiranite
-45,syenite
-45,glimmerite
-46,carbonatite
-46,pyroxenite
-46,olivinite
-46,ijolite
-47,carbonatite
+45,"phoscorite"
+45,"nephelinite"
+45,"melteigite"
+45,"olivinite"
+45,"jacupiranite"
+45,"syenite"
+45,"glimmerite"
+46,"carbonatite"
+46,"pyroxenite"
+46,"olivinite"
+46,"ijolite"
+47,"carbonatite"
 47,"nepheline syenite"
-48,ijolite
-48,melteigite
+48,"ijolite"
+48,"melteigite"
 48,"nepheline syenite"
-48,carbonatite
+48,"carbonatite"
 49,"dolomite carbonatite"
 49,"feldspathic breccias"
 50,"nepheline syenite"
-50,ijolite
+50,"ijolite"
 50,"carbonatite dikes"
 51,"calcite carbonatite"
-51,syenite
-51,trachyphonolite
-52,carbonatite
-53,beforsite
-53,sovite
-53,syenite
+51,"syenite"
+51,"trachyphonolite"
+52,"carbonatite"
+53,"beforsite"
+53,"sovite"
+53,"syenite"
 53,"nepheline syenite"
-53,fenite
-53,granite
-54,schist
+53,"fenite"
+53,"granite"
+54,"schist"
 54,"nepheline syenite"
-55,ijolite
+55,"ijolite"
 55,"nepheline syenite"
-55,carbonatite
-55,phonolite
-57,syenite
-57,carbonatite
+55,"carbonatite"
+55,"phonolite"
+57,"syenite"
+57,"carbonatite"
 58,"calcite carbonatite"
 58,"nepheline syenite"
-58,fenite
-59,carbonatite
+58,"fenite"
+59,"carbonatite"
 60,"magnetite-apatite rock"
 60,"potassic alkaline volcanic rocks"
-60,carbonatite
-60,melanephelinite
-60,melaleucitite
-62,carbonatite
+60,"carbonatite"
+60,"melanephelinite"
+60,"melaleucitite"
+62,"carbonatite"
 62,"alkaline intrusive"
-62,tuffisite
+62,"tuffisite"
 62,"ultrabasic rock"
-63,carbonatite
-63,breccia
-64,carbonatite
-64,syenite
-64,urtite-melteigite-jacupirangite
+63,"carbonatite"
+63,"breccia"
+64,"carbonatite"
+64,"syenite"
+64,"urtite-melteigite-jacupirangite"
 65,"magnesian carbonatite"
-65,rauhaugite
-65,breccia
-66,carbonatite
-67,sovite
-67,beforsite
+65,"rauhaugite"
+65,"breccia"
+66,"carbonatite"
+67,"sovite"
+67,"beforsite"
 67,"pyroxene fenite"
-67,syenite
-67,tinguaite
+67,"syenite"
+67,"tinguaite"
 68,"carbonatite dikes"
-69,carbonatite
-69,agglomerate
+69,"carbonatite"
+69,"agglomerate"
 69,"carbonatite agglomerate"
-70,carbonatite
+70,"carbonatite"
 70,"iron deposits"
-70,nephelinite
-70,pyroxenite
-70,syenite
-70,foyaite
+70,"nephelinite"
+70,"pyroxenite"
+70,"syenite"
+70,"foyaite"
 70,"aegirine fenite"
-71,beforsite
-71,sovite
-71,breccia
-71,syenite
+71,"beforsite"
+71,"sovite"
+71,"breccia"
+71,"syenite"
 72,"weathered pyroxenite"
-72,carbonatite
-72,phoskorite
-73,carbonatite
-73,gneiss
-73,fenite
+72,"carbonatite"
+72,"phoskorite"
+73,"carbonatite"
+73,"gneiss"
+73,"fenite"
 74,"carbonate veins and dikes"
 74,"metamorphic rocks"
-75,dolostone
+75,"dolostone"
 75,"limestone; lesser shale"
-75,sandstone
-76,syenite
+75,"sandstone"
+76,"syenite"
 76,"nepheline syenite"
-76,pyroxenite
-76,trachyte
-76,carbonatite
+76,"pyroxenite"
+76,"trachyte"
+76,"carbonatite"
 77,"lamprophyre and phonolite dikes"
-77,graywacke
-78,glimmerite
+77,"graywacke"
+78,"glimmerite"
 78,"carbonatized intrusions"
-79,carbonatite
-79,fenite
+79,"carbonatite"
+79,"fenite"
 80,"carbonatite (rauhaugite and sovite); fenite"
 81,"carbonatite dikes"
 82,"carbonatite; glimmerite"
 82,"syenite; diabase; fenite; dioritic dykes"
-83,carbonatite
+83,"carbonatite"
 83,"carbonatitic breccia"
-83,agglomerate
-84,carbonatite
+83,"agglomerate"
+84,"carbonatite"
 84,"k-feldspar rock"
-86,granite
-86,fenite
+86,"granite"
+86,"fenite"
 86,"carbonate veins"
-87,carbonatite
-87,syenite
+87,"carbonatite"
+87,"syenite"
 87,"nepheline syenite"
-87,ijolite
+87,"ijolite"
 88,"alkaline intrusions"
-88,carbonatites
-88,ultramafics
-89,carbonatite
+88,"carbonatites"
+88,"ultramafics"
+89,"carbonatite"
 89,"nepheline syenite"
-89,breccia
+89,"breccia"
 90,"biotite-calcite marble"
 90,"calcite-biotite schist"
-91,carbonatite
-91,ijolite
-91,melteigite
-91,olivinite
+91,"carbonatite"
+91,"ijolite"
+91,"melteigite"
+91,"olivinite"
 93,"carbonatite; nepheline syenite"
-93,ijolite
-93,agglomerate
+93,"ijolite"
+93,"agglomerate"
 94,"extrusive silicic calcite carbonatite lapilli"
 95,"dolomitic carbonatite"
 96,"ankerite carbonatite"
 96,"calcite carbonatite"
-96,urtite-melteigite-jacupirangite
+96,"urtite-melteigite-jacupirangite"
 97,"potassic carbonatite"
-97,fenite
-98,carbonatite
+97,"fenite"
+98,"carbonatite"
 98,"nepheline syenite"
-98,fenite
-99,carbonatite
-99,pyroxenite
-99,ijolite
-99,melteigite
-100,carbonatite
-100,syenite
-100,gabbro
-100,pyroxenite
-101,syenite
+98,"fenite"
+99,"carbonatite"
+99,"pyroxenite"
+99,"ijolite"
+99,"melteigite"
+100,"carbonatite"
+100,"syenite"
+100,"gabbro"
+100,"pyroxenite"
+101,"syenite"
 101,"quartz syenite"
 101,"aegirine-qugite syenite"
 102,"beforsite dikes"
-102,fenite
+102,"fenite"
 104,"alkaline rocks"
 104,"carbonatite dikes"
 105,"marble (carbonatite)"
 105,"amphibole schist"
 106,"dolomitic marble (carbonatite)"
-106,tuff
-107,monazite
+106,"tuff"
+107,"monazite"
 107,"nepheline syenite"
 107,"aegirine-augite syenite"
 107,"carbonatite dikes"
-109,ijolite
+109,"ijolite"
 109,"peralkaline syenite"
-109,pyroxenite
+109,"pyroxenite"
 109,"nepheline syenite"
-109,glimmerite
+109,"glimmerite"
 109,"weathered carbonatite"
-110,beforsite
-110,glimmerite
-110,sovite
+110,"beforsite"
+110,"glimmerite"
+110,"sovite"
 110,"some pyroxenite"
-111,carbonatite
+111,"carbonatite"
 111,"nepheline syenite"
-111,fenite
-112,carbonatite
-112,agglomerate
-112,ijolite
-112,melteigite
+111,"fenite"
+112,"carbonatite"
+112,"agglomerate"
+112,"ijolite"
+112,"melteigite"
 112,"nepheline syenite"
 113,"carbonatite tuff"
-113,fenite
-114,carbonatite
+113,"fenite"
+114,"carbonatite"
 114,"carbonatitic breccia"
-114,ijolite
-114,monchiquite
-114,silexite
-114,fenite
+114,"ijolite"
+114,"monchiquite"
+114,"silexite"
+114,"fenite"
 115,"cargill alkaline complex- calcite and dolomite carbonatite"
-115,pyroxenite
+115,"pyroxenite"
 115,"leached carbonatite"
-115,residium
-116,carbonatite
-116,pyroxenite
+115,"residium"
+116,"carbonatite"
+116,"pyroxenite"
 116,"serpentinized peridotite"
-116,glimmerite
-117,sovite
-117,phoscorite
-117,glimmerite
-118,laterite
-118,carbonatite
-118,fenite
-119,carbonatite
-119,sovite
-119,breccia
-120,carbonatite
+116,"glimmerite"
+117,"sovite"
+117,"phoscorite"
+117,"glimmerite"
+118,"laterite"
+118,"carbonatite"
+118,"fenite"
+119,"carbonatite"
+119,"sovite"
+119,"breccia"
+120,"carbonatite"
 123,"dolomitic carbonatite"
-123,fenite
+123,"fenite"
 124,"carbonatite dikes cut precambrian dolomite"
 125,"metasedimentary rocks"
-125,gneiss
-125,granite
-126,carbonatite
-127,carbonatite
+125,"gneiss"
+125,"granite"
+126,"carbonatite"
+127,"carbonatite"
 127,"weathered carbonatite"
-127,syenite
-128,ijolite
-128,melteigite
-128,jacupirangite
-128,pyroxenite
-128,syenite
-128,trachyte
-128,carbonatite
-129,laterite
+127,"syenite"
+128,"ijolite"
+128,"melteigite"
+128,"jacupirangite"
+128,"pyroxenite"
+128,"syenite"
+128,"trachyte"
+128,"carbonatite"
+129,"laterite"
 129,"ultrabasic alkaline intrusives with probable carbonatite"
 130,"probably alkaline-ultrabasic intrusions"
 131,"carbonatite; ultrabasic kimberlites and porphyry diatreme breccias"
 132,"nepheline syenite"
 132,"weathered carbonatite"
-133,beforsite
-133,sovite
-133,agglomerate
-133,tufff
-133,fenite
+133,"beforsite"
+133,"sovite"
+133,"agglomerate"
+133,"tufff"
+133,"fenite"
 134,"weathered carbonatite"
-135,carbonatite
-136,sovite
-136,lamprophyre
-136,agglomerate
-136,fenite
-137,carbonatite
-137,okaite
-137,melteigite
-137,urtite
-137,alnoite
-138,carbonatite
+135,"carbonatite"
+136,"sovite"
+136,"lamprophyre"
+136,"agglomerate"
+136,"fenite"
+137,"carbonatite"
+137,"okaite"
+137,"melteigite"
+137,"urtite"
+137,"alnoite"
+138,"carbonatite"
 138,"carbonatite agglomerate"
 138,"nepheline syenite"
 138,"phonolite plugs"
 139,"dolomitic carbonatite"
 139,"calcite carbonatite"
-139,ijolite
-139,melteigite
-140,gneis
-140,pyroxenites
-140,phoscorite
+139,"ijolite"
+139,"melteigite"
+140,"gneis"
+140,"pyroxenites"
+140,"phoscorite"
 141,"weathered carbonatite"
-141,peridotite
-141,dunite
-141,shonkinite
-141,jacupirangite
-142,carbonatite
+141,"peridotite"
+141,"dunite"
+141,"shonkinite"
+141,"jacupirangite"
+142,"carbonatite"
 142,"weathered carbonatite"
 143,"carbonatite (solvite"
 143,"dolomitic carbonatite"
 143,"ankeritic carbonatite); tinguaitie dykes; fenite-breccia"
 144,"weathered pyroxenite"
-144,syenite
-144,sovite
-144,silexite
-144,jacupirangite
-145,carbonatite
-145,syenite
+144,"syenite"
+144,"sovite"
+144,"silexite"
+144,"jacupirangite"
+145,"carbonatite"
+145,"syenite"
 145,"nepheline syenite"
-145,ijolite
+145,"ijolite"
 146,"weathered carbonatite"
 146,"dolomite and calcite carbonatite"
 146,"nepheline syenite"
@@ -417,228 +417,228 @@ rec_id,value
 148,"weathered dolomitic carbonatite"
 149,"mica schist and gneisses intruded by alkaline granite and syenite."
 150,"peralkaline syenite"
-150,granosyenite
+150,"granosyenite"
 150,"nepheline syenite"
-151,syenite
-151,breccia
+151,"syenite"
+151,"breccia"
 152,"nepheline syenite dikes"
 153,"nepheline syenite"
-153,phonolite
-153,nordmarkite
-153,theralite
+153,"phonolite"
+153,"nordmarkite"
+153,"theralite"
 154,"fenitized peralkaline arfvedsonite-aegirine granite and associated agpaitic pegmatites"
 155,"alkali metagabbro"
-155,ijolite
-155,melteigite
-155,pyroxenite
+155,"ijolite"
+155,"melteigite"
+155,"pyroxenite"
 155,"nepheline syenite"
-155,foyaite
-155,laterite
+155,"foyaite"
+155,"laterite"
 156,"alkaline pyroxenites"
-156,jacupirangite
+156,"jacupirangite"
 157,"alkalic riebeckite granite"
 158,"plagioclase-apatite-clinopyroxene rock; clinopyroxene-bearing syenite; monzonite; mangerite; pelitic"
 158,"quartzitic and calcsilicate gneiss and granulite; mafic to ultramafic igneous rocks"
 160,"peralkaline riebeckite  and aegirine granites"
-160,syenite
+160,"syenite"
 160,"granite porphyry"
 161,"pantellerite volcanic rocks"
-161,comendite
+161,"comendite"
 161,"nepheline syenite"
 162,"k-altered biotite granite"
 163,"rhyolite tuff"
 163,"peralkaline granite"
 164,"peralkaline leucosyenite (oligoclasite)"
 164,"nepheline syenite"
-165,pulaskite
+165,"pulaskite"
 165,"peralkaline syenite"
-165,foyaite
+165,"foyaite"
 165,"nepheline syenite"
 166,"quartz monzonite"
 167,"velasco alkaline complex- nordmarkite"
 167,"melansyenite dike"
-168,syenite
+168,"syenite"
 169,"alkaline granite"
-169,syenite
+169,"syenite"
 169,"quartz syenite"
 169,"nepheline syenite"
-169,sandstone
+169,"sandstone"
 170,"alkalic riebeckite granite"
 171,"pegmatites in amphibole syenite"
 171,"nepheline syenite"
-171,gabbro
+171,"gabbro"
 171,"basic volcanics"
 172,"nepheline syenite"
-172,phonolite
-173,syenite
-173,granite
+172,"phonolite"
+173,"syenite"
+173,"granite"
 173,"peralkaline syenite"
-173,granosyenite
+173,"granosyenite"
 173,"peralkaline granite"
 173,"garnet-nepheline syenite"
-174,syenite
+174,"syenite"
 174,"quartz syenite"
-175,peralkaline
+175,"peralkaline"
 175,"agpaitic nepheline syenite complex"
 176,"syenite complex"
 177,"alkaline and peralkaline syenites"
 178,"nepheline syenite"
-178,gabbro
-178,pyroxenite
+178,"gabbro"
+178,"pyroxenite"
 179,"subalkaline ultramafic complex; pyroxene syenite"
-179,pyroxenite
-179,syenite
+179,"pyroxenite"
+179,"syenite"
 180,"peralkaline granite"
-181,peridotite
-181,dunite
-181,ijolite
-181,melilitolite
-181,volcanics
-182,microgranite
+181,"peridotite"
+181,"dunite"
+181,"ijolite"
+181,"melilitolite"
+181,"volcanics"
+182,"microgranite"
 183,"peralkaline granite"
-183,ijolite
-183,syenite
-183,urtite
-183,gabbro
+183,"ijolite"
+183,"syenite"
+183,"urtite"
+183,"gabbro"
 184,"alkaline igneous rocks"
 185,"pantellerite volcanic rocks"
-185,comendite
+185,"comendite"
 185,"nepheline syenite"
 186,"peralkaline syenites- pulaskite"
-186,goyaite
+186,"goyaite"
 186,"naujaite; syenite"
 186,"nepheline syenite"
 187,"agpaitic nepheline syenite; arfvedsonite lujavrite"
-187,pulaskite
-187,foyaite
+187,"pulaskite"
+187,"foyaite"
 188,"nepheline syenite"
 188,"aegirine syenite"
 189,"peralkaline rocks"
-190,syenite
-190,phonolite
-190,trachyte
+190,"syenite"
+190,"phonolite"
+190,"trachyte"
 191,"silexite plug"
 192,"alkaline rocks"
-192,aplite-pegmatite
+192,"aplite-pegmatite"
 193,"leucocratic microgranite-microsyenite-albitite sill"
-194,pyroxenite
-194,jacupirangite
-194,ijolite
+194,"pyroxenite"
+194,"jacupirangite"
+194,"ijolite"
 194,"nepheline syenite"
-194,fenite
+194,"fenite"
 195,"riebeckite or arfvedsonite granite"
 196,"nepheline syenite"
-196,foyaite
-197,syenite
+196,"foyaite"
+197,"syenite"
 198,"alkaline syenite"
 198,"nepheline syenite"
 199,"lepidomelane syenite"
 199,"liebenerite syenite"
 199,"nepheline syenite"
 200,"peralkaline granite"
-200,gabbro
-200,basalt
+200,"gabbro"
+200,"basalt"
 200,"pantellerite dikes"
-200,syenite
+200,"syenite"
 201,"peralkaline granite"
-201,syenite
-201,pegmatites
+201,"syenite"
+201,"pegmatites"
 202,"alkaline metasomites-- foyaite"
 202,"nepheline syenite"
-202,ijolite
-202,rischorrite
-202,urtite
-202,pegmatites
-202,carbonatite?
+202,"ijolite"
+202,"rischorrite"
+202,"urtite"
+202,"pegmatites"
+202,"carbonatite?"
 203,"peralkaline quartz syenite"
 203,"amphibole schist"
 204,"jacupirangite dike"
 205,"alkaline pegmatite in dunite"
-205,olivinite
-205,clinopyroxenite
-206,foyaite
-206,pulaskite
-206,essexite
-206,granite
+205,"olivinite"
+205,"clinopyroxenite"
+206,"foyaite"
+206,"pulaskite"
+206,"essexite"
+206,"granite"
 206,"peralkaline syenite"
-207,monzosyenite
-207,syenite
+207,"monzosyenite"
+207,"syenite"
 207,"rapakivi granite"
-207,gabbro
-207,granite
+207,"gabbro"
+207,"granite"
 208,"apatite-forsterite rocks; ultrabasic rocks (pyroxenite"
 208,"pyroxene-olivine rock"
 208,"and olivinite); ijolite; melteigite; nepheline-pyroxenite"
 209,"alkaline gneiss"
-210,syenite
-211,granophyre
-211,dikes
+210,"syenite"
+211,"granophyre"
+211,"dikes"
 212,"alkaline syenite"
 212,"nepheline syenite"
-212,leucosyenite
+212,"leucosyenite"
 213,"nepheline syenite"
-213,ijolite
-213,malignite
-213,syenite
+213,"ijolite"
+213,"malignite"
+213,"syenite"
 214,"nepheline syenite pegmatites in monzonite (larvikite)"
-215,syenite
+215,"syenite"
 215,"magnetite-ilmenite bodies"
 216,"aegirine-arfvedsonite granite"
 216,"lepidomelane granite"
 217,"peralkaline volcano-plutonic complex"
 218,"peralkaline nepheline syenite"
-219,lujavrite
-219,foyaite
-219,urtite
-219,syenite
+219,"lujavrite"
+219,"foyaite"
+219,"urtite"
+219,"syenite"
 219,"nepheline syenite; min also in alkaline pegmatites and hydrothermal veins"
 220,"nepheline syenite"
-221,syenites
-221,foyaite
+221,"syenites"
+221,"foyaite"
 222,"quartz syenite"
-222,nordmarkite
-223,syenite
+222,"nordmarkite"
+223,"syenite"
 223,"nepheline syenite"
 224,"aegirine alkaline granite"
 225,"albitite in nepheline syenite massif"
-226,syenite
+226,"syenite"
 226,"nepheline syenite"
-226,pyroxenite
-227,breccias
+226,"pyroxenite"
+227,"breccias"
 227,"nepheline syenite"
 227,"nepheline diorite and monzonite"
-227,gabbro
+227,"gabbro"
 228,"nepheline syenite"
-229,fenite
+229,"fenite"
 229,"nepheline syenite"
-230,carbonatite
+230,"carbonatite"
 230,"syenite breccia"
 230,"pyroxenitic fenite"
-230,malignite
-230,jacupirangite
+230,"malignite"
+230,"jacupirangite"
 231,"peralkaline syenite"
-232,phonolite
+232,"phonolite"
 232,"nepheline syenite"
-232,syenite
-232,perthite
-233,syenite
-233,melasyenite
+232,"syenite"
+232,"perthite"
+233,"syenite"
+233,"melasyenite"
 233,"quartz syenite"
-234,foyaite
-234,syenite
-234,tinguaite
+234,"foyaite"
+234,"syenite"
+234,"tinguaite"
 235,"highly weathered lujavrite and khibinite"
 235,"nepheline syenite"
 235,"phonolite; bauxite"
 237,"alkalic pegmatite"
-238,syenite
-238,gneiss
+238,"syenite"
+238,"gneiss"
 239,"alkalic volcanics"
 240,"fengcheng alkaline complex-- syenite"
 240,"nepheline syenite"
-240,phonolite
+240,"phonolite"
 241,"nepheline syenite"
-241,syenite
+241,"syenite"
 242,"apatite rock"
 242,"syenite porphyry"
 243,"syenite of red wine complex"
@@ -646,142 +646,142 @@ rec_id,value
 245,"peralkaline syenite"
 245,"nepheline syenite"
 246,"nepheline syenite"
-246,ijolite
-246,urtite
-246,juvite
-246,gabbro
-246,diorite
-247,syenite
-248,ijolite
-248,foyaite
-248,syenite
-249,nordmarkite
+246,"ijolite"
+246,"urtite"
+246,"juvite"
+246,"gabbro"
+246,"diorite"
+247,"syenite"
+248,"ijolite"
+248,"foyaite"
+248,"syenite"
+249,"nordmarkite"
 249,"peralkaline granite"
 250,"pegmatite in peralkaline granite"
 251,"agpaitic nepheline syenite complex"
-251,trachyte
-251,phonolite
-252,syenite
+251,"trachyte"
+251,"phonolite"
+252,"syenite"
 252,"brecciated syenite"
 253,"nepheline syenite"
-253,pulaskite
-253,shonkinite
+253,"pulaskite"
+253,"shonkinite"
 254,"nepheline syenite"
 254,"pseudoleucite prophyry"
 255,"peralkaline syenite"
-255,gabbro
-255,granite
+255,"gabbro"
+255,"granite"
 256,"peralkaline granite"
 257,"peralkaline granite"
-257,syenite
-258,syenite
-258,larvikite
-258,pulaskite
+257,"syenite"
+258,"syenite"
+258,"larvikite"
+258,"pulaskite"
 259,"altered trachytic intrusive"
 260,"peralkaline granite"
-260,syenite
-260,gabbro
+260,"syenite"
+260,"gabbro"
 260,"comenditic flows and peralkaline ignimbrites"
 261,"alkaline granites and pegmatites"
 262,"albitized alkaline syenite"
 263,"alkalic granitic stock"
 264,"microgranite stock"
 265,"alkaline volcanics"
-265,subvolcanics
+265,"subvolcanics"
 266,"peralkaline gneiss"
-267,granosyenite
+267,"granosyenite"
 267,"quartz syenite"
 267,"alkaline granite"
-267,silexite
+267,"silexite"
 268,"peralkaline porphyritic granite"
-270,syenite
-270,foyaite
+270,"syenite"
+270,"foyaite"
 271,"alkalic pegmatite"
 272,"magnetite-hematite vein in gneiss"
 273,"olympic dam breccia complex- granite breccia"
 274,"breccia pipes assoc. with granite and syenite"
 275,"metamorphic rocks"
-276,pegmatite
-281,granite
-283,quartzite
-285,granite
-285,granodiorite
-285,limestone
-286,quartzite
+276,"pegmatite"
+281,"granite"
+283,"quartzite"
+285,"granite"
+285,"granodiorite"
+285,"limestone"
+286,"quartzite"
 287,"alkali granite"
-290,granodiorite
-291,pegmatite
+290,"granodiorite"
+291,"pegmatite"
 294,"zoned granite pegmatite"
 296,"aplitic granite"
-296,syenite
+296,"syenite"
 296,"alkali granite"
-296,granophyre
+296,"granophyre"
 298,"granitic gneiss"
-301,meta-gabbro
-301,amphibolite
+301,"meta-gabbro"
+301,"amphibolite"
 302,"pegmatites in schist"
-302,quartzite
+302,"quartzite"
 304,"amazonite pegmatites in contact zone of metasomatically altered granite"
 307,"pikes peak batholith- quartz monzonite"
 310,"sherman granite"
-312,andesite
-312,dacite
-312,tuff
-312,granite
-312,alaskite
-312,adamellite
-313,granite
+312,"andesite"
+312,"dacite"
+312,"tuff"
+312,"granite"
+312,"alaskite"
+312,"adamellite"
+313,"granite"
 323,"weathered granite"
 330,"weathered syenite"
 331,"weathered granite"
-333,schist
+333,"schist"
 336,"silicic metaschist"
-337,marble
+337,"marble"
 337,"biotite schist"
-337,gneiss
-338,skarn
-339,quartzite
-339,phyllite
-339,gneiss
-339,schist
+337,"gneiss"
+338,"skarn"
+339,"quartzite"
+339,"phyllite"
+339,"gneiss"
+339,"schist"
 340,"mica schist"
-340,marble
-341,quartzite
-341,schist
+340,"marble"
+341,"quartzite"
+341,"schist"
 341,"calcareous rock"
-342,gneiss
-343,limestone
-343,marble
-343,schist
+342,"gneiss"
+343,"limestone"
+343,"marble"
+343,"schist"
 344,"basic volcanics"
 345,"carbonate rocks"
-345,gneiss
-345,schist
+345,"gneiss"
+345,"schist"
 346,"migmatized gneiss"
-347,gneiss
-348,migmatite
+347,"gneiss"
+348,"migmatite"
 349,"dune sand"
 350,"beach sands"
 351,"dune and beach sand"
 355,"grupo barreiras and younger sediments"
 358,"grupo barreiras sand"
-360,sand
+360,"sand"
 364,"beach sand"
 366,"sand of nine mile fm"
 370,"coastal plain sands"
 374,"black sands"
 376,"beach sand"
-378,sand
-379,sediments
+378,"sand"
+379,"sediments"
 380,"dune sand"
 383,"dune and beach sand"
 384,"beach and dune sand"
-386,sand
-387,sand
+386,"sand"
+387,"sand"
 390,"dune sand"
 391,"dune sand"
 392,"dune sand"
-394,marine
+394,"marine"
 394,"dune sands"
 395,"beach sand"
 397,"beach sand"
@@ -791,32 +791,32 @@ rec_id,value
 406,"dune and beach sand"
 407,"sand of bassendean sand"
 407,"yoganup fm"
-408,sand
+408,"sand"
 409,"beach sand"
 410,"beach sand"
-411,sand
+411,"sand"
 414,"dune sand"
 425,"beach sand"
 434,"beach and dune sand"
 436,"beach sand"
-439,sand
+439,"sand"
 440,"sediments of grupo barreiras and younger units"
 445,"beach and dune sand"
-450,sand
+450,"sand"
 451,"dune and bech sand"
 462,"grupo barreiras and younger sediments"
 470,"beach and dune sand."
 473,"sand of the mcnairy fm"
 486,"dune sand"
-493,sediments
-495,sand
+493,"sediments"
+495,"sand"
 497,"beach and dune sand"
 503,"beach and dune sand"
-505,sand
-506,sand
+505,"sand"
+506,"sand"
 511,"sand of the mcnairy fm"
 514,"dune and beach sand"
-517,sand
+517,"sand"
 518,"mcnairy sand-- shoreline-complex sand"
 520,"beach and dune sand"
 523,"dune sand"
@@ -843,37 +843,37 @@ rec_id,value
 599,"dune and beach sand"
 609,"sand and clay of yoganup fm"
 610,"sand and clay of yoganup fm"
-613,sand
+613,"sand"
 618,"sandstone and conglomerate of the wind river and white river fmts"
 618,"recent placers"
 619,"fluvial sands"
-619,gravel
+619,"gravel"
 622,"fluvial sands"
-624,alluvium
-627,alluvial
+624,"alluvium"
+627,"alluvial"
 627,"colluvial sediments"
 629,"stream sediments"
 630,"stream and bench sediments"
 632,"fluvial sand"
-633,aluvium
+633,"aluvium"
 634,"fluvial sand"
 634,"tuscaloosa fmt sediments"
-646,alluvium
+646,"alluvium"
 648,"stream sediments"
 659,"river sand"
 662,"sand of the mcnairy fm"
-667,alluvium
-668,sand
+667,"alluvium"
+668,"sand"
 669,"fluvial sand"
 674,"fluvial sand"
-675,sand
+675,"sand"
 682,"alluvial sand"
 683,"black sands in alluvial and terrace material"
 686,"river sand"
 701,"arenaceous sedimentary rock"
-705,gneiss
-706,quartzite
-707,conglomerate
+705,"gneiss"
+706,"quartzite"
+707,"conglomerate"
 708,"quartz-pebble conglomerate"
 709,"quartz-pebble conglomerate"
 710,"quartz-pebble conglomerate"
@@ -881,59 +881,59 @@ rec_id,value
 712,"athabasca group sandstone"
 713,"mcnairy  formation- sand"
 714,"magnolia formation- conglomerate"
-714,quartzite
+714,"quartzite"
 715,"athabasca group sandstone"
-716,conglomerate
+716,"conglomerate"
 717,"athabasca group sandstone"
 718,"duwi (phosphate) formation"
-719,mudstone
+719,"mudstone"
 720,"limestone; clay; red sandstones"
-721,mudstone
-722,mudstone
-723,mudstone
-725,mudstone
-726,mudstone
-727,mudstone
+721,"mudstone"
+722,"mudstone"
+723,"mudstone"
+725,"mudstone"
+726,"mudstone"
+727,"mudstone"
 728,"phosphate rock"
-729,mudstone
-730,mudstone
-731,mudstone
-733,mudstone
+729,"mudstone"
+730,"mudstone"
+731,"mudstone"
+733,"mudstone"
 734,"phosphatic shale"
-734,shale
-734,limestone
-735,mudstone
-736,mudstone
+734,"shale"
+734,"limestone"
+735,"mudstone"
+736,"mudstone"
 737,"black shale"
-737,phosphorite
+737,"phosphorite"
 737,"siliceous sediments"
-737,carbonate
+737,"carbonate"
 738,"phosphate rock"
-739,laterite
-740,bauxite
-742,granite
-743,limestone
-743,shale
+739,"laterite"
+740,"bauxite"
+742,"granite"
+743,"limestone"
+743,"shale"
 744,"limestone with associated rhyolite porphyry"
-745,sandstone
-748,gneiss
-748,skarn
+745,"sandstone"
+748,"gneiss"
+748,"skarn"
 751,"alkaline syenite"
 751,"mafic alkaline rocks"
 751,"alkaline granite"
 753,"pulaskite dikes in cretaceous granitic pluton"
-753,marble
+753,"marble"
 753,"and schist"
-754,skarn
+754,"skarn"
 754,"calc-silicate metasediments"
-754,granite
+754,"granite"
 756,"uranium tails"
-757,sandstone
-765,granitoid
+757,"sandstone"
+765,"granitoid"
 775,"hypersthene granite"
-782,granite
-791,marble
+782,"granite"
+791,"marble"
 791,"calcite biotite schist"
 791,"dolomitic marble"
 797,"alkaline granite; hornfels"
-797,tuff
+797,"tuff"
